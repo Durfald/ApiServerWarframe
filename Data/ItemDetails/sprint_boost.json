@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e5155c8",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155c8",
+      "url_name": "sprint_boost",
+      "icon": "items/images/en/sprint_boost.8474e070e14952636fcf1a5f8f084bd0.png",
+      "thumb": "items/images/en/thumbs/sprint_boost.8474e070e14952636fcf1a5f8f084bd0.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

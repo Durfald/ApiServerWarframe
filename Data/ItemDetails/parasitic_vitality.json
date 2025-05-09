@@ -1,0 +1,21 @@
+{
+  "id": "6604a680dbdd5c1673781dbb",
+  "items_in_set": [
+    {
+      "id": "6604a680dbdd5c1673781dbb",
+      "url_name": "parasitic_vitality",
+      "icon": "items/images/en/parasitic_vitality.6aba69113d42dd27bcfee1981bd734e5.png",
+      "thumb": "items/images/en/thumbs/parasitic_vitality.6aba69113d42dd27bcfee1981bd734e5.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "nidus"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

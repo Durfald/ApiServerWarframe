@@ -1,0 +1,19 @@
+{
+  "id": "626a197bf40db600660a1d88",
+  "items_in_set": [
+    {
+      "id": "626a197bf40db600660a1d88",
+      "url_name": "emergence_savior",
+      "icon": "items/images/en/emergence_savior.d3cab5acf5703d92987d92188478d65d.png",
+      "thumb": "items/images/en/thumbs/emergence_savior.d3cab5acf5703d92987d92188478d65d.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

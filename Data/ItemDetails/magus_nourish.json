@@ -1,0 +1,19 @@
+{
+  "id": "5a0475096c4655012038ddc4",
+  "items_in_set": [
+    {
+      "id": "5a0475096c4655012038ddc4",
+      "url_name": "magus_nourish",
+      "icon": "items/images/en/magus_nourish.a33f07304a72500072d20d13258e119b.png",
+      "thumb": "items/images/en/thumbs/magus_nourish.a33f07304a72500072d20d13258e119b.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

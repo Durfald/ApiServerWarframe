@@ -1,0 +1,21 @@
+{
+  "id": "64c2aa1566456704eba6ba3d",
+  "items_in_set": [
+    {
+      "id": "64c2aa1566456704eba6ba3d",
+      "url_name": "intrepid_stand",
+      "icon": "items/images/en/intrepid_stand.a6678ae3974e7ce5e582d431356bcfac.png",
+      "thumb": "items/images/en/thumbs/intrepid_stand.a6678ae3974e7ce5e582d431356bcfac.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "styanax"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

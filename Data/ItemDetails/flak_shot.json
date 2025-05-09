@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a4d6",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a4d6",
+      "url_name": "flak_shot",
+      "icon": "items/images/en/flak_shot.be4117525d415460b856b5c75c0582c2.png",
+      "thumb": "items/images/en/thumbs/flak_shot.be4117525d415460b856b5c75c0582c2.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "primary",
+        "uncommon",
+        "pvp",
+        "shotgun",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

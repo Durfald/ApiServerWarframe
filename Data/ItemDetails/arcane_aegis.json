@@ -1,0 +1,19 @@
+{
+  "id": "566750375dcbc186f0536bce",
+  "items_in_set": [
+    {
+      "id": "566750375dcbc186f0536bce",
+      "url_name": "arcane_aegis",
+      "icon": "items/images/en/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.png",
+      "thumb": "items/images/en/thumbs/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "arcane_enhancement",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

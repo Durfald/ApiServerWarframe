@@ -1,0 +1,22 @@
+{
+  "id": "667ebc4259acb6bf03ebc329",
+  "items_in_set": [
+    {
+      "id": "667ebc4259acb6bf03ebc329",
+      "url_name": "primed_dual_rounds",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "primary",
+        "mod",
+        "legendary",
+        "archwing",
+        "archgun"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

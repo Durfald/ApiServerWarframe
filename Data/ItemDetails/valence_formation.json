@@ -1,0 +1,21 @@
+{
+  "id": "6604a6e6dbdd5c1673781dc5",
+  "items_in_set": [
+    {
+      "id": "6604a6e6dbdd5c1673781dc5",
+      "url_name": "valence_formation",
+      "icon": "items/images/en/valence_formation.ebdf9672f4fecc7f83d193e48cc475eb.png",
+      "thumb": "items/images/en/thumbs/valence_formation.ebdf9672f4fecc7f83d193e48cc475eb.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "lavos"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "64c3a3a26645670594f57a60",
+  "items_in_set": [
+    {
+      "id": "64c3a3a26645670594f57a60",
+      "url_name": "winding_isles_scene",
+      "icon": "items/images/en/winding_isles_scene.c416fa04313a40e363f24b4d86a7c689.png",
+      "thumb": "items/images/en/thumbs/winding_isles_scene.c416fa04313a40e363f24b4d86a7c689.128x128.png",
+      "tags": [
+        "misc",
+        "scene"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

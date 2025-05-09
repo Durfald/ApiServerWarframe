@@ -1,0 +1,20 @@
+{
+  "id": "5f498a1e9426ed00443bd092",
+  "items_in_set": [
+    {
+      "id": "5f498a1e9426ed00443bd092",
+      "url_name": "saxum_thorax",
+      "icon": "items/images/en/saxum_thorax.de51f81c238742fa68f02341888bce31.png",
+      "thumb": "items/images/en/thumbs/saxum_thorax.de51f81c238742fa68f02341888bce31.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "melee"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

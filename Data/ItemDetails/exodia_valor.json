@@ -1,0 +1,19 @@
+{
+  "id": "5a0475086c4655012038ddc0",
+  "items_in_set": [
+    {
+      "id": "5a0475086c4655012038ddc0",
+      "url_name": "exodia_valor",
+      "icon": "items/images/en/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.png",
+      "thumb": "items/images/en/thumbs/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "uncommon",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

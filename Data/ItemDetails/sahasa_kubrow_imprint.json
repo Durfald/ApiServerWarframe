@@ -1,0 +1,19 @@
+{
+  "id": "5ba9f2034567de01415f638a",
+  "items_in_set": [
+    {
+      "id": "5ba9f2034567de01415f638a",
+      "url_name": "sahasa_kubrow_imprint",
+      "icon": "items/images/en/sahasa_kubrow_imprint.77c4f5ff8ad09ff371df40bd83b828f9.png",
+      "thumb": "items/images/en/thumbs/sahasa_kubrow_imprint.77c4f5ff8ad09ff371df40bd83b828f9.128x128.png",
+      "tags": [
+        "kubrow",
+        "pet",
+        "imprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6054de225221e30057501026",
+  "url_name": "lith_c5_relic",
+  "name": "Реликвия Лит C5",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

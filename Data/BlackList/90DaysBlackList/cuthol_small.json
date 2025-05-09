@@ -1,0 +1,11 @@
+{
+  "id": "6054de8d5221e30057501087",
+  "url_name": "cuthol",
+  "name": "Кутол",
+  "liquidity": 7,
+  "subtype": "small",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

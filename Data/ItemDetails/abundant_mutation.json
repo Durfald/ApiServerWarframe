@@ -1,0 +1,21 @@
+{
+  "id": "5ecd08d704d55c0806f85348",
+  "items_in_set": [
+    {
+      "id": "5ecd08d704d55c0806f85348",
+      "url_name": "abundant_mutation",
+      "icon": "items/images/en/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.png",
+      "thumb": "items/images/en/thumbs/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "nidus",
+        "rare",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

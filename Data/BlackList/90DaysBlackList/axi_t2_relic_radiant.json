@@ -1,0 +1,11 @@
+{
+  "id": "6054dd635221e30057500f60",
+  "url_name": "axi_t2_relic",
+  "name": "Реликвия Акси T2",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,13 @@
+{
+  "id": "60cca19152f60b004dfea050",
+  "url_name": "fused_reservoir",
+  "name": "Смешанный Резервуар",
+  "spread": 3,
+  "rank": 0.0,
+  "buy_price": 7,
+  "sell_price": 10,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

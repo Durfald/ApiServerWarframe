@@ -1,0 +1,21 @@
+{
+  "id": "5bb7658e92ea46005b6d386d",
+  "items_in_set": [
+    {
+      "id": "5bb7658e92ea46005b6d386d",
+      "url_name": "primed_expel_grineer",
+      "icon": "items/images/en/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.png",
+      "thumb": "items/images/en/thumbs/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

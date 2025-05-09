@@ -1,0 +1,21 @@
+{
+  "id": "66fd6acc3a826eccf651cd7f",
+  "items_in_set": [
+    {
+      "id": "66fd6acc3a826eccf651cd7f",
+      "url_name": "brute_conditioning",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "uncommon",
+        "melee",
+        "claws"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

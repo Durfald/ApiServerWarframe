@@ -1,0 +1,11 @@
+{
+  "id": "61460dcce330e600455dcea2",
+  "url_name": "ghoulsaw_engine_blueprint",
+  "name": "Пила Упыря: Двигатель",
+  "liquidity": 0,
+  "subtype": "blueprint",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

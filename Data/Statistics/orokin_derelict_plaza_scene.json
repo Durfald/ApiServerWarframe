@@ -1,0 +1,19 @@
+{
+  "48hours": [],
+  "90days": [
+    {
+      "datetime": "2025-01-23T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 40.0,
+      "max_price": 40.0,
+      "open_price": 40.0,
+      "closed_price": 40.0,
+      "avg_price": 40.0,
+      "wa_price": 40.0,
+      "median": 40.0,
+      "donch_top": 40.0,
+      "donch_bot": 40.0,
+      "id": "6792d80e70cf8c001457e710"
+    }
+  ]
+}

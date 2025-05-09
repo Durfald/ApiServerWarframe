@@ -1,0 +1,22 @@
+{
+  "id": "5be5f5a13ffcc7038857f113",
+  "items_in_set": [
+    {
+      "id": "5be5f5a13ffcc7038857f113",
+      "url_name": "quaking_hand",
+      "icon": "items/images/en/quaking_hand.69455f72d16710b8f7f33a9bfa5d9047.png",
+      "thumb": "items/images/en/thumbs/quaking_hand.69455f72d16710b8f7f33a9bfa5d9047.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "pvp",
+        "uncommon",
+        "stance",
+        "fists",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

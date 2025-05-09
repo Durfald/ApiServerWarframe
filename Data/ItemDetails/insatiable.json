@@ -1,0 +1,21 @@
+{
+  "id": "5b50a3ac3a84fd02a782324b",
+  "items_in_set": [
+    {
+      "id": "5b50a3ac3a84fd02a782324b",
+      "url_name": "insatiable",
+      "icon": "items/images/en/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.png",
+      "thumb": "items/images/en/thumbs/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "nidus"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

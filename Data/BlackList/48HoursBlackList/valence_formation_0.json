@@ -1,0 +1,13 @@
+{
+  "id": "6604a6e6dbdd5c1673781dc5",
+  "url_name": "valence_formation",
+  "name": "Валентный Ряд",
+  "spread": 8,
+  "rank": 0.0,
+  "buy_price": 5,
+  "sell_price": 13,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

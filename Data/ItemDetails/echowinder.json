@@ -1,0 +1,22 @@
+{
+  "id": "6054de965221e3005750108b",
+  "items_in_set": [
+    {
+      "id": "6054de965221e3005750108b",
+      "url_name": "echowinder",
+      "icon": "items/images/en/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.png",
+      "thumb": "items/images/en/thumbs/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.128x128.png",
+      "subtypes": [
+        "basic",
+        "adorned",
+        "magnificent"
+      ],
+      "tags": [
+        "fish"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "54a74454e779892d5e5155e3",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155e3",
+      "url_name": "toxic_sequence",
+      "icon": "items/images/en/toxic_sequence.bab0370da343ca58b4b92fca65b1da6a.png",
+      "thumb": "items/images/en/thumbs/toxic_sequence.bab0370da343ca58b4b92fca65b1da6a.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "syndicate",
+        "secondary",
+        "mod",
+        "rare",
+        "acrid"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

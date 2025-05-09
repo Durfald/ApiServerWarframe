@@ -1,0 +1,21 @@
+{
+  "id": "6055de865221e30083f6f109",
+  "items_in_set": [
+    {
+      "id": "6055de865221e30083f6f109",
+      "url_name": "auto_omni",
+      "icon": "items/images/en/auto_omni.87bf9b3a39e78d394edbebe9ccd3f6e9.png",
+      "thumb": "items/images/en/thumbs/auto_omni.87bf9b3a39e78d394edbebe9ccd3f6e9.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "sentinel",
+        "nautilus"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

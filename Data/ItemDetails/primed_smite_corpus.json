@@ -1,0 +1,20 @@
+{
+  "id": "5dfea1431456970294aff388",
+  "items_in_set": [
+    {
+      "id": "5dfea1431456970294aff388",
+      "url_name": "primed_smite_corpus",
+      "icon": "items/images/en/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.png",
+      "thumb": "items/images/en/thumbs/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

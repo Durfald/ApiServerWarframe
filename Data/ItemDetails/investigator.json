@@ -1,0 +1,21 @@
+{
+  "id": "54a74455e779892d5e515691",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e515691",
+      "url_name": "investigator",
+      "icon": "items/images/en/investigator.e357cf9924c5d27bf15b557d60f50ae6.png",
+      "thumb": "items/images/en/thumbs/investigator.e357cf9924c5d27bf15b557d60f50ae6.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "sentinel",
+        "helios"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

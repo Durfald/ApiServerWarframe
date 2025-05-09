@@ -1,0 +1,20 @@
+{
+  "id": "5be4b0a53ffcc703294e76b8",
+  "items_in_set": [
+    {
+      "id": "5be4b0a53ffcc703294e76b8",
+      "url_name": "tek_collateral",
+      "icon": "items/images/en/tek_collateral.f16578482edfed66a1bd5dca84cd778b.png",
+      "thumb": "items/images/en/thumbs/tek_collateral.f16578482edfed66a1bd5dca84cd778b.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "673516dddb3ac2cfade14a7c",
+  "items_in_set": [
+    {
+      "id": "673516dddb3ac2cfade14a7c",
+      "url_name": "quassus_prime_set",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "melee",
+        "weapon",
+        "prime",
+        "set"
+      ],
+      "ducats": 275,
+      "rarity": "",
+      "trading_tax": 10000
+    },
+    {
+      "id": "673516dedb3ac2cfade14a7d",
+      "url_name": "quassus_prime_blueprint",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "melee",
+        "weapon",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "673516dfdb3ac2cfade14a7e",
+      "url_name": "quassus_prime_handle",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "673516e0db3ac2cfade14a7f",
+      "url_name": "quassus_prime_blade",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

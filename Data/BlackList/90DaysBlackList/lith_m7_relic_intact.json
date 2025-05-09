@@ -1,0 +1,13 @@
+{
+  "id": "6054de5b5221e30057501064",
+  "url_name": "lith_m7_relic",
+  "name": "Реликвия Лит M7",
+  "spread": 1,
+  "subtype": "intact",
+  "buy_price": 4,
+  "sell_price": 5,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

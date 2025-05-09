@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e51564f",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51564f",
+      "url_name": "rapid_resilience",
+      "icon": "items/images/en/rapid_resilience.b14f79218a26403aa00409a93f5dcfa0.png",
+      "thumb": "items/images/en/thumbs/rapid_resilience.b14f79218a26403aa00409a93f5dcfa0.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

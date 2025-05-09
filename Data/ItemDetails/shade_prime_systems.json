@@ -1,0 +1,79 @@
+{
+  "id": "641263e07d179f02100c6d44",
+  "items_in_set": [
+    {
+      "id": "641263e07d179f02100c6d42",
+      "url_name": "shade_prime_blueprint",
+      "icon": "items/images/en/shade_prime_blueprint.d4376af3d68e873e85f81f456c83b261.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/shade_prime_blueprint.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "tags": [
+        "sentinel",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "641263e07d179f02100c6d44",
+      "url_name": "shade_prime_systems",
+      "icon": "items/images/en/shade_prime_systems.d4376af3d68e873e85f81f456c83b261.png",
+      "sub_icon": "sub_icons/weapon/prime_systems_128x128.png",
+      "thumb": "items/images/en/thumbs/shade_prime_systems.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "641263e07d179f02100c6d48",
+      "url_name": "shade_prime_cerebrum",
+      "icon": "items/images/en/shade_prime_cerebrum.d4376af3d68e873e85f81f456c83b261.png",
+      "sub_icon": "sub_icons/weapon/prime_cerebrum_128x128.png",
+      "thumb": "items/images/en/thumbs/shade_prime_cerebrum.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "641263e07d179f02100c6d49",
+      "url_name": "shade_prime_set",
+      "icon": "items/images/en/shade_prime_set.d4376af3d68e873e85f81f456c83b261.png",
+      "thumb": "items/images/en/thumbs/shade_prime_set.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "tags": [
+        "prime",
+        "sentinel",
+        "set"
+      ],
+      "ducats": 205,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "641263e07d179f02100c6d4d",
+      "url_name": "shade_prime_carapace",
+      "icon": "items/images/en/shade_prime_carapace.d4376af3d68e873e85f81f456c83b261.png",
+      "sub_icon": "sub_icons/weapon/prime_carapace_128x128.png",
+      "thumb": "items/images/en/thumbs/shade_prime_carapace.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "577010aec79e68a7a8038fba",
+  "items_in_set": [
+    {
+      "id": "577010aec79e68a7a8038fba",
+      "url_name": "silent_battery",
+      "icon": "items/images/en/silent_battery.ada38cfce270e47d0cb77789c016bf97.png",
+      "thumb": "items/images/en/thumbs/silent_battery.ada38cfce270e47d0cb77789c016bf97.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "shotgun",
+        "mod",
+        "uncommon",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

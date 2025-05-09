@@ -1,0 +1,21 @@
+{
+  "id": "563893fcb66f83093e823472",
+  "items_in_set": [
+    {
+      "id": "563893fcb66f83093e823472",
+      "url_name": "primed_target_cracker",
+      "icon": "items/images/en/primed_target_cracker.dbdd7561e20eb9243d62a193a1d786aa.png",
+      "thumb": "items/images/en/thumbs/primed_target_cracker.dbdd7561e20eb9243d62a193a1d786aa.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

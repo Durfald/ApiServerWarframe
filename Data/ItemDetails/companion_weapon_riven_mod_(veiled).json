@@ -1,0 +1,22 @@
+{
+  "id": "5d6ea6777ea27b05d929cbfc",
+  "items_in_set": [
+    {
+      "id": "5d6ea6777ea27b05d929cbfc",
+      "url_name": "companion_weapon_riven_mod_(veiled)",
+      "icon": "items/images/en/companion_weapon_riven_mod_(veiled).43633261c8ac6836608f58b37f8c9eaa.webp",
+      "thumb": "items/images/en/thumbs/companion_weapon_riven_mod_(veiled).43633261c8ac6836608f58b37f8c9eaa.128x128.webp",
+      "subtypes": [
+        "unrevealed",
+        "revealed"
+      ],
+      "tags": [
+        "mod",
+        "riven"
+      ],
+      "ducats": 0,
+      "rarity": "riven",
+      "trading_tax": 0
+    }
+  ]
+}

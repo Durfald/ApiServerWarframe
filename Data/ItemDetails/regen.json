@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e51561f",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51561f",
+      "url_name": "regen",
+      "icon": "items/images/en/regen.5c9ce2616c97c6f6acd55023ca7974f7.png",
+      "thumb": "items/images/en/thumbs/regen.5c9ce2616c97c6f6acd55023ca7974f7.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "sentinel",
+        "common"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

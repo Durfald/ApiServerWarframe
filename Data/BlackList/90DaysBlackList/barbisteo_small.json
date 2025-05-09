@@ -1,0 +1,11 @@
+{
+  "id": "6054de675221e30057501072",
+  "url_name": "barbisteo",
+  "name": "Барбистео",
+  "liquidity": 0,
+  "subtype": "small",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

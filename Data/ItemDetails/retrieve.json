@@ -1,0 +1,21 @@
+{
+  "id": "5615432bb66f8371035bfa32",
+  "items_in_set": [
+    {
+      "id": "5615432bb66f8371035bfa32",
+      "url_name": "retrieve",
+      "icon": "items/images/en/retrieve.c3364c6fe981f656c6398cdf231fd526.png",
+      "thumb": "items/images/en/thumbs/retrieve.c3364c6fe981f656c6398cdf231fd526.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "kubrow",
+        "chesa_kubrow"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

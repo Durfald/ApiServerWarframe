@@ -1,0 +1,17 @@
+{
+  "id": "6672376b8ba7c81b70d02c9c",
+  "items_in_set": [
+    {
+      "id": "6672376b8ba7c81b70d02c9c",
+      "url_name": "orowyrm_arena_simulacrum",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "simulacrum"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

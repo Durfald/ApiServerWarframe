@@ -1,0 +1,11 @@
+{
+  "id": "66c6098b66bbb2aedca695a1",
+  "url_name": "lith_c12_relic",
+  "name": "Реликвия Лит C12",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

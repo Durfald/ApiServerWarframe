@@ -1,0 +1,35 @@
+{
+  "48hours": [],
+  "90days": [
+    {
+      "mod_rank": 0.0,
+      "datetime": "2025-03-17T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 6.0,
+      "max_price": 6.0,
+      "open_price": 6.0,
+      "closed_price": 6.0,
+      "avg_price": 6.0,
+      "wa_price": 6.0,
+      "median": 6.0,
+      "donch_top": 6.0,
+      "donch_bot": 6.0,
+      "id": "67d8b8d49ce02d0013f16442"
+    },
+    {
+      "mod_rank": 3.0,
+      "datetime": "2025-04-05T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 60.0,
+      "max_price": 60.0,
+      "open_price": 60.0,
+      "closed_price": 60.0,
+      "avg_price": 60.0,
+      "wa_price": 60.0,
+      "median": 60.0,
+      "donch_top": 60.0,
+      "donch_bot": 60.0,
+      "id": "67f1c41f9ce02d00131b16f9"
+    }
+  ]
+}

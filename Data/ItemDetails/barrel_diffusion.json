@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e51560e",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51560e",
+      "url_name": "barrel_diffusion",
+      "icon": "items/images/en/barrel_diffusion.3c2fbabc91cc911e56dc43b046b9ecdb.png",
+      "thumb": "items/images/en/thumbs/barrel_diffusion.3c2fbabc91cc911e56dc43b046b9ecdb.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "pistol",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

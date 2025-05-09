@@ -1,0 +1,21 @@
+{
+  "id": "5be5f5a23ffcc7038857f117",
+  "items_in_set": [
+    {
+      "id": "5be5f5a23ffcc7038857f117",
+      "url_name": "frost_jaw",
+      "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
+      "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "claws"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

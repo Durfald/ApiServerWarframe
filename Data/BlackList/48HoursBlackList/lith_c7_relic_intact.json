@@ -1,0 +1,11 @@
+{
+  "id": "6054de2e5221e30057501034",
+  "url_name": "lith_c7_relic",
+  "name": "Реликвия Лит C7",
+  "liquidity": 4,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

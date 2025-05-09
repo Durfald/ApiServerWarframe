@@ -1,0 +1,18 @@
+{
+  "id": "60e70f7a479445008f27257c",
+  "items_in_set": [
+    {
+      "id": "60e70f7a479445008f27257c",
+      "url_name": "steel_meridian_piloting_emote",
+      "icon": "items/images/en/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.png",
+      "thumb": "items/images/en/thumbs/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.128x128.png",
+      "tags": [
+        "syndicate",
+        "emote"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

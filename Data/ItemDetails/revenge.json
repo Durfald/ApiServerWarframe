@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e515637",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515637",
+      "url_name": "revenge",
+      "icon": "items/images/en/revenge.977345a06289639bd2e192201008134b.png",
+      "thumb": "items/images/en/thumbs/revenge.977345a06289639bd2e192201008134b.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "sentinel",
+        "shade"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

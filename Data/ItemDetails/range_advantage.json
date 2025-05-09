@@ -1,0 +1,21 @@
+{
+  "id": "626a197cf40db600660a1d8c",
+  "items_in_set": [
+    {
+      "id": "626a197cf40db600660a1d8c",
+      "url_name": "range_advantage",
+      "icon": "items/images/en/range_advantage.e36eff9c43daa410b7874fdda2870e53.png",
+      "thumb": "items/images/en/thumbs/range_advantage.e36eff9c43daa410b7874fdda2870e53.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "akjagara"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

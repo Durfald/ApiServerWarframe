@@ -1,0 +1,50 @@
+{
+  "48hours": [],
+  "90days": [
+    {
+      "mod_rank": 0.0,
+      "datetime": "2025-01-22T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 15.0,
+      "max_price": 15.0,
+      "open_price": 15.0,
+      "closed_price": 15.0,
+      "avg_price": 15.0,
+      "wa_price": 15.0,
+      "median": 15.0,
+      "donch_top": 15.0,
+      "donch_bot": 15.0,
+      "id": "679186a270cf8c001456dc59"
+    },
+    {
+      "mod_rank": 0.0,
+      "datetime": "2025-02-27T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 50.0,
+      "max_price": 50.0,
+      "open_price": 50.0,
+      "closed_price": 50.0,
+      "avg_price": 50.0,
+      "wa_price": 50.0,
+      "median": 50.0,
+      "donch_top": 50.0,
+      "donch_bot": 15.0,
+      "id": "67c0fd4b9ce02d0015c79b44"
+    },
+    {
+      "mod_rank": 0.0,
+      "datetime": "2025-03-04T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 10.0,
+      "max_price": 10.0,
+      "open_price": 10.0,
+      "closed_price": 10.0,
+      "avg_price": 10.0,
+      "wa_price": 10.0,
+      "median": 10.0,
+      "donch_top": 50.0,
+      "donch_bot": 10.0,
+      "id": "67c7950c9ce02d0016d31f47"
+    }
+  ]
+}

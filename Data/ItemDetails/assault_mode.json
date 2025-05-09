@@ -1,0 +1,20 @@
+{
+  "id": "5be701153ffcc703e462c70b",
+  "items_in_set": [
+    {
+      "id": "5be701153ffcc703e462c70b",
+      "url_name": "assault_mode",
+      "icon": "items/images/en/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.png",
+      "thumb": "items/images/en/thumbs/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "sentinel",
+        "mod",
+        "common"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

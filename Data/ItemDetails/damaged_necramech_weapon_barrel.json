@@ -1,0 +1,58 @@
+{
+  "id": "5f498a219426ed00443bd0a7",
+  "items_in_set": [
+    {
+      "id": "5f498a219426ed00443bd0a7",
+      "url_name": "damaged_necramech_weapon_barrel",
+      "icon": "items/images/en/damaged_necramech_weapon_barrel.bc4d1be97ed16f93c03d525288680192.png",
+      "thumb": "items/images/en/thumbs/damaged_necramech_weapon_barrel.bc4d1be97ed16f93c03d525288680192.128x128.png",
+      "tags": [
+        "component",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5f498a219426ed00443bd0a8",
+      "url_name": "damaged_necramech_weapon_set",
+      "icon": "items/images/en/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.webp",
+      "thumb": "items/images/en/thumbs/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.128x128.webp",
+      "tags": [
+        "necramech",
+        "weapon",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "5f498a219426ed00443bd0a9",
+      "url_name": "damaged_necramech_weapon_receiver",
+      "icon": "items/images/en/damaged_necramech_weapon_receiver.a383d3f75da87bb584c269e61783cea3.png",
+      "thumb": "items/images/en/thumbs/damaged_necramech_weapon_receiver.a383d3f75da87bb584c269e61783cea3.128x128.png",
+      "tags": [
+        "component",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5f498a249426ed00443bd0be",
+      "url_name": "damaged_necramech_weapon_stock",
+      "icon": "items/images/en/damaged_necramech_weapon_stock.9ad561633d99ef217f13b8cb9af1d283.png",
+      "thumb": "items/images/en/thumbs/damaged_necramech_weapon_stock.9ad561633d99ef217f13b8cb9af1d283.128x128.png",
+      "tags": [
+        "component",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

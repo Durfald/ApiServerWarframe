@@ -1,0 +1,20 @@
+{
+  "id": "54a74455e779892d5e5156ea",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156ea",
+      "url_name": "hyperion_thrusters",
+      "icon": "items/images/en/hyperion_thrusters.d180283d2297c661b4dda819da35006d.png",
+      "thumb": "items/images/en/thumbs/hyperion_thrusters.d180283d2297c661b4dda819da35006d.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "archwing",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

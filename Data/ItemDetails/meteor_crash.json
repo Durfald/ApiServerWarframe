@@ -1,0 +1,22 @@
+{
+  "id": "578390a9d9b6753790c89e85",
+  "items_in_set": [
+    {
+      "id": "578390a9d9b6753790c89e85",
+      "url_name": "meteor_crash",
+      "icon": "items/images/en/meteor_crash.bf691cde5cfcf6f77f9e915775821c92.png",
+      "thumb": "items/images/en/thumbs/meteor_crash.bf691cde5cfcf6f77f9e915775821c92.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "melee",
+        "mod",
+        "archwing",
+        "archmelee"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

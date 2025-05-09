@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a4dc",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a4dc",
+      "url_name": "lie_in_wait",
+      "icon": "items/images/en/lie_in_wait.eafb08669c7ca6c57e97f52f7888d002.png",
+      "thumb": "items/images/en/thumbs/lie_in_wait.eafb08669c7ca6c57e97f52f7888d002.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "primary",
+        "uncommon",
+        "pvp",
+        "sniper",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

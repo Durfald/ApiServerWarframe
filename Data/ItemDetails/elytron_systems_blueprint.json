@@ -1,0 +1,60 @@
+{
+  "id": "57dbdc745e334907aa8edb5f",
+  "items_in_set": [
+    {
+      "id": "57dbdc745e334907aa8edb5f",
+      "url_name": "elytron_systems_blueprint",
+      "icon": "items/images/en/elytron_systems_blueprint.971d1e23ad3033ff3af37147302efb8b.png",
+      "sub_icon": "sub_icons/archwing/generic_systems_128x128.png",
+      "thumb": "items/images/en/thumbs/elytron_systems_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+      "tags": [
+        "archwing",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "57dbdc745e334907aa8edb60",
+      "url_name": "elytron_wings_blueprint",
+      "icon": "items/images/en/elytron_wings_blueprint.971d1e23ad3033ff3af37147302efb8b.png",
+      "sub_icon": "sub_icons/archwing/generic_wings_128x128.png",
+      "thumb": "items/images/en/thumbs/elytron_wings_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+      "tags": [
+        "archwing",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "57dbdc745e334907aa8edb61",
+      "url_name": "elytron_harness_blueprint",
+      "icon": "items/images/en/elytron_harness_blueprint.971d1e23ad3033ff3af37147302efb8b.png",
+      "sub_icon": "sub_icons/archwing/generic_chassis_128x128.png",
+      "thumb": "items/images/en/thumbs/elytron_harness_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+      "tags": [
+        "archwing",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "57dbdc745e334907aa8edb62",
+      "url_name": "elytron_set",
+      "icon": "items/images/en/elytron_set.971d1e23ad3033ff3af37147302efb8b.png",
+      "thumb": "items/images/en/thumbs/elytron_set.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+      "tags": [
+        "set",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    }
+  ]
+}

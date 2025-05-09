@@ -1,0 +1,21 @@
+{
+  "id": "675c62297b18977f6e64541e",
+  "items_in_set": [
+    {
+      "id": "675c62297b18977f6e64541e",
+      "url_name": "merciless_gunfight",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

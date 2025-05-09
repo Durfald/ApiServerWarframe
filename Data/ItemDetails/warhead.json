@@ -1,0 +1,20 @@
+{
+  "id": "5dff6e111456970316674a0c",
+  "items_in_set": [
+    {
+      "id": "5dff6e111456970316674a0c",
+      "url_name": "warhead",
+      "icon": "items/images/en/warhead.e72c4c662e69a1340c98b841dad7ae70.png",
+      "thumb": "items/images/en/thumbs/warhead.e72c4c662e69a1340c98b841dad7ae70.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "railjack",
+        "uncommon",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

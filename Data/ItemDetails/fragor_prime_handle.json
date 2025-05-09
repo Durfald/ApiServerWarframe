@@ -1,0 +1,66 @@
+{
+  "id": "573b80230ec44a47787a6912",
+  "items_in_set": [
+    {
+      "id": "573b801c0ec44a47787a6911",
+      "url_name": "fragor_prime_blueprint",
+      "icon": "items/images/en/fragor_prime_blueprint.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/fragor_prime_blueprint.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+      ],
+      "ducats": 65,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "573b80230ec44a47787a6912",
+      "url_name": "fragor_prime_handle",
+      "icon": "items/images/en/fragor_prime_handle.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+      "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
+      "thumb": "items/images/en/thumbs/fragor_prime_handle.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 65,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "573b80280ec44a47787a6913",
+      "url_name": "fragor_prime_head",
+      "icon": "items/images/en/fragor_prime_head.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+      "sub_icon": "sub_icons/weapon/prime_head_128x128.png",
+      "thumb": "items/images/en/thumbs/fragor_prime_head.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "573b802f0ec44a47787a6914",
+      "url_name": "fragor_prime_set",
+      "icon": "items/images/en/fragor_prime_set.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+      "thumb": "items/images/en/thumbs/fragor_prime_set.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "set",
+        "melee"
+      ],
+      "ducats": 145,
+      "rarity": "",
+      "trading_tax": 6000
+    }
+  ]
+}

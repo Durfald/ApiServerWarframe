@@ -1,0 +1,19 @@
+{
+  "id": "5fde10c36db57b0185b39079",
+  "items_in_set": [
+    {
+      "id": "5fde10c36db57b0185b39079",
+      "url_name": "ceti_lacera_blueprint",
+      "icon": "items/images/en/ceti_lacera_blueprint.a867f2ea0f314050b613e5e49012cc6f.png",
+      "thumb": "items/images/en/thumbs/ceti_lacera_blueprint.a867f2ea0f314050b613e5e49012cc6f.128x128.png",
+      "tags": [
+        "weapon",
+        "melee",
+        "blueprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

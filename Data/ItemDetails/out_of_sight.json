@@ -1,0 +1,19 @@
+{
+  "id": "5dbe9b087ea27b0ffe3ca26a",
+  "items_in_set": [
+    {
+      "id": "5dbe9b087ea27b0ffe3ca26a",
+      "url_name": "out_of_sight",
+      "icon": "items/images/en/out_of_sight.5464b7b84606865045dec7b82112fc58.png",
+      "thumb": "items/images/en/thumbs/out_of_sight.5464b7b84606865045dec7b82112fc58.128x128.png",
+      "tags": [
+        "mod",
+        "rare",
+        "parazon"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

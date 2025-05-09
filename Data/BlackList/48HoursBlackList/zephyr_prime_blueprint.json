@@ -1,0 +1,12 @@
+{
+  "id": "5ab1570db2b6a8044d5137c2",
+  "url_name": "zephyr_prime_blueprint",
+  "name": "Зефир Прайм (Чертеж)",
+  "spread": 2,
+  "buy_price": 12,
+  "sell_price": 14,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

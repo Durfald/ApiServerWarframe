@@ -1,0 +1,20 @@
+{
+  "id": "54a74455e779892d5e51569b",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e51569b",
+      "url_name": "fired_up",
+      "icon": "items/images/en/fired_up.33e41b63a3f193f1e801b503a1afb585.png",
+      "thumb": "items/images/en/thumbs/fired_up.33e41b63a3f193f1e801b503a1afb585.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "sentinel",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

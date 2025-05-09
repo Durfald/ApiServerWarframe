@@ -1,0 +1,11 @@
+{
+  "id": "6139101930dd5b004b7f9099",
+  "url_name": "lith_n8_relic",
+  "name": "Реликвия Лит N8",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

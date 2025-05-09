@@ -1,0 +1,12 @@
+{
+  "id": "65a7fcc4ed5b0d2e3eb462d2",
+  "url_name": "acceltra_prime_stock",
+  "name": "Акцельтра Прайм: Приклад",
+  "spread": 1,
+  "buy_price": 7,
+  "sell_price": 8,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

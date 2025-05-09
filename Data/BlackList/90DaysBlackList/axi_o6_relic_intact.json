@@ -1,0 +1,13 @@
+{
+  "id": "66c6097c66bbb2aedca69585",
+  "url_name": "axi_o6_relic",
+  "name": "Реликвия Акси O6",
+  "spread": 4,
+  "subtype": "intact",
+  "buy_price": 1,
+  "sell_price": 5,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

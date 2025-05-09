@@ -1,0 +1,21 @@
+{
+  "id": "6604a66edbdd5c1673781db9",
+  "items_in_set": [
+    {
+      "id": "6604a66edbdd5c1673781db9",
+      "url_name": "damage_decoy",
+      "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+      "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "loki"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

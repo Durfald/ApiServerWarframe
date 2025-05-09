@@ -1,0 +1,20 @@
+{
+  "id": "657af5ac21646e595134f5cd",
+  "items_in_set": [
+    {
+      "id": "657af5ac21646e595134f5cd",
+      "url_name": "masters_edge",
+      "icon": "items/images/en/masters_edge.0bbc3b8d1d4232cd871b3fcb3a39a78c.png",
+      "thumb": "items/images/en/thumbs/masters_edge.0bbc3b8d1d4232cd871b3fcb3a39a78c.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "melee"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

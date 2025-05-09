@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a4da",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a4da",
+      "url_name": "impaler_munitions",
+      "icon": "items/images/en/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.png",
+      "thumb": "items/images/en/thumbs/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "secondary",
+        "pvp",
+        "uncommon",
+        "mod",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

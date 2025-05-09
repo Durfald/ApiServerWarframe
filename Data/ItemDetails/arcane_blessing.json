@@ -1,0 +1,19 @@
+{
+  "id": "63886517e7c988007b5bd512",
+  "items_in_set": [
+    {
+      "id": "63886517e7c988007b5bd512",
+      "url_name": "arcane_blessing",
+      "icon": "items/images/en/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.png",
+      "thumb": "items/images/en/thumbs/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

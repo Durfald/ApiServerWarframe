@@ -1,0 +1,20 @@
+{
+  "id": "54a74455e779892d5e5156b0",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156b0",
+      "url_name": "natural_talent",
+      "icon": "items/images/en/natural_talent.d93810daccabd89634d5f429fb3120d1.png",
+      "thumb": "items/images/en/thumbs/natural_talent.d93810daccabd89634d5f429fb3120d1.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

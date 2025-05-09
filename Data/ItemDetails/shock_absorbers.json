@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e515597",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515597",
+      "url_name": "shock_absorbers",
+      "icon": "items/images/en/shock_absorbers.f8b689167fd8fe8c992773d65dcb95fe.png",
+      "thumb": "items/images/en/thumbs/shock_absorbers.f8b689167fd8fe8c992773d65dcb95fe.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67acda91125398d92c8bb4fa",
+  "url_name": "lith_s16_relic",
+  "name": "Реликвия Лит S16",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

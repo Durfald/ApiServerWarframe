@@ -1,0 +1,19 @@
+{
+  "id": "56463c24b66f8358acce4451",
+  "items_in_set": [
+    {
+      "id": "56463c24b66f8358acce4451",
+      "url_name": "arcane_fury",
+      "icon": "items/images/en/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.png",
+      "thumb": "items/images/en/thumbs/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

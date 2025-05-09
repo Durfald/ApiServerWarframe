@@ -1,0 +1,20 @@
+{
+  "id": "5f498a1f9426ed00443bd097",
+  "items_in_set": [
+    {
+      "id": "5f498a1f9426ed00443bd097",
+      "url_name": "necramech_vitality",
+      "icon": "items/images/en/necramech_vitality.ed1a2158133a660eba51d903adfa2355.png",
+      "thumb": "items/images/en/thumbs/necramech_vitality.ed1a2158133a660eba51d903adfa2355.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

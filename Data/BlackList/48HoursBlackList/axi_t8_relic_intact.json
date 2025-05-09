@@ -1,0 +1,11 @@
+{
+  "id": "61bb64fd3132ff00482b5fc1",
+  "url_name": "axi_t8_relic",
+  "name": "Реликвия Акси T8",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

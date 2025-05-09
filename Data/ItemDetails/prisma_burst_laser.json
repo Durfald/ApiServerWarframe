@@ -1,0 +1,43 @@
+{
+  "id": "62af145d5d2dab005422903f",
+  "items_in_set": [
+    {
+      "id": "585a93012c2ada004f1a297e",
+      "url_name": "prisma_shade",
+      "icon": "items/images/en/prisma_shade.cc1c7bc7c621300a6af014b735ec3430.png",
+      "thumb": "items/images/en/thumbs/prisma_shade.cc1c7bc7c621300a6af014b735ec3430.128x128.png",
+      "tags": [
+        "sentinel"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "62af145c5d2dab0054229039",
+      "url_name": "prisma_shade_set",
+      "icon": "items/images/en/prisma_shade_set.cc1c7bc7c621300a6af014b735ec3430.png",
+      "thumb": "items/images/en/thumbs/prisma_shade_set.cc1c7bc7c621300a6af014b735ec3430.128x128.png",
+      "tags": [
+        "sentinel",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 4000
+    },
+    {
+      "id": "62af145d5d2dab005422903f",
+      "url_name": "prisma_burst_laser",
+      "icon": "items/images/en/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.png",
+      "thumb": "items/images/en/thumbs/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.128x128.png",
+      "tags": [
+        "sentinel",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

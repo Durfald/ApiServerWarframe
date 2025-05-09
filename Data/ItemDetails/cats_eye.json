@@ -1,0 +1,21 @@
+{
+  "id": "5788fad84fff472f131a1361",
+  "items_in_set": [
+    {
+      "id": "5788fad84fff472f131a1361",
+      "url_name": "cats_eye",
+      "icon": "items/images/en/cats_eye.ec8680ee8d86067156c3d818b72cb1e5.png",
+      "thumb": "items/images/en/thumbs/cats_eye.ec8680ee8d86067156c3d818b72cb1e5.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "kavat",
+        "adarza_kavat"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

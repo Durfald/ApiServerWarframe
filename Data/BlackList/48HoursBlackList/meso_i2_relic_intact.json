@@ -1,0 +1,11 @@
+{
+  "id": "61bb64fc3132ff00482b5fbd",
+  "url_name": "meso_i2_relic",
+  "name": "Реликвия Мезо I2",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

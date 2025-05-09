@@ -1,0 +1,12 @@
+{
+  "id": "54a74454e779892d5e5155dd",
+  "url_name": "bite",
+  "name": "Укус",
+  "spread": 25,
+  "rank": 10.0,
+  "buy_price": 75,
+  "sell_price": 100,
+  "trading_tax": 8000,
+  "90days_trend": -0.092,
+  "48hours_trend": -0.116
+}

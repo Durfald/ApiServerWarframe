@@ -1,0 +1,62 @@
+{
+  "48hours": [],
+  "90days": [
+    {
+      "datetime": "2025-02-10T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 25.0,
+      "max_price": 25.0,
+      "open_price": 25.0,
+      "closed_price": 25.0,
+      "avg_price": 25.0,
+      "wa_price": 25.0,
+      "median": 25.0,
+      "donch_top": 25.0,
+      "donch_bot": 10.0,
+      "id": "67aa934570cf8c001272ef0d"
+    },
+    {
+      "datetime": "2025-02-11T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 35.0,
+      "max_price": 35.0,
+      "open_price": 35.0,
+      "closed_price": 35.0,
+      "avg_price": 35.0,
+      "wa_price": 35.0,
+      "median": 35.0,
+      "donch_top": 35.0,
+      "donch_bot": 10.0,
+      "id": "67abe48d70cf8c0012743a35"
+    },
+    {
+      "datetime": "2025-03-04T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 20.0,
+      "max_price": 20.0,
+      "open_price": 20.0,
+      "closed_price": 20.0,
+      "avg_price": 20.0,
+      "wa_price": 20.0,
+      "median": 20.0,
+      "donch_top": 35.0,
+      "donch_bot": 10.0,
+      "id": "67c794f89ce02d0016d31cf9"
+    },
+    {
+      "datetime": "2025-03-13T00:00:00+00:00",
+      "volume": 1,
+      "min_price": 30.0,
+      "max_price": 30.0,
+      "open_price": 30.0,
+      "closed_price": 30.0,
+      "avg_price": 30.0,
+      "wa_price": 30.0,
+      "median": 30.0,
+      "moving_avg": 24.0,
+      "donch_top": 35.0,
+      "donch_bot": 20.0,
+      "id": "67d371e39ce02d0016e6e6bc"
+    }
+  ]
+}

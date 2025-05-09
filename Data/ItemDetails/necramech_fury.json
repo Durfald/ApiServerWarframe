@@ -1,0 +1,20 @@
+{
+  "id": "5f4ed3f9d5c36d0086f55b0a",
+  "items_in_set": [
+    {
+      "id": "5f4ed3f9d5c36d0086f55b0a",
+      "url_name": "necramech_fury",
+      "icon": "items/images/en/necramech_fury.c252bdfdb99cb71ce2dd019c196b95b1.png",
+      "thumb": "items/images/en/thumbs/necramech_fury.c252bdfdb99cb71ce2dd019c196b95b1.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "common",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "626a1978f40db600660a1d7a",
+  "items_in_set": [
+    {
+      "id": "626a1978f40db600660a1d7a",
+      "url_name": "emergence_dissipate",
+      "icon": "items/images/en/emergence_dissipate.83218167b319a330d85249791386f866.png",
+      "thumb": "items/images/en/thumbs/emergence_dissipate.83218167b319a330d85249791386f866.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

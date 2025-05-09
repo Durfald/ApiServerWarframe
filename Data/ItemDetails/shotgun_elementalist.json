@@ -1,0 +1,21 @@
+{
+  "id": "667237a58ba7c81b70d02cac",
+  "items_in_set": [
+    {
+      "id": "667237a58ba7c81b70d02cac",
+      "url_name": "shotgun_elementalist",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "primary",
+        "shotgun"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

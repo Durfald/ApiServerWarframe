@@ -1,0 +1,11 @@
+{
+  "id": "6054de425221e3005750104a",
+  "url_name": "lith_b3_relic",
+  "name": "Реликвия Лит B3",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

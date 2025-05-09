@@ -1,0 +1,17 @@
+{
+  "id": "675c615f7b18977f6e6453fe",
+  "items_in_set": [
+    {
+      "id": "675c615f7b18977f6e6453fe",
+      "url_name": "tech_titan_electronics_store",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "scene"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

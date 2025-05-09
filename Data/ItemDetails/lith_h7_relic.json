@@ -1,0 +1,24 @@
+{
+  "id": "639a8d9474b02f003889eb85",
+  "items_in_set": [
+    {
+      "id": "639a8d9474b02f003889eb85",
+      "url_name": "lith_h7_relic",
+      "icon": "items/images/en/lith_h7_relic.b9883727b21e25d81bc115605254460a.png",
+      "thumb": "items/images/en/thumbs/lith_h7_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "relic",
+        "lith"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

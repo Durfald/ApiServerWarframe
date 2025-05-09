@@ -1,0 +1,11 @@
+{
+  "id": "67222a1c1ce4caca2fe98671",
+  "url_name": "axi_n11_relic",
+  "name": "Реликвия Акси N11",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

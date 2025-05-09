@@ -1,0 +1,12 @@
+{
+  "id": "54a73e65e779893a797fff4a",
+  "url_name": "latron_prime_blueprint",
+  "name": "Латрон Прайм (Чертеж)",
+  "spread": 10,
+  "buy_price": 25,
+  "sell_price": 35,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

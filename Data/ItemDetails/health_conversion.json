@@ -1,0 +1,20 @@
+{
+  "id": "56dac8d25cc639de0a45c52d",
+  "items_in_set": [
+    {
+      "id": "56dac8d25cc639de0a45c52d",
+      "url_name": "health_conversion",
+      "icon": "items/images/en/health_conversion.9d00e60accdfe2bf5185ed7669a92a88.png",
+      "thumb": "items/images/en/thumbs/health_conversion.9d00e60accdfe2bf5185ed7669a92a88.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "55c15430e779895dc0c17945",
+  "url_name": "seismic_wave",
+  "name": "Сейсмическая Волна",
+  "spread": 4,
+  "rank": 0.0,
+  "buy_price": 7,
+  "sell_price": 11,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

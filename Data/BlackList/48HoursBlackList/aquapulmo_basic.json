@@ -1,0 +1,11 @@
+{
+  "id": "6054de645221e3005750106e",
+  "url_name": "aquapulmo",
+  "name": "Аквапульма",
+  "liquidity": 13,
+  "subtype": "basic",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

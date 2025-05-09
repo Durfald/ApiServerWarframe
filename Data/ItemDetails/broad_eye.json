@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a4cc",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a4cc",
+      "url_name": "broad_eye",
+      "icon": "items/images/en/broad_eye.fa3689964ba1794a59a3c0acbcf53747.png",
+      "thumb": "items/images/en/thumbs/broad_eye.fa3689964ba1794a59a3c0acbcf53747.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "primary",
+        "uncommon",
+        "pvp",
+        "shotgun",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

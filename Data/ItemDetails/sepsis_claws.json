@@ -1,0 +1,21 @@
+{
+  "id": "66fd69223a826eccf651cd57",
+  "items_in_set": [
+    {
+      "id": "66fd69223a826eccf651cd57",
+      "url_name": "sepsis_claws",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "claws"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

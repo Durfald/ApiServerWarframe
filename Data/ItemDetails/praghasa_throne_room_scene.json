@@ -1,0 +1,18 @@
+{
+  "id": "6214e890e3c4660048a8b981",
+  "items_in_set": [
+    {
+      "id": "6214e890e3c4660048a8b981",
+      "url_name": "praghasa_throne_room_scene",
+      "icon": "items/images/en/praghasa_throne_room_scene.f971332d748ac185c486fb0faba19e88.png",
+      "thumb": "items/images/en/thumbs/praghasa_throne_room_scene.f971332d748ac185c486fb0faba19e88.128x128.png",
+      "tags": [
+        "scene",
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

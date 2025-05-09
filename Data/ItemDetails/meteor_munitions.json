@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a4e0",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a4e0",
+      "url_name": "meteor_munitions",
+      "icon": "items/images/en/meteor_munitions.93034601ec766a5946560ad0f4822653.png",
+      "thumb": "items/images/en/thumbs/meteor_munitions.93034601ec766a5946560ad0f4822653.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "secondary",
+        "pvp",
+        "uncommon",
+        "mod",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

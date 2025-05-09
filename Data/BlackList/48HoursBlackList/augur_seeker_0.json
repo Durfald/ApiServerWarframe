@@ -1,0 +1,13 @@
+{
+  "id": "59dfeb6c115f1d887cfd7ac4",
+  "url_name": "augur_seeker",
+  "name": "Искатель Предвестника",
+  "spread": 2,
+  "rank": 0.0,
+  "buy_price": 8,
+  "sell_price": 10,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

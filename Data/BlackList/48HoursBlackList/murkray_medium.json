@@ -1,0 +1,11 @@
+{
+  "id": "6054de6f5221e3005750107d",
+  "url_name": "murkray",
+  "name": "Мюркрей",
+  "liquidity": 24,
+  "subtype": "medium",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,11 @@
+{
+  "id": "644b00237ec1900044b9772c",
+  "url_name": "axi_k12_relic",
+  "name": "Реликвия Акси K12",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

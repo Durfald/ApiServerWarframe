@@ -1,0 +1,11 @@
+{
+  "id": "667ec83e59acb6bf03ebc335",
+  "url_name": "meso_n16_relic",
+  "name": "Реликвия Мезо N16",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

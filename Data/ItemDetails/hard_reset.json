@@ -1,0 +1,19 @@
+{
+  "id": "60e5b8fe4794450053e99951",
+  "items_in_set": [
+    {
+      "id": "60e5b8fe4794450053e99951",
+      "url_name": "hard_reset",
+      "icon": "items/images/en/hard_reset.b0d53f38119f05a0b6f7e4cb3723bad8.png",
+      "thumb": "items/images/en/thumbs/hard_reset.b0d53f38119f05a0b6f7e4cb3723bad8.128x128.png",
+      "tags": [
+        "mod",
+        "rare",
+        "parazon"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

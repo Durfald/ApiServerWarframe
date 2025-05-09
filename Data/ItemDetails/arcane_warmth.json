@@ -1,0 +1,18 @@
+{
+  "id": "551085f4e7798972d0eaf1ad",
+  "items_in_set": [
+    {
+      "id": "551085f4e7798972d0eaf1ad",
+      "url_name": "arcane_warmth",
+      "icon": "items/images/en/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.png",
+      "thumb": "items/images/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

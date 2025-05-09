@@ -1,0 +1,21 @@
+{
+  "id": "5729bd02cb59ed5a9b484e8c",
+  "items_in_set": [
+    {
+      "id": "5729bd02cb59ed5a9b484e8c",
+      "url_name": "acid_shells",
+      "icon": "items/images/en/acid_shells.b43df89f2ae8597841c0087d02df2314.png",
+      "thumb": "items/images/en/thumbs/acid_shells.b43df89f2ae8597841c0087d02df2314.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "primary",
+        "sobek"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

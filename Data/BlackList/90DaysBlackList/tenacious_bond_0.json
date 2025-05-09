@@ -1,0 +1,13 @@
+{
+  "id": "6531692bf31453d36319c56e",
+  "url_name": "tenacious_bond",
+  "name": "Цепкая Связь",
+  "spread": 7,
+  "rank": 0.0,
+  "buy_price": 8,
+  "sell_price": 15,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6054de2a5221e3005750102f",
+  "url_name": "lith_b8_relic",
+  "name": "Реликвия Лит B8",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

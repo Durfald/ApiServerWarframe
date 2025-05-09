@@ -1,0 +1,21 @@
+{
+  "id": "614f83a3e330e60063b618fa",
+  "items_in_set": [
+    {
+      "id": "614f83a3e330e60063b618fa",
+      "url_name": "primed_ammo_stock",
+      "icon": "items/images/en/primed_ammo_stock.7caa4ea837a78b6d24b78a0bb46a1dce.png",
+      "thumb": "items/images/en/thumbs/primed_ammo_stock.7caa4ea837a78b6d24b78a0bb46a1dce.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

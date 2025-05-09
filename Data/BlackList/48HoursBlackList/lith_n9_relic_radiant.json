@@ -1,0 +1,11 @@
+{
+  "id": "61a25ffa68fd79003fe3fd61",
+  "url_name": "lith_n9_relic",
+  "name": "Реликвия Лит N9",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

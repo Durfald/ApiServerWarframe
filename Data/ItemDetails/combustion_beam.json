@@ -1,0 +1,20 @@
+{
+  "id": "55c1548fe779895df57fd05d",
+  "items_in_set": [
+    {
+      "id": "55c1548fe779895df57fd05d",
+      "url_name": "combustion_beam",
+      "icon": "items/images/en/combustion_beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.png",
+      "thumb": "items/images/en/thumbs/combustion_beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "primary",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

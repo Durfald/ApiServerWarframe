@@ -1,0 +1,21 @@
+{
+  "id": "5be5f5a23ffcc7038857f11d",
+  "items_in_set": [
+    {
+      "id": "5be5f5a23ffcc7038857f11d",
+      "url_name": "shock_collar",
+      "icon": "items/images/en/shock_collar.a434f653cdec1d961e045ac057b5ac16.png",
+      "thumb": "items/images/en/thumbs/shock_collar.a434f653cdec1d961e045ac057b5ac16.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "claws"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "64c2aa1566456704eba6ba3a",
+  "url_name": "neo_n23_relic",
+  "name": "Реликвия Нео N23",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

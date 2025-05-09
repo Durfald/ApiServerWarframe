@@ -1,0 +1,11 @@
+{
+  "id": "6054dd705221e30057500f69",
+  "url_name": "axi_a12_relic",
+  "name": "Реликвия Акси A12",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

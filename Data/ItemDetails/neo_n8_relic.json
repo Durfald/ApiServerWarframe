@@ -1,0 +1,24 @@
+{
+  "id": "6054ddab5221e30057500fa5",
+  "items_in_set": [
+    {
+      "id": "6054ddab5221e30057500fa5",
+      "url_name": "neo_n8_relic",
+      "icon": "items/images/en/neo_n8_relic.404dc9ef087cc16ca255f5b5fd17fff0.png",
+      "thumb": "items/images/en/thumbs/neo_n8_relic.404dc9ef087cc16ca255f5b5fd17fff0.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "relic",
+        "neo"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

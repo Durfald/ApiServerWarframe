@@ -1,0 +1,21 @@
+{
+  "id": "5f4ed3fbd5c36d0086f55b0e",
+  "items_in_set": [
+    {
+      "id": "5f4ed3fbd5c36d0086f55b0e",
+      "url_name": "bhisaj_bal",
+      "icon": "items/images/en/bhisaj_bal.e31c73f58b576c39f4a67c78481042f3.png",
+      "thumb": "items/images/en/thumbs/bhisaj_bal.e31c73f58b576c39f4a67c78481042f3.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "primary",
+        "paris_prime"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

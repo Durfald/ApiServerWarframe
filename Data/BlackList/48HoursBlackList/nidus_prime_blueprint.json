@@ -1,0 +1,12 @@
+{
+  "id": "6139101830dd5b004b7f9093",
+  "url_name": "nidus_prime_blueprint",
+  "name": "Нидус Прайм (Чертеж)",
+  "spread": 3,
+  "buy_price": 2,
+  "sell_price": 5,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

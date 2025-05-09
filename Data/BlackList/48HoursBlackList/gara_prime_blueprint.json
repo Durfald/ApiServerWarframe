@@ -1,0 +1,12 @@
+{
+  "id": "60ad4a1bf1904300d012c6ff",
+  "url_name": "gara_prime_blueprint",
+  "name": "Гара Прайм (Чертеж)",
+  "spread": 8,
+  "buy_price": 32,
+  "sell_price": 40,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

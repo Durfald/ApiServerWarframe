@@ -1,0 +1,11 @@
+{
+  "id": "6242037766a58f0108c3d494",
+  "url_name": "axi_g7_relic",
+  "name": "Реликвия Акси G7",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

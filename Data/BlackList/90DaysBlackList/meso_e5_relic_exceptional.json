@@ -1,0 +1,11 @@
+{
+  "id": "6054de105221e30057501012",
+  "url_name": "meso_e5_relic",
+  "name": "Реликвия Мезо E5",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

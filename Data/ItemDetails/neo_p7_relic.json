@@ -1,0 +1,24 @@
+{
+  "id": "66c6097d66bbb2aedca69587",
+  "items_in_set": [
+    {
+      "id": "66c6097d66bbb2aedca69587",
+      "url_name": "neo_p7_relic",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "neo",
+        "relic"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

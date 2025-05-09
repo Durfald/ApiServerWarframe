@@ -1,0 +1,21 @@
+{
+  "id": "5c3892672cc6ce00f238139d",
+  "items_in_set": [
+    {
+      "id": "5c3892672cc6ce00f238139d",
+      "url_name": "spectrosiphon",
+      "icon": "items/images/en/spectrosiphon.ff5e2ba6ab608c0d7beb60b497fbeb6e.png",
+      "thumb": "items/images/en/thumbs/spectrosiphon.ff5e2ba6ab608c0d7beb60b497fbeb6e.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "gara",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

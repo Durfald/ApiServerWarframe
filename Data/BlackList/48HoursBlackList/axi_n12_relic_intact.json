@@ -1,0 +1,11 @@
+{
+  "id": "67db5f499cec3e52e62523dd",
+  "url_name": "axi_n12_relic",
+  "name": "Axi N12 Relic",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

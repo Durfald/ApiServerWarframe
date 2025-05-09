@@ -1,0 +1,21 @@
+{
+  "id": "5ecd08d804d55c0806f85350",
+  "items_in_set": [
+    {
+      "id": "5ecd08d804d55c0806f85350",
+      "url_name": "rubble_heap",
+      "icon": "items/images/en/rubble_heap.7f5b7428c97adf59f74b621da8543e7d.png",
+      "thumb": "items/images/en/thumbs/rubble_heap.7f5b7428c97adf59f74b621da8543e7d.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "atlas",
+        "mod",
+        "rare",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

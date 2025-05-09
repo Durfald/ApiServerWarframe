@@ -1,0 +1,11 @@
+{
+  "id": "67acda93125398d92c8bb4fc",
+  "url_name": "lith_q1_relic",
+  "name": "Реликвия Лит Q1",
+  "liquidity": 5,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a50d",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a50d",
+      "url_name": "full_capacity",
+      "icon": "items/images/en/full_capacity.3487f8c1a516c44d36d4655604875586.png",
+      "thumb": "items/images/en/thumbs/full_capacity.3487f8c1a516c44d36d4655604875586.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "common",
+        "secondary",
+        "pvp",
+        "mod",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

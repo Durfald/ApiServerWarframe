@@ -1,0 +1,24 @@
+{
+  "id": "5c1e62d3817a0d0092fb1608",
+  "items_in_set": [
+    {
+      "id": "5c1e62d3817a0d0092fb1608",
+      "url_name": "kitgun_riven_mod_(veiled)",
+      "icon": "items/images/en/kitgun_riven_mod_(veiled).c7cc9acb1a595ed66744e1d2b4f3bb42.png",
+      "thumb": "items/images/en/thumbs/kitgun_riven_mod_(veiled).c7cc9acb1a595ed66744e1d2b4f3bb42.128x128.png",
+      "subtypes": [
+        "unrevealed",
+        "revealed"
+      ],
+      "tags": [
+        "mod",
+        "riven_mod",
+        "common",
+        "veiled_riven"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

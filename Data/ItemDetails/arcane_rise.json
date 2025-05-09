@@ -1,0 +1,19 @@
+{
+  "id": "63886516e7c988007b5bd50b",
+  "items_in_set": [
+    {
+      "id": "63886516e7c988007b5bd50b",
+      "url_name": "arcane_rise",
+      "icon": "items/images/en/arcane_rise.dd639f42f0235bd00abea150d1666f89.png",
+      "thumb": "items/images/en/thumbs/arcane_rise.dd639f42f0235bd00abea150d1666f89.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

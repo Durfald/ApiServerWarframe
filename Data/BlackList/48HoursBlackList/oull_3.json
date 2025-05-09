@@ -1,0 +1,13 @@
+{
+  "id": "60e5b9004794450053e9995e",
+  "url_name": "oull",
+  "name": "Аул",
+  "spread": 9,
+  "rank": 3.0,
+  "buy_price": 11,
+  "sell_price": 20,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

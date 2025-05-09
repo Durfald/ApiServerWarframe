@@ -1,0 +1,11 @@
+{
+  "id": "6054de665221e30057501071",
+  "url_name": "cryptosuctus",
+  "name": "Криптозакт",
+  "liquidity": 0,
+  "subtype": "small",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

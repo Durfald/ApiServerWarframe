@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e5155ff",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155ff",
+      "url_name": "streamline",
+      "icon": "items/images/en/streamline.3e6a02f495140810eec8785b919d3fc0.png",
+      "thumb": "items/images/en/thumbs/streamline.3e6a02f495140810eec8785b919d3fc0.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

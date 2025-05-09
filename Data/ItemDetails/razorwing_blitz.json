@@ -1,0 +1,21 @@
+{
+  "id": "5a6b495c7f2bca025fde2b59",
+  "items_in_set": [
+    {
+      "id": "5a6b495c7f2bca025fde2b59",
+      "url_name": "razorwing_blitz",
+      "icon": "items/images/en/razorwing_blitz.5ff2769d2bec1fe4f7e77ce8181b538a.png",
+      "thumb": "items/images/en/thumbs/razorwing_blitz.5ff2769d2bec1fe4f7e77ce8181b538a.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "titania",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

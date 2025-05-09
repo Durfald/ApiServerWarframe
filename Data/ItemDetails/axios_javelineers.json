@@ -1,0 +1,21 @@
+{
+  "id": "6604a691dbdd5c1673781dbd",
+  "items_in_set": [
+    {
+      "id": "6604a691dbdd5c1673781dbd",
+      "url_name": "axios_javelineers",
+      "icon": "items/images/en/axios_javelineers.8698804f33f71854c353e11cbdf3071e.png",
+      "thumb": "items/images/en/thumbs/axios_javelineers.8698804f33f71854c353e11cbdf3071e.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "styanax"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

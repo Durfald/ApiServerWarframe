@@ -1,0 +1,78 @@
+{
+  "id": "5dfea1421456970294aff380",
+  "items_in_set": [
+    {
+      "id": "5dfea13b1456970294aff35a",
+      "url_name": "spectra_vandal_chassis",
+      "icon": "items/images/en/spectra_vandal_chassis.fe39f6aee4576d50c445d4203ee91db2.png",
+      "sub_icon": "sub_icons/weapon/generic_chassis_128x128.png",
+      "thumb": "items/images/en/thumbs/spectra_vandal_chassis.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5dfea13c1456970294aff35d",
+      "url_name": "spectra_vandal_set",
+      "icon": "items/images/en/spectra_vandal_set.fe39f6aee4576d50c445d4203ee91db2.png",
+      "thumb": "items/images/en/thumbs/spectra_vandal_set.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+      "tags": [
+        "weapon",
+        "modular",
+        "secondary",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "5dfea13f1456970294aff371",
+      "url_name": "spectra_vandal_barrel",
+      "icon": "items/images/en/spectra_vandal_barrel.fe39f6aee4576d50c445d4203ee91db2.png",
+      "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/spectra_vandal_barrel.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5dfea1421456970294aff380",
+      "url_name": "spectra_vandal_handle",
+      "icon": "items/images/en/spectra_vandal_handle.fe39f6aee4576d50c445d4203ee91db2.png",
+      "sub_icon": "sub_icons/weapon/generic_handle_128x128.png",
+      "thumb": "items/images/en/thumbs/spectra_vandal_handle.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5dfea1421456970294aff381",
+      "url_name": "spectra_vandal_blueprint",
+      "icon": "items/images/en/spectra_vandal_blueprint.fe39f6aee4576d50c445d4203ee91db2.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/spectra_vandal_blueprint.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+      "tags": [
+        "weapon",
+        "modular",
+        "secondary",
+        "blueprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

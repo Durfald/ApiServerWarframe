@@ -1,0 +1,24 @@
+{
+  "id": "67222a181ce4caca2fe9866f",
+  "items_in_set": [
+    {
+      "id": "67222a181ce4caca2fe9866f",
+      "url_name": "axi_g13_relic",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "relic",
+        "axi"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5a0475096c4655012038ddc3",
+  "items_in_set": [
+    {
+      "id": "5a0475096c4655012038ddc3",
+      "url_name": "exodia_triumph",
+      "icon": "items/images/en/exodia_triumph.fe6f1256127be984a80deb48afd26faa.png",
+      "thumb": "items/images/en/thumbs/exodia_triumph.fe6f1256127be984a80deb48afd26faa.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "uncommon",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

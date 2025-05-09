@@ -1,0 +1,21 @@
+{
+  "id": "54a74455e779892d5e5156b3",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156b3",
+      "url_name": "flechette",
+      "icon": "items/images/en/flechette.d861855060f3cffa9baa7a9157d9169a.png",
+      "thumb": "items/images/en/thumbs/flechette.d861855060f3cffa9baa7a9157d9169a.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "common",
+        "shotgun",
+        "mod",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "60575dd690a69e0070a89ed4",
+  "items_in_set": [
+    {
+      "id": "60575dd590a69e0070a89ed1",
+      "url_name": "carmine_penta_receiver",
+      "icon": "items/images/en/carmine_penta_receiver.c1aca6866f8ca8647358966756a8a81b.png",
+      "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/carmine_penta_receiver.c1aca6866f8ca8647358966756a8a81b.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60575dd590a69e0070a89ed2",
+      "url_name": "carmine_penta_stock",
+      "icon": "items/images/en/carmine_penta_stock.c1aca6866f8ca8647358966756a8a81b.png",
+      "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
+      "thumb": "items/images/en/thumbs/carmine_penta_stock.c1aca6866f8ca8647358966756a8a81b.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60575dd590a69e0070a89ed3",
+      "url_name": "carmine_penta_barrel",
+      "icon": "items/images/en/carmine_penta_barrel.c1aca6866f8ca8647358966756a8a81b.png",
+      "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/carmine_penta_barrel.c1aca6866f8ca8647358966756a8a81b.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60575dd690a69e0070a89ed4",
+      "url_name": "carmine_penta_blueprint",
+      "icon": "items/images/en/carmine_penta_blueprint.c1aca6866f8ca8647358966756a8a81b.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/carmine_penta_blueprint.c1aca6866f8ca8647358966756a8a81b.128x128.png",
+      "tags": [
+        "weapon",
+        "primary",
+        "blueprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60575dd690a69e0070a89ed5",
+      "url_name": "carmine_penta_set",
+      "icon": "items/images/en/carmine_penta_set.c1aca6866f8ca8647358966756a8a81b.png",
+      "thumb": "items/images/en/thumbs/carmine_penta_set.c1aca6866f8ca8647358966756a8a81b.128x128.png",
+      "tags": [
+        "weapon",
+        "primary",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 8000
+    }
+  ]
+}

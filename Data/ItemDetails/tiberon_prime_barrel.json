@@ -1,0 +1,81 @@
+{
+  "id": "5ab167b7b2b6a80475780fb1",
+  "items_in_set": [
+    {
+      "id": "5ab167b7b2b6a80475780fab",
+      "url_name": "tiberon_prime_blueprint",
+      "icon": "items/images/en/tiberon_prime_blueprint.53f3cf1c68314c0555fbb7020d01f001.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/tiberon_prime_blueprint.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "primary",
+        "blueprint"
+      ],
+      "ducats": 25,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5ab167b7b2b6a80475780fb1",
+      "url_name": "tiberon_prime_barrel",
+      "icon": "items/images/en/tiberon_prime_barrel.53f3cf1c68314c0555fbb7020d01f001.png",
+      "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/tiberon_prime_barrel.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 65,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5ab167b8b2b6a80475780fb8",
+      "url_name": "tiberon_prime_stock",
+      "icon": "items/images/en/tiberon_prime_stock.53f3cf1c68314c0555fbb7020d01f001.png",
+      "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
+      "thumb": "items/images/en/thumbs/tiberon_prime_stock.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5ab167b8b2b6a80475780fc0",
+      "url_name": "tiberon_prime_set",
+      "icon": "items/images/en/tiberon_prime_set.53f3cf1c68314c0555fbb7020d01f001.png",
+      "thumb": "items/images/en/thumbs/tiberon_prime_set.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "set",
+        "primary"
+      ],
+      "ducats": 205,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "5ab167b8b2b6a80475780fc6",
+      "url_name": "tiberon_prime_receiver",
+      "icon": "items/images/en/tiberon_prime_receiver.53f3cf1c68314c0555fbb7020d01f001.png",
+      "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/tiberon_prime_receiver.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

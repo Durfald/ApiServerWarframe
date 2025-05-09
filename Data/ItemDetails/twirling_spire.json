@@ -1,0 +1,21 @@
+{
+  "id": "59eb9b0952f90ed715e14143",
+  "items_in_set": [
+    {
+      "id": "59eb9b0952f90ed715e14143",
+      "url_name": "twirling_spire",
+      "icon": "items/images/en/twirling_spire.67fe342c880bda80d815f6eae1eec325.png",
+      "thumb": "items/images/en/thumbs/twirling_spire.67fe342c880bda80d815f6eae1eec325.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "polearms",
+        "stance",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

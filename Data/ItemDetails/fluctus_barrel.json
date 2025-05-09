@@ -1,0 +1,65 @@
+{
+  "id": "5783bf15d9b6753790c89e8b",
+  "items_in_set": [
+    {
+      "id": "5783bf15d9b6753790c89e8b",
+      "url_name": "fluctus_barrel",
+      "icon": "items/images/en/fluctus_barrel.764b2148dde0c8969f748d6e0b80f957.png",
+      "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/fluctus_barrel.764b2148dde0c8969f748d6e0b80f957.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5783bf1ad9b6753790c89e8c",
+      "url_name": "fluctus_limbs",
+      "icon": "items/images/en/fluctus_limbs.764b2148dde0c8969f748d6e0b80f957.png",
+      "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
+      "thumb": "items/images/en/thumbs/fluctus_limbs.764b2148dde0c8969f748d6e0b80f957.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5783bf20d9b6753790c89e8d",
+      "url_name": "fluctus_stock",
+      "icon": "items/images/en/fluctus_stock.764b2148dde0c8969f748d6e0b80f957.png",
+      "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/fluctus_stock.764b2148dde0c8969f748d6e0b80f957.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "582b0f850af25410b099f7f9",
+      "url_name": "fluctus_set",
+      "icon": "items/images/en/fluctus_set.764b2148dde0c8969f748d6e0b80f957.png",
+      "thumb": "items/images/en/thumbs/fluctus_set.764b2148dde0c8969f748d6e0b80f957.128x128.png",
+      "tags": [
+        "weapon",
+        "set",
+        "primary",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    }
+  ]
+}

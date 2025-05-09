@@ -1,0 +1,20 @@
+{
+  "id": "5e839495267539077b0dd6d1",
+  "items_in_set": [
+    {
+      "id": "5e839495267539077b0dd6d1",
+      "url_name": "sentient_scalpel",
+      "icon": "items/images/en/sentient_scalpel.2a05327a670da6dbe3452a9d371ac016.png",
+      "thumb": "items/images/en/thumbs/sentient_scalpel.2a05327a670da6dbe3452a9d371ac016.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "railjack",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

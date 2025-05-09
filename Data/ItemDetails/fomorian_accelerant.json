@@ -1,0 +1,21 @@
+{
+  "id": "5729bd18cb59ed5a9b484e92",
+  "items_in_set": [
+    {
+      "id": "5729bd18cb59ed5a9b484e92",
+      "url_name": "fomorian_accelerant",
+      "icon": "items/images/en/fomorian_accelerant.703cc26fdc88d12f834c157eae51704e.png",
+      "thumb": "items/images/en/thumbs/fomorian_accelerant.703cc26fdc88d12f834c157eae51704e.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "uncommon",
+        "primary",
+        "drakgoon"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

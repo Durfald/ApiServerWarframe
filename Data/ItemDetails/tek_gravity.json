@@ -1,0 +1,20 @@
+{
+  "id": "5be4b0a53ffcc703294e76b5",
+  "items_in_set": [
+    {
+      "id": "5be4b0a53ffcc703294e76b5",
+      "url_name": "tek_gravity",
+      "icon": "items/images/en/tek_gravity.9a654d9bd7e1612aa5aaddc128d5c0a6.png",
+      "thumb": "items/images/en/thumbs/tek_gravity.9a654d9bd7e1612aa5aaddc128d5c0a6.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "melee",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

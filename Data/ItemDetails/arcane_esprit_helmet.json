@@ -1,0 +1,18 @@
+{
+  "id": "54aaf231e77989307d9accb2",
+  "items_in_set": [
+    {
+      "id": "54aaf231e77989307d9accb2",
+      "url_name": "arcane_esprit_helmet",
+      "icon": "items/images/en/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.png",
+      "thumb": "items/images/en/thumbs/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.128x128.png",
+      "tags": [
+        "arcane_helmet",
+        "skin"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

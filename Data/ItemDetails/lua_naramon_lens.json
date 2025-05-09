@@ -1,0 +1,18 @@
+{
+  "id": "5d6ea6817ea27b05d929cc06",
+  "items_in_set": [
+    {
+      "id": "5d6ea6817ea27b05d929cc06",
+      "url_name": "lua_naramon_lens",
+      "icon": "items/images/en/lua_naramon_lens.e3b2ed7d024b138843320d13d204e020.png",
+      "thumb": "items/images/en/thumbs/lua_naramon_lens.e3b2ed7d024b138843320d13d204e020.128x128.png",
+      "tags": [
+        "focus",
+        "lens"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

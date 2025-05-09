@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e5155bf",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155bf",
+      "url_name": "chilling_grasp",
+      "icon": "items/images/en/chilling_grasp.7dfb6e5744d0c7356011ad64c0e2d039.png",
+      "thumb": "items/images/en/thumbs/chilling_grasp.7dfb6e5744d0c7356011ad64c0e2d039.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "shotgun",
+        "mod",
+        "uncommon",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

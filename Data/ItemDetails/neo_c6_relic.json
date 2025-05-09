@@ -1,0 +1,24 @@
+{
+  "id": "67acda8f125398d92c8bb4f8",
+  "items_in_set": [
+    {
+      "id": "67acda8f125398d92c8bb4f8",
+      "url_name": "neo_c6_relic",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "neo",
+        "relic"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "5fde10c46db57b0185b3907d",
+  "items_in_set": [
+    {
+      "id": "5fde10c36db57b0185b39077",
+      "url_name": "voidrig_casing",
+      "icon": "items/images/en/voidrig_casing.d8acf865db09a10d93fdac2cdd1e8211.png",
+      "thumb": "items/images/en/thumbs/voidrig_casing.d8acf865db09a10d93fdac2cdd1e8211.128x128.png",
+      "tags": [
+        "component",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5fde10c46db57b0185b3907c",
+      "url_name": "voidrig_capsule",
+      "icon": "items/images/en/voidrig_capsule.75bd55fc8ff8512e1667272e4bc4e567.png",
+      "thumb": "items/images/en/thumbs/voidrig_capsule.75bd55fc8ff8512e1667272e4bc4e567.128x128.png",
+      "tags": [
+        "component",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5fde10c46db57b0185b3907d",
+      "url_name": "voidrig_engine",
+      "icon": "items/images/en/voidrig_engine.8644e648e796b8b8db590ee5de986cca.png",
+      "thumb": "items/images/en/thumbs/voidrig_engine.8644e648e796b8b8db590ee5de986cca.128x128.png",
+      "tags": [
+        "component",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5fde10c56db57b0185b39082",
+      "url_name": "voidrig_weapon_pod",
+      "icon": "items/images/en/voidrig_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.png",
+      "thumb": "items/images/en/thumbs/voidrig_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.128x128.png",
+      "tags": [
+        "component",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5fde10c66db57b0185b39086",
+      "url_name": "voidrig_set",
+      "icon": "items/images/en/voidrig_set.7174a72013c8dc2d0464cb6454f9c161.png",
+      "thumb": "items/images/en/thumbs/voidrig_set.7174a72013c8dc2d0464cb6454f9c161.128x128.png",
+      "tags": [
+        "necramech",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "54c68672e7798913ba044082",
+  "url_name": "primed_flow",
+  "name": "Поток Прайм",
+  "spread": 15,
+  "rank": 0.0,
+  "buy_price": 35,
+  "sell_price": 50,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

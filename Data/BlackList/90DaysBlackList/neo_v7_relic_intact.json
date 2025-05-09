@@ -1,0 +1,11 @@
+{
+  "id": "6054ddaa5221e30057500fa4",
+  "url_name": "neo_v7_relic",
+  "name": "Реликвия Нео V7",
+  "liquidity": 31,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

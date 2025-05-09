@@ -1,0 +1,21 @@
+{
+  "id": "5bbcec53f639cf007b7357cf",
+  "items_in_set": [
+    {
+      "id": "5bbcec53f639cf007b7357cf",
+      "url_name": "primed_expel_corrupted",
+      "icon": "items/images/en/primed_expel_corrupted.8c7d6df438f5bf500adda9c1745190fc.png",
+      "thumb": "items/images/en/thumbs/primed_expel_corrupted.8c7d6df438f5bf500adda9c1745190fc.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

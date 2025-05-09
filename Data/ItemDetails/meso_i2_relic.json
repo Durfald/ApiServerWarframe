@@ -1,0 +1,24 @@
+{
+  "id": "61bb64fc3132ff00482b5fbd",
+  "items_in_set": [
+    {
+      "id": "61bb64fc3132ff00482b5fbd",
+      "url_name": "meso_i2_relic",
+      "icon": "items/images/en/meso_i2_relic.32eb1e727be665c175084b03829b8015.png",
+      "thumb": "items/images/en/thumbs/meso_i2_relic.32eb1e727be665c175084b03829b8015.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "relic",
+        "meso"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "5fde10c36db57b0185b39075",
+  "items_in_set": [
+    {
+      "id": "5fde10c26db57b0185b39073",
+      "url_name": "cortege_barrel",
+      "icon": "items/images/en/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.png",
+      "thumb": "items/images/en/thumbs/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png",
+      "tags": [
+        "necramech",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5fde10c36db57b0185b39075",
+      "url_name": "cortege_receiver",
+      "icon": "items/images/en/cortege_receiver.a08482f3e246479e09f00f1ee8ffccb6.png",
+      "thumb": "items/images/en/thumbs/cortege_receiver.a08482f3e246479e09f00f1ee8ffccb6.128x128.png",
+      "tags": [
+        "necramech",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5fde10c56db57b0185b3907e",
+      "url_name": "cortege_stock",
+      "icon": "items/images/en/cortege_stock.91f0b5fabbeeebd690890cd4e16ebf71.png",
+      "thumb": "items/images/en/thumbs/cortege_stock.91f0b5fabbeeebd690890cd4e16ebf71.128x128.png",
+      "tags": [
+        "necramech",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5fde10c66db57b0185b39084",
+      "url_name": "cortege_set",
+      "icon": "items/images/en/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.png",
+      "thumb": "items/images/en/thumbs/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.128x128.png",
+      "tags": [
+        "primary",
+        "archwing",
+        "weapon",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    }
+  ]
+}

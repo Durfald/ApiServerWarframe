@@ -1,0 +1,11 @@
+{
+  "id": "6054dd315221e30057500f34",
+  "url_name": "axi_c6_relic",
+  "name": "Реликвия Акси C6",
+  "liquidity": 3,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

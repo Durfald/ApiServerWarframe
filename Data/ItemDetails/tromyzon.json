@@ -1,0 +1,22 @@
+{
+  "id": "6054de9f5221e30057501090",
+  "items_in_set": [
+    {
+      "id": "6054de9f5221e30057501090",
+      "url_name": "tromyzon",
+      "icon": "items/images/en/tromyzon.b596391db46a92ee471fb3b94f265881.png",
+      "thumb": "items/images/en/thumbs/tromyzon.b596391db46a92ee471fb3b94f265881.128x128.png",
+      "subtypes": [
+        "basic",
+        "adorned",
+        "magnificent"
+      ],
+      "tags": [
+        "fish"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

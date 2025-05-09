@@ -1,0 +1,12 @@
+{
+  "id": "58b57068eb26db5c31192111",
+  "url_name": "euphona_prime_receiver",
+  "name": "Юфона Прайм: Приёмник",
+  "spread": -2,
+  "buy_price": 20,
+  "sell_price": 18,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

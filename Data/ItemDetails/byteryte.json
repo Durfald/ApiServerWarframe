@@ -1,0 +1,20 @@
+{
+  "id": "67db600f9cec3e52e62523e3",
+  "items_in_set": [
+    {
+      "id": "67db600f9cec3e52e62523e3",
+      "url_name": "byteryte",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "parazon"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

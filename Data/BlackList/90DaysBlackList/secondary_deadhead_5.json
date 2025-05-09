@@ -1,0 +1,13 @@
+{
+  "id": "60e70f7f479445008f27259d",
+  "url_name": "secondary_deadhead",
+  "name": "Вторичный Выстрел В Голову",
+  "spread": 1,
+  "rank": 5.0,
+  "buy_price": 9,
+  "sell_price": 10,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

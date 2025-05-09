@@ -1,0 +1,20 @@
+{
+  "id": "5be4b0a53ffcc703294e76b4",
+  "items_in_set": [
+    {
+      "id": "5be4b0a53ffcc703294e76b4",
+      "url_name": "tek_enhance",
+      "icon": "items/images/en/tek_enhance.f817cce36b12300067e82981dc56eeb1.png",
+      "thumb": "items/images/en/thumbs/tek_enhance.f817cce36b12300067e82981dc56eeb1.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "kavat",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

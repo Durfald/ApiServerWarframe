@@ -1,0 +1,13 @@
+{
+  "id": "59dfeb6c115f1d887cfd7ac2",
+  "url_name": "augur_reach",
+  "name": "Охват Предвестника",
+  "spread": 0,
+  "rank": 0.0,
+  "buy_price": 15,
+  "sell_price": 15,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

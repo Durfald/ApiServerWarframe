@@ -1,0 +1,11 @@
+{
+  "id": "6054dd3e5221e30057500f43",
+  "url_name": "axi_h4_relic",
+  "name": "Реликвия Акси H4",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

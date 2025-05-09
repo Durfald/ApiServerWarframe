@@ -1,0 +1,18 @@
+{
+  "id": "54aaf2ade779897b41e2872c",
+  "items_in_set": [
+    {
+      "id": "54aaf2ade779897b41e2872c",
+      "url_name": "arcane_pulse_helmet",
+      "icon": "items/images/en/arcane_pulse_volt_helmet.bd03065877b19dee59e84a9861b9a3df.png",
+      "thumb": "items/images/en/thumbs/arcane_pulse_volt_helmet.bd03065877b19dee59e84a9861b9a3df.128x128.png",
+      "tags": [
+        "arcane_helmet",
+        "skin"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

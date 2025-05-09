@@ -1,0 +1,11 @@
+{
+  "id": "633e2e6cf570d10793afb822",
+  "url_name": "lith_h5_relic",
+  "name": "Реликвия Лит H5",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

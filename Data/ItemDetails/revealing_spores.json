@@ -1,0 +1,21 @@
+{
+  "id": "5ecd08d804d55c0806f8534c",
+  "items_in_set": [
+    {
+      "id": "5ecd08d804d55c0806f8534c",
+      "url_name": "revealing_spores",
+      "icon": "items/images/en/revealing_spores.255124e5a65762daa4ad1f9c3c1d2514.png",
+      "thumb": "items/images/en/thumbs/revealing_spores.255124e5a65762daa4ad1f9c3c1d2514.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "saryn",
+        "rare",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

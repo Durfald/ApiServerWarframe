@@ -1,0 +1,20 @@
+{
+  "id": "59dfeb63115f1d887cfd7abc",
+  "items_in_set": [
+    {
+      "id": "59dfeb63115f1d887cfd7abc",
+      "url_name": "vigilante_pursuit",
+      "icon": "items/images/en/vigilante_pursuit.332dedb5fa7b6edac656a8fd1ad10535.png",
+      "thumb": "items/images/en/thumbs/vigilante_pursuit.332dedb5fa7b6edac656a8fd1ad10535.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5a04750a6c4655012038ddc6",
+  "items_in_set": [
+    {
+      "id": "5a04750a6c4655012038ddc6",
+      "url_name": "virtuos_fury",
+      "icon": "items/images/en/virtuos_fury.f71902bf678d290ad03b625dc35834ca.png",
+      "thumb": "items/images/en/thumbs/virtuos_fury.f71902bf678d290ad03b625dc35834ca.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "operator",
+        "uncommon",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

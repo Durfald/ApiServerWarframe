@@ -1,0 +1,21 @@
+{
+  "id": "66fd6a5b3a826eccf651cd7d",
+  "items_in_set": [
+    {
+      "id": "66fd6a5b3a826eccf651cd7d",
+      "url_name": "cull_the_weak",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "melee",
+        "claws"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

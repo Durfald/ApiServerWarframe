@@ -1,0 +1,13 @@
+{
+  "id": "675c5cd07b18977f6e6453ee",
+  "url_name": "secondary_enervate",
+  "name": "Вторичное Истощение",
+  "spread": 0,
+  "rank": 0.0,
+  "buy_price": 3,
+  "sell_price": 3,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

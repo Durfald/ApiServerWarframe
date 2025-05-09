@@ -1,0 +1,22 @@
+{
+  "id": "54a74454e779892d5e51562e",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51562e",
+      "url_name": "dual_rounds",
+      "icon": "items/images/en/dual_rounds.304395bed5a40d76ddb9a62c76736d94.png",
+      "thumb": "items/images/en/thumbs/dual_rounds.304395bed5a40d76ddb9a62c76736d94.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "primary",
+        "mod",
+        "archwing",
+        "archgun"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

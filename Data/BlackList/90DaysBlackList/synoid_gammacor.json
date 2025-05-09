@@ -1,0 +1,10 @@
+{
+  "id": "54aae283e779897f276a5768",
+  "url_name": "synoid_gammacor",
+  "name": "Синоидальный Гаммакор",
+  "liquidity": 25,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

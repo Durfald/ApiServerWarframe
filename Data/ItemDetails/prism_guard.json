@@ -1,0 +1,21 @@
+{
+  "id": "56dac5805cc639de0a45c51f",
+  "items_in_set": [
+    {
+      "id": "56dac5805cc639de0a45c51f",
+      "url_name": "prism_guard",
+      "icon": "items/images/en/prism_guard.739b3605765381236dc43f5697692fc1.png",
+      "thumb": "items/images/en/thumbs/prism_guard.739b3605765381236dc43f5697692fc1.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "mirage"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

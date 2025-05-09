@@ -1,0 +1,20 @@
+{
+  "id": "5c1bda2014a8e4006b1dad99",
+  "items_in_set": [
+    {
+      "id": "5c1bda2014a8e4006b1dad99",
+      "url_name": "perfect_balance",
+      "icon": "items/images/en/perfect_balance.17da73e7e9003067dfbd1cb9f39330dd.png",
+      "thumb": "items/images/en/thumbs/perfect_balance.17da73e7e9003067dfbd1cb9f39330dd.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "uncommon",
+        "k_drive"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

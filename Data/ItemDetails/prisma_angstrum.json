@@ -1,0 +1,18 @@
+{
+  "id": "59b2a2468d62f4b743a21f31",
+  "items_in_set": [
+    {
+      "id": "59b2a2468d62f4b743a21f31",
+      "url_name": "prisma_angstrum",
+      "icon": "items/images/en/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.png",
+      "thumb": "items/images/en/thumbs/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.128x128.png",
+      "tags": [
+        "weapon",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

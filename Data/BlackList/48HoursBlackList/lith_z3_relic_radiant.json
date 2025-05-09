@@ -1,0 +1,11 @@
+{
+  "id": "6242037766a58f0108c3d489",
+  "url_name": "lith_z3_relic",
+  "name": "Реликвия Лит Z3",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

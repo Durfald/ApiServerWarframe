@@ -1,0 +1,21 @@
+{
+  "id": "66fd67e93a826eccf651cd51",
+  "items_in_set": [
+    {
+      "id": "66fd67e93a826eccf651cd51",
+      "url_name": "gastro",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "grendel"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

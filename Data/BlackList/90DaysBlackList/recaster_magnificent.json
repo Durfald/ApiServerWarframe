@@ -1,0 +1,11 @@
+{
+  "id": "6054dea35221e30057501093",
+  "url_name": "recaster",
+  "name": "Рекастер",
+  "liquidity": 0,
+  "subtype": "magnificent",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

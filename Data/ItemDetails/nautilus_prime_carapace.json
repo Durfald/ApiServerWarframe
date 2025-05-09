@@ -1,0 +1,79 @@
+{
+  "id": "66c60c9066bbb2aedca695ab",
+  "items_in_set": [
+    {
+      "id": "66c60c9066bbb2aedca695a8",
+      "url_name": "nautilus_prime_set",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "prime",
+        "sentinel",
+        "set"
+      ],
+      "ducats": 260,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "66c60c9066bbb2aedca695a9",
+      "url_name": "nautilus_prime_blueprint",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "prime",
+        "sentinel",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "66c60c9066bbb2aedca695aa",
+      "url_name": "nautilus_prime_cerebrum",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/prime_cerebrum_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "prime",
+        "weapon"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "66c60c9066bbb2aedca695ab",
+      "url_name": "nautilus_prime_carapace",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/prime_carapace_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "prime",
+        "weapon"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "66c60c9166bbb2aedca695ac",
+      "url_name": "nautilus_prime_systems",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/prime_systems_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "prime",
+        "weapon"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

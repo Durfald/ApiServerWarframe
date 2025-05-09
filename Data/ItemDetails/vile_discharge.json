@@ -1,0 +1,21 @@
+{
+  "id": "62d3494175156700ce450dfb",
+  "items_in_set": [
+    {
+      "id": "62d3494175156700ce450dfb",
+      "url_name": "vile_discharge",
+      "icon": "items/images/en/vile_discharge.f79e889a984d749579a3282409b02a1d.png",
+      "thumb": "items/images/en/thumbs/vile_discharge.f79e889a984d749579a3282409b02a1d.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "embolist"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

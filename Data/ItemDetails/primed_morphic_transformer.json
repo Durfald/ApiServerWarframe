@@ -1,0 +1,20 @@
+{
+  "id": "5655c4e5b66f832e25b8ce7b",
+  "items_in_set": [
+    {
+      "id": "5655c4e5b66f832e25b8ce7b",
+      "url_name": "primed_morphic_transformer",
+      "icon": "items/images/en/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.png",
+      "thumb": "items/images/en/thumbs/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

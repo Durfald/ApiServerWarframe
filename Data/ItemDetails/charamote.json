@@ -1,0 +1,22 @@
+{
+  "id": "6054de9d5221e3005750108f",
+  "items_in_set": [
+    {
+      "id": "6054de9d5221e3005750108f",
+      "url_name": "charamote",
+      "icon": "items/images/en/charamote.30062a02c0c3afeb972e8b17c220a1ec.png",
+      "thumb": "items/images/en/thumbs/charamote.30062a02c0c3afeb972e8b17c220a1ec.128x128.png",
+      "subtypes": [
+        "basic",
+        "adorned",
+        "magnificent"
+      ],
+      "tags": [
+        "fish"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

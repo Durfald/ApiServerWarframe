@@ -1,0 +1,13 @@
+{
+  "id": "54a74455e779892d5e515698",
+  "url_name": "critical_deceleration",
+  "name": "Критический Распад",
+  "spread": 6,
+  "rank": 0.0,
+  "buy_price": 2,
+  "sell_price": 8,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

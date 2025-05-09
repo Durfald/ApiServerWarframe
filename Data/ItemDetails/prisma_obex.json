@@ -1,0 +1,18 @@
+{
+  "id": "590e255197a0add8e9d5da4b",
+  "items_in_set": [
+    {
+      "id": "590e255197a0add8e9d5da4b",
+      "url_name": "prisma_obex",
+      "icon": "items/images/en/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.png",
+      "thumb": "items/images/en/thumbs/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.128x128.png",
+      "tags": [
+        "weapon",
+        "melee"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

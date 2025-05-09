@@ -1,0 +1,11 @@
+{
+  "id": "63ee00fd10125411da49e6e9",
+  "url_name": "cathode_current",
+  "name": "Катодный Ток",
+  "liquidity": 23,
+  "rank": 0.0,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

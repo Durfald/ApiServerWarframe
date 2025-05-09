@@ -1,0 +1,17 @@
+{
+  "id": "5be5f5a13ffcc7038857f10d",
+  "items_in_set": [
+    {
+      "id": "5be5f5a13ffcc7038857f10d",
+      "url_name": "marquise_thyst",
+      "icon": "items/images/en/marquise_thyst.6c9d411ba3dc55d44e7bc1299d44bd4a.png",
+      "thumb": "items/images/en/thumbs/marquise_thyst.6c9d411ba3dc55d44e7bc1299d44bd4a.128x128.png",
+      "tags": [
+        "gem"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "58d8f22a11efe42a5e5231fe",
+  "items_in_set": [
+    {
+      "id": "58d8f22a11efe42a5e5231fe",
+      "url_name": "ayatan_valana_sculpture",
+      "icon": "items/images/en/ayatan_valana_sculpture.331f1ba4280627977651aa7209361033.png",
+      "thumb": "items/images/en/thumbs/ayatan_valana_sculpture.331f1ba4280627977651aa7209361033.128x128.png",
+      "tags": [
+        "ayatan_sculpture"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 4000
+    }
+  ]
+}

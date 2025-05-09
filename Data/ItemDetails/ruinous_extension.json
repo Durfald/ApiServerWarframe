@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e5155a1",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155a1",
+      "url_name": "ruinous_extension",
+      "icon": "items/images/en/ruinous_extension.25e7e56624d0e1dbf1197ef7834a5e24.png",
+      "thumb": "items/images/en/thumbs/ruinous_extension.25e7e56624d0e1dbf1197ef7834a5e24.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "uncommon",
+        "pistol",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5a04750b6c4655012038ddc9",
+  "items_in_set": [
+    {
+      "id": "5a04750b6c4655012038ddc9",
+      "url_name": "exodia_force",
+      "icon": "items/images/en/exodia_force.3777cf3132503f972624ac56c1731743.png",
+      "thumb": "items/images/en/thumbs/exodia_force.3777cf3132503f972624ac56c1731743.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

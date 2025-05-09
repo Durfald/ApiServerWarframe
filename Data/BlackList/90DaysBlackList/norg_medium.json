@@ -1,0 +1,11 @@
+{
+  "id": "6054de845221e30057501086",
+  "url_name": "norg",
+  "name": "Норга",
+  "liquidity": 13,
+  "subtype": "medium",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

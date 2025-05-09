@@ -1,0 +1,18 @@
+{
+  "id": "5667519a5dcbc186f0536bd4",
+  "items_in_set": [
+    {
+      "id": "5667519a5dcbc186f0536bd4",
+      "url_name": "arcane_tempo",
+      "icon": "items/images/en/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.png",
+      "thumb": "items/images/en/thumbs/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "54a74455e779892d5e5156f5",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156f5",
+      "url_name": "thermite_rounds",
+      "icon": "items/images/en/thermite_rounds.01409c333c8c063b51cac3283ebaaa30.png",
+      "thumb": "items/images/en/thumbs/thermite_rounds.01409c333c8c063b51cac3283ebaaa30.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "rifle",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "5dff6e111456970316674a20",
+  "url_name": "quellor_blueprint",
+  "name": "Кэллор (Чертеж)",
+  "liquidity": 42,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5be5f5a23ffcc7038857f119",
+  "items_in_set": [
+    {
+      "id": "5be5f5a23ffcc7038857f119",
+      "url_name": "flame_gland",
+      "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
+      "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "claws"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

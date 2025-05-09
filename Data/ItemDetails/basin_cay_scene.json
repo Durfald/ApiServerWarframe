@@ -1,0 +1,18 @@
+{
+  "id": "64c3a3a26645670594f57a61",
+  "items_in_set": [
+    {
+      "id": "64c3a3a26645670594f57a61",
+      "url_name": "basin_cay_scene",
+      "icon": "items/images/en/basin_cay_scene.4a1f6e877d66597ad660f77c2b6ae84a.png",
+      "thumb": "items/images/en/thumbs/basin_cay_scene.4a1f6e877d66597ad660f77c2b6ae84a.128x128.png",
+      "tags": [
+        "misc",
+        "scene"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

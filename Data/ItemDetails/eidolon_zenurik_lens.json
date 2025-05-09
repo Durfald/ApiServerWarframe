@@ -1,0 +1,18 @@
+{
+  "id": "5a9ed835b2b6a80133127c2d",
+  "items_in_set": [
+    {
+      "id": "5a9ed835b2b6a80133127c2d",
+      "url_name": "eidolon_zenurik_lens",
+      "icon": "items/images/en/eidolon_zenurik_lens.93dc4a7c122b9628cd72cee12ac77f3d.png",
+      "thumb": "items/images/en/thumbs/eidolon_zenurik_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png",
+      "tags": [
+        "focus",
+        "lens"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

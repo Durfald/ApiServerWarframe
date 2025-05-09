@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e51559c",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51559c",
+      "url_name": "sure_shot",
+      "icon": "items/images/en/sure_shot.d6761f1901d2e4f8f44d2616ddbb8d57.png",
+      "thumb": "items/images/en/thumbs/sure_shot.d6761f1901d2e4f8f44d2616ddbb8d57.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "pistol",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5be4b0a53ffcc703294e76b0",
+  "items_in_set": [
+    {
+      "id": "5be4b0a53ffcc703294e76b0",
+      "url_name": "fetch",
+      "icon": "items/images/en/fetch.3029b53e4b6e53493e836cd5cd980146.png",
+      "thumb": "items/images/en/thumbs/fetch.3029b53e4b6e53493e836cd5cd980146.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "beast",
+        "sentinel",
+        "uncommon"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

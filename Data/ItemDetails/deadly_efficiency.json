@@ -1,0 +1,22 @@
+{
+  "id": "5c1bda1814a8e4006b1dad8a",
+  "items_in_set": [
+    {
+      "id": "5c1bda1814a8e4006b1dad8a",
+      "url_name": "deadly_efficiency",
+      "icon": "items/images/en/deadly_efficiency.302b1c7eefacaad306cc6d2fda818e90.png",
+      "thumb": "items/images/en/thumbs/deadly_efficiency.302b1c7eefacaad306cc6d2fda818e90.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "primary",
+        "mod",
+        "archwing",
+        "archgun"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

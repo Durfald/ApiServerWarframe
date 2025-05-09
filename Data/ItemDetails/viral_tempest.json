@@ -1,0 +1,21 @@
+{
+  "id": "58446f502c2ada0042b6fc3d",
+  "items_in_set": [
+    {
+      "id": "58446f502c2ada0042b6fc3d",
+      "url_name": "viral_tempest",
+      "icon": "items/images/en/corroding_barrage.98840ac4923a0115b6d43b24f745e34e.png",
+      "thumb": "items/images/en/thumbs/corroding_barrage.98840ac4923a0115b6d43b24f745e34e.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "warframe",
+        "rare",
+        "hydroid"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "65f85b70f51dc116096b6767",
+  "url_name": "lith_g11_relic",
+  "name": "Реликвия Лит G11",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

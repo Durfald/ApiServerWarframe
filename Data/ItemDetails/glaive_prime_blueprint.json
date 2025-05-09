@@ -1,0 +1,66 @@
+{
+  "id": "54a73e65e779893a797fff44",
+  "items_in_set": [
+    {
+      "id": "54a73e65e779893a797fff43",
+      "url_name": "glaive_prime_blade",
+      "icon": "items/images/en/glaive_prime_blade.17767ab370f143a315df90177995ef92.png",
+      "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
+      "thumb": "items/images/en/thumbs/glaive_prime_blade.17767ab370f143a315df90177995ef92.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "54a73e65e779893a797fff44",
+      "url_name": "glaive_prime_blueprint",
+      "icon": "items/images/en/glaive_prime_blueprint.17767ab370f143a315df90177995ef92.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/glaive_prime_blueprint.17767ab370f143a315df90177995ef92.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "54a73e65e779893a797fff45",
+      "url_name": "glaive_prime_disc",
+      "icon": "items/images/en/glaive_prime_disc.17767ab370f143a315df90177995ef92.png",
+      "sub_icon": "sub_icons/weapon/prime_disc_128x128.png",
+      "thumb": "items/images/en/thumbs/glaive_prime_disc.17767ab370f143a315df90177995ef92.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "56783f24cbfa8f0432dd899d",
+      "url_name": "glaive_prime_set",
+      "icon": "items/images/en/glaive_prime_set.17767ab370f143a315df90177995ef92.png",
+      "thumb": "items/images/en/thumbs/glaive_prime_set.17767ab370f143a315df90177995ef92.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "set",
+        "melee"
+      ],
+      "ducats": 235,
+      "rarity": "",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5ce7fd88d23a3b00908c4212",
+  "items_in_set": [
+    {
+      "id": "5ce7fd88d23a3b00908c4212",
+      "url_name": "proton_snap",
+      "icon": "items/images/en/proton_snap.86503734ed8eb3c634d064905a602fce.png",
+      "thumb": "items/images/en/thumbs/proton_snap.86503734ed8eb3c634d064905a602fce.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "melee"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

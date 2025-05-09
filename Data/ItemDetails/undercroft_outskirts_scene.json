@@ -1,0 +1,18 @@
+{
+  "id": "64c3a3a16645670594f57a5d",
+  "items_in_set": [
+    {
+      "id": "64c3a3a16645670594f57a5d",
+      "url_name": "undercroft_outskirts_scene",
+      "icon": "items/images/en/undercroft_outskirts_scene.64ab5b1b16a005d3c40557037ba6d77d.png",
+      "thumb": "items/images/en/thumbs/undercroft_outskirts_scene.64ab5b1b16a005d3c40557037ba6d77d.128x128.png",
+      "tags": [
+        "misc",
+        "scene"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

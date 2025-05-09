@@ -1,0 +1,20 @@
+{
+  "id": "566759c8db7c7a568a8d45ca",
+  "items_in_set": [
+    {
+      "id": "566759c8db7c7a568a8d45ca",
+      "url_name": "stealth_drift",
+      "icon": "items/images/en/stealth_drift.4d089bfcf74e7fe98c2feba81b552854.png",
+      "thumb": "items/images/en/thumbs/stealth_drift.4d089bfcf74e7fe98c2feba81b552854.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

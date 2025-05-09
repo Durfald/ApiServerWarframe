@@ -1,0 +1,11 @@
+{
+  "id": "6530537732327ba8746da72c",
+  "url_name": "lith_o3_relic",
+  "name": "Реликвия Лит O3",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

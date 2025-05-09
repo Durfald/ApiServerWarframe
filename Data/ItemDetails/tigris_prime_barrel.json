@@ -1,0 +1,81 @@
+{
+  "id": "57bc9c84e506eb45ea251457",
+  "items_in_set": [
+    {
+      "id": "57bc9c84e506eb45ea251455",
+      "url_name": "tigris_prime_set",
+      "icon": "items/images/en/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.png",
+      "thumb": "items/images/en/thumbs/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+      "tags": [
+        "primary",
+        "prime",
+        "weapon",
+        "set"
+      ],
+      "ducats": 205,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "57bc9c84e506eb45ea251456",
+      "url_name": "tigris_prime_stock",
+      "icon": "items/images/en/tigris_prime_stock.5f82721ea78697c95208b9bceb72c4a4.png",
+      "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
+      "thumb": "items/images/en/thumbs/tigris_prime_stock.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "57bc9c84e506eb45ea251457",
+      "url_name": "tigris_prime_barrel",
+      "icon": "items/images/en/tigris_prime_barrel.5f82721ea78697c95208b9bceb72c4a4.png",
+      "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/tigris_prime_barrel.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "57bc9c84e506eb45ea251458",
+      "url_name": "tigris_prime_receiver",
+      "icon": "items/images/en/tigris_prime_receiver.5f82721ea78697c95208b9bceb72c4a4.png",
+      "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/tigris_prime_receiver.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "57bc9c84e506eb45ea251459",
+      "url_name": "tigris_prime_blueprint",
+      "icon": "items/images/en/tigris_prime_blueprint.5f82721ea78697c95208b9bceb72c4a4.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/tigris_prime_blueprint.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+      "tags": [
+        "primary",
+        "prime",
+        "weapon",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

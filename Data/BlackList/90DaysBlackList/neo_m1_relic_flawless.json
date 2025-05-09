@@ -1,0 +1,11 @@
+{
+  "id": "6054dda15221e30057500f9c",
+  "url_name": "neo_m1_relic",
+  "name": "Реликвия Нео M1",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

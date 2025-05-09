@@ -1,0 +1,19 @@
+{
+  "id": "60e5b8fc4794450053e9993e",
+  "items_in_set": [
+    {
+      "id": "60e5b8fc4794450053e9993e",
+      "url_name": "malicious_code",
+      "icon": "items/images/en/malicious_code.4dd2ce62a4ad80921eec32295055d406.png",
+      "thumb": "items/images/en/thumbs/malicious_code.4dd2ce62a4ad80921eec32295055d406.128x128.png",
+      "tags": [
+        "mod",
+        "rare",
+        "parazon"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

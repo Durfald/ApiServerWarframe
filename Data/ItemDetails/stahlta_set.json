@@ -1,0 +1,61 @@
+{
+  "id": "5ee76f4b04d55c0a81972435",
+  "items_in_set": [
+    {
+      "id": "5ee76f4b04d55c0a81972434",
+      "url_name": "stahlta_barrel",
+      "icon": "items/images/en/stahlta_barrel.30d7537c3158976f86998e5b9fa05f96.png",
+      "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/stahlta_barrel.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5ee76f4b04d55c0a81972435",
+      "url_name": "stahlta_set",
+      "icon": "items/images/en/stahlta_set.30d7537c3158976f86998e5b9fa05f96.png",
+      "thumb": "items/images/en/thumbs/stahlta_set.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+      "tags": [
+        "primary",
+        "weapon",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "5ee76f4c04d55c0a81972438",
+      "url_name": "stahlta_receiver",
+      "icon": "items/images/en/stahlta_receiver.30d7537c3158976f86998e5b9fa05f96.png",
+      "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/stahlta_receiver.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5ee76f4d04d55c0a8197243c",
+      "url_name": "stahlta_stock",
+      "icon": "items/images/en/stahlta_stock.30d7537c3158976f86998e5b9fa05f96.png",
+      "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
+      "thumb": "items/images/en/thumbs/stahlta_stock.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

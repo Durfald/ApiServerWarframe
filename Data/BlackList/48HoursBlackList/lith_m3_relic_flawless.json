@@ -1,0 +1,11 @@
+{
+  "id": "6054de3a5221e30057501042",
+  "url_name": "lith_m3_relic",
+  "name": "Реликвия Лит M3",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

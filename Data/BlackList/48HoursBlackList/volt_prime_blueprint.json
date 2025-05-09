@@ -1,0 +1,12 @@
+{
+  "id": "55244820e779890907ef6805",
+  "url_name": "volt_prime_blueprint",
+  "name": "Вольт Прайм (Чертеж)",
+  "spread": 8,
+  "buy_price": 10,
+  "sell_price": 18,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

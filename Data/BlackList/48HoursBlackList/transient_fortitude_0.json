@@ -1,0 +1,13 @@
+{
+  "id": "54a74454e779892d5e5155b7",
+  "url_name": "transient_fortitude",
+  "name": "Кратковременное Усиление",
+  "spread": -1,
+  "rank": 0.0,
+  "buy_price": 9,
+  "sell_price": 8,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

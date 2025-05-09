@@ -1,0 +1,20 @@
+{
+  "id": "54a74455e779892d5e5156d4",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156d4",
+      "url_name": "holster_amp",
+      "icon": "items/images/en/speed_holster.54553d4b3c642c7702ab942455e005bb.png",
+      "thumb": "items/images/en/thumbs/speed_holster.54553d4b3c642c7702ab942455e005bb.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "aura",
+        "uncommon"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

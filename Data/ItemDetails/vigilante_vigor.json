@@ -1,0 +1,20 @@
+{
+  "id": "59dfeb63115f1d887cfd7abe",
+  "items_in_set": [
+    {
+      "id": "59dfeb63115f1d887cfd7abe",
+      "url_name": "vigilante_vigor",
+      "icon": "items/images/en/vigilante_vigor.f74b61489f4f32ad34416ffb9297f1ed.png",
+      "thumb": "items/images/en/thumbs/vigilante_vigor.f74b61489f4f32ad34416ffb9297f1ed.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

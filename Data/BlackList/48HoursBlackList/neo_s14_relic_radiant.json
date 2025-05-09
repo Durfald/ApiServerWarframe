@@ -1,0 +1,11 @@
+{
+  "id": "6054dd9d5221e30057500f97",
+  "url_name": "neo_s14_relic",
+  "name": "Реликвия Нео S14",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,62 @@
+{
+  "id": "605b1de867ea0b004939c993",
+  "items_in_set": [
+    {
+      "id": "605b1de867ea0b004939c993",
+      "url_name": "athodai_blueprint",
+      "icon": "items/images/en/athodai_blueprint.df278ff7a927e6fa6e2c3a20f4ccdcfb.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/athodai_blueprint.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png",
+      "tags": [
+        "weapon",
+        "secondary",
+        "blueprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "605b1de967ea0b004939c994",
+      "url_name": "athodai_barrel",
+      "icon": "items/images/en/athodai_barrel.df278ff7a927e6fa6e2c3a20f4ccdcfb.png",
+      "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/athodai_barrel.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "605b1de967ea0b004939c995",
+      "url_name": "athodai_receiver",
+      "icon": "items/images/en/athodai_receiver.df278ff7a927e6fa6e2c3a20f4ccdcfb.png",
+      "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/athodai_receiver.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "605b1de967ea0b004939c996",
+      "url_name": "athodai_set",
+      "icon": "items/images/en/athodai_set.df278ff7a927e6fa6e2c3a20f4ccdcfb.png",
+      "thumb": "items/images/en/thumbs/athodai_set.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png",
+      "tags": [
+        "weapon",
+        "secondary",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    }
+  ]
+}

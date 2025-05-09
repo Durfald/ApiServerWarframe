@@ -1,0 +1,11 @@
+{
+  "id": "67351810db3ac2cfade14a86",
+  "url_name": "neo_g8_relic",
+  "name": "Реликвия Нео G8",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

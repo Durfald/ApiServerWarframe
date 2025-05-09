@@ -1,0 +1,82 @@
+{
+  "id": "5b2987abeb069f053623427a",
+  "items_in_set": [
+    {
+      "id": "5b2987aaeb069f0536234276",
+      "url_name": "limbo_prime_blueprint",
+      "icon": "items/images/en/limbo_prime_blueprint.7bfbc70bd8438594d45a47fba260b174.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/limbo_prime_blueprint.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+      "tags": [
+        "blueprint",
+        "prime",
+        "warframe"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5b2987abeb069f0536234277",
+      "url_name": "limbo_prime_neuroptics_blueprint",
+      "icon": "items/images/en/limbo_prime_neuroptics.7bfbc70bd8438594d45a47fba260b174.png",
+      "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
+      "thumb": "items/images/en/thumbs/limbo_prime_neuroptics.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+      "tags": [
+        "component",
+        "prime",
+        "warframe",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5b2987abeb069f0536234278",
+      "url_name": "limbo_prime_set",
+      "icon": "items/images/en/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.png",
+      "thumb": "items/images/en/thumbs/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+      "tags": [
+        "set",
+        "prime",
+        "warframe"
+      ],
+      "ducats": 260,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "5b2987abeb069f0536234279",
+      "url_name": "limbo_prime_systems_blueprint",
+      "icon": "items/images/en/limbo_prime_systems.7bfbc70bd8438594d45a47fba260b174.png",
+      "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
+      "thumb": "items/images/en/thumbs/limbo_prime_systems.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+      "tags": [
+        "component",
+        "prime",
+        "warframe",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5b2987abeb069f053623427a",
+      "url_name": "limbo_prime_chassis_blueprint",
+      "icon": "items/images/en/limbo_prime_chassis.7bfbc70bd8438594d45a47fba260b174.png",
+      "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+      "thumb": "items/images/en/thumbs/limbo_prime_chassis.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+      "tags": [
+        "component",
+        "prime",
+        "warframe",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

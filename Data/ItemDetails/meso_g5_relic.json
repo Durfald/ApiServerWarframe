@@ -1,0 +1,24 @@
+{
+  "id": "64c2aa1566456704eba6ba3c",
+  "items_in_set": [
+    {
+      "id": "64c2aa1566456704eba6ba3c",
+      "url_name": "meso_g5_relic",
+      "icon": "items/images/en/meso_g5_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "thumb": "items/images/en/thumbs/meso_g5_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "meso",
+        "relic"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

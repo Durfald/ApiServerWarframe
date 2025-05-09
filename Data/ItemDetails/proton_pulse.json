@@ -1,0 +1,20 @@
+{
+  "id": "5ce7fd85d23a3b00908c4204",
+  "items_in_set": [
+    {
+      "id": "5ce7fd85d23a3b00908c4204",
+      "url_name": "proton_pulse",
+      "icon": "items/images/en/proton_pulse.1421f759fe461d981591d55621cba142.png",
+      "thumb": "items/images/en/thumbs/proton_pulse.1421f759fe461d981591d55621cba142.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "common",
+        "mod",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

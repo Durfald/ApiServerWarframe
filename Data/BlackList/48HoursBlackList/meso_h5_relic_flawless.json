@@ -1,0 +1,11 @@
+{
+  "id": "65a7fc7eed5b0d2e3eb462c2",
+  "url_name": "meso_h5_relic",
+  "name": "Реликвия Мезо H5",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

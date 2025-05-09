@@ -1,0 +1,18 @@
+{
+  "id": "5667510e5dcbc186f0536bd0",
+  "items_in_set": [
+    {
+      "id": "5667510e5dcbc186f0536bd0",
+      "url_name": "arcane_consequence",
+      "icon": "items/images/en/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.png",
+      "thumb": "items/images/en/thumbs/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

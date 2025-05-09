@@ -1,0 +1,50 @@
+{
+  "id": "582b0f630af25410b099f7f7",
+  "items_in_set": [
+    {
+      "id": "5783bea1d9b6753790c89e86",
+      "url_name": "kaszas_handle",
+      "icon": "items/images/en/kaszas_handle.11baea8229af2d3500c79b829f9dfcee.png",
+      "sub_icon": "sub_icons/weapon/generic_handle_128x128.png",
+      "thumb": "items/images/en/thumbs/kaszas_handle.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5783bee2d9b6753790c89e87",
+      "url_name": "kaszas_blade",
+      "icon": "items/images/en/kaszas_blade.11baea8229af2d3500c79b829f9dfcee.png",
+      "sub_icon": "sub_icons/weapon/generic_blade_128x128.png",
+      "thumb": "items/images/en/thumbs/kaszas_blade.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "582b0f630af25410b099f7f7",
+      "url_name": "kaszas_set",
+      "icon": "items/images/en/kaszas_set.11baea8229af2d3500c79b829f9dfcee.png",
+      "thumb": "items/images/en/thumbs/kaszas_set.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+      "tags": [
+        "weapon",
+        "set",
+        "melee",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 4000
+    }
+  ]
+}

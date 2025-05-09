@@ -1,0 +1,11 @@
+{
+  "id": "6530539732327ba8746da734",
+  "url_name": "axi_g11_relic",
+  "name": "Реликвия Акси G11",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

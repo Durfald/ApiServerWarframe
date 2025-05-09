@@ -1,0 +1,61 @@
+{
+  "id": "67e8c92bcedcd0be6d135952",
+  "items_in_set": [
+    {
+      "id": "67e8c929cedcd0be6d13594f",
+      "url_name": "efv_5_jupiter_set",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "primary",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "67e8c929cedcd0be6d135950",
+      "url_name": "efv_5_jupiter_barrel",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "67e8c92acedcd0be6d135951",
+      "url_name": "efv_5_jupiter_receiver",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "67e8c92bcedcd0be6d135952",
+      "url_name": "efv_5_jupiter_stock",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

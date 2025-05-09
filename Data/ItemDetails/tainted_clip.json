@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e51564e",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51564e",
+      "url_name": "tainted_clip",
+      "icon": "items/images/en/tainted_clip.bbcdd9d47cba552ded5731145f9998a3.png",
+      "thumb": "items/images/en/thumbs/tainted_clip.bbcdd9d47cba552ded5731145f9998a3.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "pistol",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "63ee00fc10125411da49e6e7",
+  "items_in_set": [
+    {
+      "id": "63ee00fc10125411da49e6e7",
+      "url_name": "primary_plated_round",
+      "icon": "items/images/en/primary_plated_round.db83727f4a2cc66deac96ae09ab0299f.png",
+      "thumb": "items/images/en/thumbs/primary_plated_round.db83727f4a2cc66deac96ae09ab0299f.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

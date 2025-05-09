@@ -1,0 +1,10 @@
+{
+  "id": "5d8f65b17ea27b0968b6e577",
+  "url_name": "pathocyst_blueprint",
+  "name": "Патоцист (Чертеж)",
+  "liquidity": 8,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

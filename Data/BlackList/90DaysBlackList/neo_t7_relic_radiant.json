@@ -1,0 +1,11 @@
+{
+  "id": "64c2aa1666456704eba6ba49",
+  "url_name": "neo_t7_relic",
+  "name": "Реликвия Нео T7",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

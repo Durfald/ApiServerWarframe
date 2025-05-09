@@ -1,0 +1,18 @@
+{
+  "id": "654500acf9c750264c9cf87b",
+  "items_in_set": [
+    {
+      "id": "654500acf9c750264c9cf87b",
+      "url_name": "gotva_prime",
+      "icon": "items/images/en/gotva_prime.323e7113fa10a54ab363496770917b19.png",
+      "thumb": "items/images/en/thumbs/gotva_prime.323e7113fa10a54ab363496770917b19.128x128.png",
+      "tags": [
+        "weapon",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

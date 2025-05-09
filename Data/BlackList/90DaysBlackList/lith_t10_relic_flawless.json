@@ -1,0 +1,11 @@
+{
+  "id": "653053ae32327ba8746da740",
+  "url_name": "lith_t10_relic",
+  "name": "Реликвия Лит T10",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

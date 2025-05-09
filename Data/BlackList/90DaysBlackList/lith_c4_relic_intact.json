@@ -1,0 +1,11 @@
+{
+  "id": "6054de3b5221e30057501043",
+  "url_name": "lith_c4_relic",
+  "name": "Реликвия Лит C4",
+  "liquidity": 12,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

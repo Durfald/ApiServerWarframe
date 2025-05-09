@@ -1,0 +1,11 @@
+{
+  "id": "6054de965221e3005750108b",
+  "url_name": "echowinder",
+  "name": "Эхокрут",
+  "liquidity": 0,
+  "subtype": "basic",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,17 @@
+{
+  "id": "59eba86952f90ed715e14157",
+  "items_in_set": [
+    {
+      "id": "59eba86952f90ed715e14157",
+      "url_name": "marquise_veridos",
+      "icon": "items/images/en/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.png",
+      "thumb": "items/images/en/thumbs/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.128x128.png",
+      "tags": [
+        "gem"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

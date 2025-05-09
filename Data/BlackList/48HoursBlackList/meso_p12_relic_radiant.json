@@ -1,0 +1,11 @@
+{
+  "id": "644b00227ec1900044b97726",
+  "url_name": "meso_p12_relic",
+  "name": "Реликвия Мезо P12",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

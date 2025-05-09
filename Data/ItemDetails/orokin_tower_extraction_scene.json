@@ -1,0 +1,18 @@
+{
+  "id": "5bebf1713ffcc704caf38cf5",
+  "items_in_set": [
+    {
+      "id": "5bebf1713ffcc704caf38cf5",
+      "url_name": "orokin_tower_extraction_scene",
+      "icon": "items/images/en/orokin_tower_extraction_scene.e0839225d120829577caf4cf65a43789.png",
+      "thumb": "items/images/en/thumbs/orokin_tower_extraction_scene.e0839225d120829577caf4cf65a43789.128x128.png",
+      "tags": [
+        "scene",
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

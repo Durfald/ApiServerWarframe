@@ -1,0 +1,11 @@
+{
+  "id": "6054dd9e5221e30057500f99",
+  "url_name": "neo_d2_relic",
+  "name": "Реликвия Нео D2",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

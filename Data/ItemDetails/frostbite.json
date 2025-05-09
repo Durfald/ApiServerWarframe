@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e5155ac",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155ac",
+      "url_name": "frostbite",
+      "icon": "items/images/en/frostbite.e8c9b830402b0f3228c0c14efcae34fe.png",
+      "thumb": "items/images/en/thumbs/frostbite.e8c9b830402b0f3228c0c14efcae34fe.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "pistol",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "669bd42a59acb6bf03ebc344",
+  "url_name": "neo_g6_relic",
+  "name": "Реликвия Нео G6",
+  "liquidity": 23,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

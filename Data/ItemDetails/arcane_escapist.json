@@ -1,0 +1,19 @@
+{
+  "id": "67db60869cec3e52e62523f4",
+  "items_in_set": [
+    {
+      "id": "67db60869cec3e52e62523f4",
+      "url_name": "arcane_escapist",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

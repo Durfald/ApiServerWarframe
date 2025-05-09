@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e51560d",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51560d",
+      "url_name": "lethal_torrent",
+      "icon": "items/images/en/lethal_torrent.5f97f70430d22026c0bbcf6030f046a8.png",
+      "thumb": "items/images/en/thumbs/lethal_torrent.5f97f70430d22026c0bbcf6030f046a8.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "pistol",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

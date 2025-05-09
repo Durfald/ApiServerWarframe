@@ -1,0 +1,12 @@
+{
+  "id": "658ed23f2ad6a142084fa434",
+  "url_name": "primed_convulsion",
+  "name": "Конвульсия Прайм",
+  "spread": 20,
+  "rank": 10.0,
+  "buy_price": 80,
+  "sell_price": 100,
+  "trading_tax": 1000000,
+  "90days_trend": -0.325,
+  "48hours_trend": 0.033
+}

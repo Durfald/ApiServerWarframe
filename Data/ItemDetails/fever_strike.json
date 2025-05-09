@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e515669",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515669",
+      "url_name": "fever_strike",
+      "icon": "items/images/en/fever_strike.bf321f3944fc5640a739184a2a2fdf5b.png",
+      "thumb": "items/images/en/thumbs/fever_strike.bf321f3944fc5640a739184a2a2fdf5b.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "melee",
+        "uncommon"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

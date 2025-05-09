@@ -1,0 +1,24 @@
+{
+  "id": "61bb64fd3132ff00482b5fc1",
+  "items_in_set": [
+    {
+      "id": "61bb64fd3132ff00482b5fc1",
+      "url_name": "axi_t8_relic",
+      "icon": "items/images/en/axi_t8_relic.a74c06f0cae21bdb8933685c867385f8.png",
+      "thumb": "items/images/en/thumbs/axi_t8_relic.a74c06f0cae21bdb8933685c867385f8.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "relic",
+        "axi"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

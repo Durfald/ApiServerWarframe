@@ -1,0 +1,11 @@
+{
+  "id": "667ec84759acb6bf03ebc33c",
+  "url_name": "axi_r4_relic",
+  "name": "Реликвия Акси R4",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

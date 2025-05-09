@@ -1,0 +1,19 @@
+{
+  "id": "5510859ce779897292ba1efc",
+  "items_in_set": [
+    {
+      "id": "5510859ce779897292ba1efc",
+      "url_name": "arcane_avenger",
+      "icon": "items/images/en/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.png",
+      "thumb": "items/images/en/thumbs/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "arcane_enhancement",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

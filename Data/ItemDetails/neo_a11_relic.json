@@ -1,0 +1,24 @@
+{
+  "id": "65a7fc7eed5b0d2e3eb462bb",
+  "items_in_set": [
+    {
+      "id": "65a7fc7eed5b0d2e3eb462bb",
+      "url_name": "neo_a11_relic",
+      "icon": "items/images/en/neo_a11_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "thumb": "items/images/en/thumbs/neo_a11_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "relic",
+        "neo"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

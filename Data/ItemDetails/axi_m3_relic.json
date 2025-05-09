@@ -1,0 +1,24 @@
+{
+  "id": "61a25ffa68fd79003fe3fd60",
+  "items_in_set": [
+    {
+      "id": "61a25ffa68fd79003fe3fd60",
+      "url_name": "axi_m3_relic",
+      "icon": "items/images/en/axi_m3_relic.a74c06f0cae21bdb8933685c867385f8.png",
+      "thumb": "items/images/en/thumbs/axi_m3_relic.a74c06f0cae21bdb8933685c867385f8.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "relic",
+        "axi"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "54a74455e779892d5e5156a2",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156a2",
+      "url_name": "equilibrium",
+      "icon": "items/images/en/equilibrium.2bbbfd93da9ed5a3676a8eee1c5af479.png",
+      "thumb": "items/images/en/thumbs/equilibrium.2bbbfd93da9ed5a3676a8eee1c5af479.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "warframe",
+        "uncommon"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

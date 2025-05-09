@@ -1,0 +1,11 @@
+{
+  "id": "6054de6a5221e30057501077",
+  "url_name": "glutinox",
+  "name": "Глютинокс",
+  "liquidity": 0,
+  "subtype": "large",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

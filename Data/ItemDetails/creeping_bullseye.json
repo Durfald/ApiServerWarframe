@@ -1,0 +1,21 @@
+{
+  "id": "54ca39abe7798915c1c11e10",
+  "items_in_set": [
+    {
+      "id": "54ca39abe7798915c1c11e10",
+      "url_name": "creeping_bullseye",
+      "icon": "items/images/en/creeping_bullseye.dfcb8d21b36d9e2a2632f37c75b3532f.png",
+      "thumb": "items/images/en/thumbs/creeping_bullseye.dfcb8d21b36d9e2a2632f37c75b3532f.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "pistol",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

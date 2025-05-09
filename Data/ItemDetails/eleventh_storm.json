@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e5155ef",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155ef",
+      "url_name": "eleventh_storm",
+      "icon": "items/images/en/eleventh_storm.f08448d35130e5d84a8f270451bc273a.png",
+      "thumb": "items/images/en/thumbs/eleventh_storm.f08448d35130e5d84a8f270451bc273a.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "uncommon",
+        "stance",
+        "sword_and_shield"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

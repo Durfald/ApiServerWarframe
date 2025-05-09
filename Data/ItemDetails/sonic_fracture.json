@@ -1,0 +1,21 @@
+{
+  "id": "5615432bb66f8371035bfa2a",
+  "items_in_set": [
+    {
+      "id": "5615432bb66f8371035bfa2a",
+      "url_name": "sonic_fracture",
+      "icon": "items/images/en/sonic_fracture.9f7e0c89b5a38776f2bf3571a170dac3.png",
+      "thumb": "items/images/en/thumbs/sonic_fracture.9f7e0c89b5a38776f2bf3571a170dac3.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "banshee"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

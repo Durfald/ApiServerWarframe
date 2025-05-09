@@ -1,0 +1,81 @@
+{
+  "id": "6139101930dd5b004b7f909f",
+  "items_in_set": [
+    {
+      "id": "6139101830dd5b004b7f9096",
+      "url_name": "strun_prime_set",
+      "icon": "items/images/en/strun_prime_set.e7f858160a34886c105633deab6b343e.png",
+      "thumb": "items/images/en/thumbs/strun_prime_set.e7f858160a34886c105633deab6b343e.128x128.png",
+      "tags": [
+        "primary",
+        "weapon",
+        "prime",
+        "set"
+      ],
+      "ducats": 205,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "6139101930dd5b004b7f909f",
+      "url_name": "strun_prime_blueprint",
+      "icon": "items/images/en/strun_prime_blueprint.e7f858160a34886c105633deab6b343e.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/strun_prime_blueprint.e7f858160a34886c105633deab6b343e.128x128.png",
+      "tags": [
+        "primary",
+        "weapon",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "6139101a30dd5b004b7f90a4",
+      "url_name": "strun_prime_receiver",
+      "icon": "items/images/en/strun_prime_receiver.e7f858160a34886c105633deab6b343e.png",
+      "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/strun_prime_receiver.e7f858160a34886c105633deab6b343e.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "6139101a30dd5b004b7f90a7",
+      "url_name": "strun_prime_barrel",
+      "icon": "items/images/en/strun_prime_barrel.e7f858160a34886c105633deab6b343e.png",
+      "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/strun_prime_barrel.e7f858160a34886c105633deab6b343e.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "6139101a30dd5b004b7f90a9",
+      "url_name": "strun_prime_stock",
+      "icon": "items/images/en/strun_prime_stock.e7f858160a34886c105633deab6b343e.png",
+      "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
+      "thumb": "items/images/en/thumbs/strun_prime_stock.e7f858160a34886c105633deab6b343e.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

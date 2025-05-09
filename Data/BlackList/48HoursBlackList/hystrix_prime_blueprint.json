@@ -1,0 +1,10 @@
+{
+  "id": "62d3493f75156700ce450de7",
+  "url_name": "hystrix_prime_blueprint",
+  "name": "Хистрикс Прайм (Чертеж)",
+  "liquidity": 22,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

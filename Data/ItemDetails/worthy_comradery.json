@@ -1,0 +1,20 @@
+{
+  "id": "675c62587b18977f6e645422",
+  "items_in_set": [
+    {
+      "id": "675c62587b18977f6e645422",
+      "url_name": "worthy_comradery",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "aura"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5dbe9b157ea27b0ffe3ca28a",
+  "items_in_set": [
+    {
+      "id": "5dbe9b157ea27b0ffe3ca28a",
+      "url_name": "split_flights",
+      "icon": "items/images/en/split_flights.6d6878ae710916731799c8be89d29426.png",
+      "thumb": "items/images/en/thumbs/split_flights.6d6878ae710916731799c8be89d29426.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "bow",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

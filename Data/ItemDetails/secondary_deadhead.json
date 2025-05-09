@@ -1,0 +1,19 @@
+{
+  "id": "60e70f7f479445008f27259d",
+  "items_in_set": [
+    {
+      "id": "60e70f7f479445008f27259d",
+      "url_name": "secondary_deadhead",
+      "icon": "items/images/en/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.png",
+      "thumb": "items/images/en/thumbs/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "arcane_enhancement",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

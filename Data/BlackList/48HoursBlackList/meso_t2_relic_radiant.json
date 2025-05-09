@@ -1,0 +1,11 @@
+{
+  "id": "6054ddce5221e30057500fc8",
+  "url_name": "meso_t2_relic",
+  "name": "Реликвия Мезо T2",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

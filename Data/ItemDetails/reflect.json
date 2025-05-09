@@ -1,0 +1,21 @@
+{
+  "id": "5788fadc4fff472f131a1362",
+  "items_in_set": [
+    {
+      "id": "5788fadc4fff472f131a1362",
+      "url_name": "reflect",
+      "icon": "items/images/en/reflect.425845045b282ef7487fc8f5566cc6d5.png",
+      "thumb": "items/images/en/thumbs/reflect.425845045b282ef7487fc8f5566cc6d5.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "kavat",
+        "adarza_kavat"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

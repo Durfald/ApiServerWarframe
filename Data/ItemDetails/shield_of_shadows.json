@@ -1,0 +1,21 @@
+{
+  "id": "554d3d13e77989430b114cb1",
+  "items_in_set": [
+    {
+      "id": "554d3d13e77989430b114cb1",
+      "url_name": "shield_of_shadows",
+      "icon": "items/images/en/shield_of_shadows.877c5c3618e4f49db59674559c69f807.png",
+      "thumb": "items/images/en/thumbs/shield_of_shadows.877c5c3618e4f49db59674559c69f807.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "nekros"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

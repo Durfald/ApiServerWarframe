@@ -1,0 +1,21 @@
+{
+  "id": "588247dcefa102dc532bd503",
+  "items_in_set": [
+    {
+      "id": "588247dcefa102dc532bd503",
+      "url_name": "sovereign_outcast",
+      "icon": "items/images/en/sovereign_outcast.c7057a1044205cdfd9422199b5d76d41.png",
+      "thumb": "items/images/en/thumbs/sovereign_outcast.c7057a1044205cdfd9422199b5d76d41.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "tonfas",
+        "mod",
+        "stance",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "645ba2a67ec1900802a58a49",
+  "url_name": "inaak",
+  "name": "Инаак",
+  "liquidity": 0,
+  "subtype": "small",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

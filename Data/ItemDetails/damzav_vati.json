@@ -1,0 +1,21 @@
+{
+  "id": "5f4ed3f5d5c36d0086f55b02",
+  "items_in_set": [
+    {
+      "id": "5f4ed3f5d5c36d0086f55b02",
+      "url_name": "damzav_vati",
+      "icon": "items/images/en/damzav_vati.7ed9e8ee920872beab987ff36c0e7e37.png",
+      "thumb": "items/images/en/thumbs/damzav_vati.7ed9e8ee920872beab987ff36c0e7e37.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "secondary",
+        "akbronco_prime"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "633e2e6cf570d10793afb825",
+  "url_name": "axi_n9_relic",
+  "name": "Реликвия Акси N9",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

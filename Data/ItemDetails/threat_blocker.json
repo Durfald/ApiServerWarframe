@@ -1,0 +1,20 @@
+{
+  "id": "67db60569cec3e52e62523eb",
+  "items_in_set": [
+    {
+      "id": "67db60569cec3e52e62523eb",
+      "url_name": "threat_blocker",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "uncommon",
+        "parazon"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

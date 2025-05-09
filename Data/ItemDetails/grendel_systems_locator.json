@@ -1,0 +1,18 @@
+{
+  "id": "5dfea13b1456970294aff358",
+  "items_in_set": [
+    {
+      "id": "5dfea13b1456970294aff358",
+      "url_name": "grendel_systems_locator",
+      "icon": "items/images/en/grendel_systems_locator.158a0b63e183838d0d90fd2210f8f1dc.webp",
+      "thumb": "items/images/en/thumbs/grendel_systems_locator.158a0b63e183838d0d90fd2210f8f1dc.128x128.webp",
+      "tags": [
+        "mod",
+        "locator"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

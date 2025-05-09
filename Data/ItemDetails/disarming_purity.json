@@ -1,0 +1,22 @@
+{
+  "id": "5911f11d97a0add8e9d5da4c",
+  "items_in_set": [
+    {
+      "id": "5911f11d97a0add8e9d5da4c",
+      "url_name": "disarming_purity",
+      "icon": "items/images/en/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.png",
+      "thumb": "items/images/en/thumbs/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "syndicate",
+        "mod",
+        "rare",
+        "primary",
+        "panthera"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "66f6d4663a826eccf651c36e",
+  "items_in_set": [
+    {
+      "id": "66f6d4663a826eccf651c36e",
+      "url_name": "burning_hate",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "hate"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

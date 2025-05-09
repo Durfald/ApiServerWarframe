@@ -1,0 +1,18 @@
+{
+  "id": "64c3a3a26645670594f57a63",
+  "items_in_set": [
+    {
+      "id": "64c3a3a26645670594f57a63",
+      "url_name": "undercroft_township_scene",
+      "icon": "items/images/en/undercroft_township_scene.bc6e9c055ab697ffc5dd44a5331c338d.png",
+      "thumb": "items/images/en/thumbs/undercroft_township_scene.bc6e9c055ab697ffc5dd44a5331c338d.128x128.png",
+      "tags": [
+        "misc",
+        "scene"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

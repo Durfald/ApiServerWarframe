@@ -1,0 +1,21 @@
+{
+  "id": "6604a600dbdd5c1673781db3",
+  "items_in_set": [
+    {
+      "id": "6604a600dbdd5c1673781db3",
+      "url_name": "wrath_of_ukko",
+      "icon": "items/images/en/wrath_of_ukko.5579ab2019b8b5a40fa55e6ba28e9cc8.png",
+      "thumb": "items/images/en/thumbs/wrath_of_ukko.5579ab2019b8b5a40fa55e6ba28e9cc8.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "kullervo"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

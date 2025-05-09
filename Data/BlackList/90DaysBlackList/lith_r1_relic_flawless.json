@@ -1,0 +1,11 @@
+{
+  "id": "61a25ffa68fd79003fe3fd5b",
+  "url_name": "lith_r1_relic",
+  "name": "Реликвия Лит R1",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

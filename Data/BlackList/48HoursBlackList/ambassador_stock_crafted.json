@@ -1,0 +1,11 @@
+{
+  "id": "60f3feb1b64404003f0bf5fd",
+  "url_name": "ambassador_stock",
+  "name": "Амбассадор: Приклад",
+  "liquidity": 0,
+  "subtype": "crafted",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

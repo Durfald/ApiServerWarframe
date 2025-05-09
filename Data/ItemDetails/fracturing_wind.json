@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e51560b",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51560b",
+      "url_name": "fracturing_wind",
+      "icon": "items/images/en/fracturing_wind.e7bf953398db71b7b83cb75652cf53a3.png",
+      "thumb": "items/images/en/thumbs/fracturing_wind.e7bf953398db71b7b83cb75652cf53a3.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "uncommon",
+        "stance",
+        "fists"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

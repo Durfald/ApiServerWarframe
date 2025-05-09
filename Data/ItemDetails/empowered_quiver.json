@@ -1,0 +1,21 @@
+{
+  "id": "5b50a3aa3a84fd02a7823246",
+  "items_in_set": [
+    {
+      "id": "5b50a3aa3a84fd02a7823246",
+      "url_name": "empowered_quiver",
+      "icon": "items/images/en/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.png",
+      "thumb": "items/images/en/thumbs/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "ivara"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

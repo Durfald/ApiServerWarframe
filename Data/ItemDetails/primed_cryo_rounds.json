@@ -1,0 +1,21 @@
+{
+  "id": "581d0c4ed5f9e290fa2e959f",
+  "items_in_set": [
+    {
+      "id": "581d0c4ed5f9e290fa2e959f",
+      "url_name": "primed_cryo_rounds",
+      "icon": "items/images/en/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.png",
+      "thumb": "items/images/en/thumbs/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5c1bda0814a8e4006b1dad63",
+  "items_in_set": [
+    {
+      "id": "5c1bda0814a8e4006b1dad63",
+      "url_name": "magus_overload",
+      "icon": "items/images/en/magus_overload.c575b29c15d999083923ee609dcda264.png",
+      "thumb": "items/images/en/thumbs/magus_overload.c575b29c15d999083923ee609dcda264.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "common",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

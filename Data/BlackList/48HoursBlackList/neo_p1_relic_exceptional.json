@@ -1,0 +1,11 @@
+{
+  "id": "6054dd895221e30057500f83",
+  "url_name": "neo_p1_relic",
+  "name": "Реликвия Нео P1",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,11 @@
+{
+  "id": "67222a181ce4caca2fe9866f",
+  "url_name": "axi_g13_relic",
+  "name": "Реликвия Акси G13",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

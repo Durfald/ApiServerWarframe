@@ -1,0 +1,12 @@
+{
+  "id": "67acd8fb125398d92c8bb4e0",
+  "url_name": "cedo_prime_blueprint",
+  "name": "Седо Прайм (Чертеж)",
+  "spread": 3,
+  "buy_price": 10,
+  "sell_price": 13,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

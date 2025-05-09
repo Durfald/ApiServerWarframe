@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a4e9",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a4e9",
+      "url_name": "recover",
+      "icon": "items/images/en/recover.c9a08b3ae365a5dd429a2ea357cb8c91.png",
+      "thumb": "items/images/en/thumbs/recover.c9a08b3ae365a5dd429a2ea357cb8c91.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "primary",
+        "pvp",
+        "rare",
+        "mod",
+        "assault_rifle"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

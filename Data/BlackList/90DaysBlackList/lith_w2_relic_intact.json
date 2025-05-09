@@ -1,0 +1,13 @@
+{
+  "id": "6054de465221e3005750104e",
+  "url_name": "lith_w2_relic",
+  "name": "Реликвия Лит W2",
+  "spread": 6,
+  "subtype": "intact",
+  "buy_price": 2,
+  "sell_price": 8,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

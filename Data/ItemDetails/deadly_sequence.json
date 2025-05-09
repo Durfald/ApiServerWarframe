@@ -1,0 +1,22 @@
+{
+  "id": "54a74454e779892d5e515666",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515666",
+      "url_name": "deadly_sequence",
+      "icon": "items/images/en/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.png",
+      "thumb": "items/images/en/thumbs/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "syndicate",
+        "mod",
+        "grinlok",
+        "rare",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

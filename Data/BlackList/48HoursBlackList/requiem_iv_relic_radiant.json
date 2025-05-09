@@ -1,0 +1,11 @@
+{
+  "id": "6054dd075221e30057500f15",
+  "url_name": "requiem_iv_relic",
+  "name": "Реликвия Реквием IV",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

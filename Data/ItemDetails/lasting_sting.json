@@ -1,0 +1,20 @@
+{
+  "id": "554d3f0ce779894445a848f7",
+  "items_in_set": [
+    {
+      "id": "554d3f0ce779894445a848f7",
+      "url_name": "lasting_sting",
+      "icon": "items/images/en/lasting_sting.ab8009693f998998e6ba9c8d2f650ca6.png",
+      "thumb": "items/images/en/thumbs/lasting_sting.ab8009693f998998e6ba9c8d2f650ca6.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "melee",
+        "common"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

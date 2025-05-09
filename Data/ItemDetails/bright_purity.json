@@ -1,0 +1,22 @@
+{
+  "id": "54a74454e779892d5e51568a",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51568a",
+      "url_name": "bright_purity",
+      "icon": "items/images/en/bright_purity.3efd8f002eda7453eaa2672792b613fc.png",
+      "thumb": "items/images/en/thumbs/bright_purity.3efd8f002eda7453eaa2672792b613fc.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "syndicate",
+        "mod",
+        "melee",
+        "rare",
+        "skana"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

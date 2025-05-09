@@ -1,0 +1,18 @@
+{
+  "id": "62a2b833a554aa00a86de35d",
+  "items_in_set": [
+    {
+      "id": "62a2b833a554aa00a86de35d",
+      "url_name": "dog_days_night_scene",
+      "icon": "items/images/en/dog_days_night_scene.bd6d8351ca7fa4040eba2fe1fddcbfed.png",
+      "thumb": "items/images/en/thumbs/dog_days_night_scene.bd6d8351ca7fa4040eba2fe1fddcbfed.128x128.png",
+      "tags": [
+        "scene",
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

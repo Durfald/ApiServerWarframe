@@ -1,0 +1,53 @@
+{
+  "id": "60e70f7c479445008f272585",
+  "items_in_set": [
+    {
+      "id": "60e70f7c479445008f272585",
+      "url_name": "hexis_chest_plate",
+      "icon": "items/images/en/hexis_chest_plate.91ded728996ed7166d3578801fff614d.png",
+      "thumb": "items/images/en/thumbs/hexis_chest_plate.91ded728996ed7166d3578801fff614d.128x128.png",
+      "tags": [
+        "skin"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60e70f7d479445008f27258a",
+      "url_name": "hexis_arm_plates",
+      "icon": "items/images/en/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.png",
+      "thumb": "items/images/en/thumbs/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.128x128.png",
+      "tags": [
+        "skin"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60e70f7e479445008f272597",
+      "url_name": "hexis_spurs",
+      "icon": "items/images/en/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.png",
+      "thumb": "items/images/en/thumbs/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.128x128.png",
+      "tags": [
+        "skin"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60e70f7f479445008f272599",
+      "url_name": "hexis_armor_set",
+      "icon": "items/images/en/hexis_armor_set.cf3f7e3ad665aee1b47dceb5ce703e8a.webp",
+      "thumb": "items/images/en/thumbs/hexis_armor_set.cf3f7e3ad665aee1b47dceb5ce703e8a.128x128.webp",
+      "tags": [
+        "skin"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    }
+  ]
+}

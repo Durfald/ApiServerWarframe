@@ -1,0 +1,12 @@
+{
+  "id": "60e5b9014794450053e99961",
+  "url_name": "galvanized_chamber",
+  "name": "Гальванизированный Патронник",
+  "spread": 24,
+  "rank": 10.0,
+  "buy_price": 55,
+  "sell_price": 79,
+  "trading_tax": 8000,
+  "90days_trend": -0.045,
+  "48hours_trend": -0.001
+}

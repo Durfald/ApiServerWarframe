@@ -1,0 +1,19 @@
+{
+  "id": "5fb84769c34da3004797d554",
+  "items_in_set": [
+    {
+      "id": "5fb84769c34da3004797d554",
+      "url_name": "theorem_contagion",
+      "icon": "items/images/en/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.png",
+      "thumb": "items/images/en/thumbs/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "arcane_enhancement",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

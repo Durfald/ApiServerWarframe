@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a4c8",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a4c8",
+      "url_name": "air_recon",
+      "icon": "items/images/en/air_recon.73a5b4319a32387372dc2c693b18ebcc.png",
+      "thumb": "items/images/en/thumbs/air_recon.73a5b4319a32387372dc2c693b18ebcc.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "secondary",
+        "pvp",
+        "uncommon",
+        "mod",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

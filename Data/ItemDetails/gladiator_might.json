@@ -1,0 +1,20 @@
+{
+  "id": "59dfeb5c115f1d887cfd7ab5",
+  "items_in_set": [
+    {
+      "id": "59dfeb5c115f1d887cfd7ab5",
+      "url_name": "gladiator_might",
+      "icon": "items/images/en/gladiator_might.e0d89210119ac4e43b4bf5742ca590bd.png",
+      "thumb": "items/images/en/thumbs/gladiator_might.e0d89210119ac4e43b4bf5742ca590bd.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "melee"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "65a7fc7eed5b0d2e3eb462bf",
+  "url_name": "meso_g6_relic",
+  "name": "Реликвия Мезо G6",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

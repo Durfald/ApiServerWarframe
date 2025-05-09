@@ -1,0 +1,17 @@
+{
+  "id": "667237638ba7c81b70d02c98",
+  "items_in_set": [
+    {
+      "id": "667237638ba7c81b70d02c98",
+      "url_name": "the_ballroom_simulacrum",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "simulacrum"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

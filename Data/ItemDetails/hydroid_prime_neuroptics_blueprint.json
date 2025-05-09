@@ -1,0 +1,82 @@
+{
+  "id": "59a48b625cd9938cfede7039",
+  "items_in_set": [
+    {
+      "id": "59a48b625cd9938cfede7038",
+      "url_name": "hydroid_prime_blueprint",
+      "icon": "items/images/en/hydroid_prime_blueprint.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/hydroid_prime_blueprint.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "tags": [
+        "warframe",
+        "blueprint",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "59a48b625cd9938cfede7039",
+      "url_name": "hydroid_prime_neuroptics_blueprint",
+      "icon": "items/images/en/hydroid_prime_neuroptics.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
+      "thumb": "items/images/en/thumbs/hydroid_prime_neuroptics.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "tags": [
+        "warframe",
+        "component",
+        "blueprint",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "59a48b625cd9938cfede703a",
+      "url_name": "hydroid_prime_chassis_blueprint",
+      "icon": "items/images/en/hydroid_prime_chassis.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+      "thumb": "items/images/en/thumbs/hydroid_prime_chassis.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "tags": [
+        "warframe",
+        "component",
+        "blueprint",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "59a48b625cd9938cfede703b",
+      "url_name": "hydroid_prime_systems_blueprint",
+      "icon": "items/images/en/hydroid_prime_systems.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
+      "thumb": "items/images/en/thumbs/hydroid_prime_systems.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "tags": [
+        "warframe",
+        "component",
+        "blueprint",
+        "prime"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "59a48b625cd9938cfede703c",
+      "url_name": "hydroid_prime_set",
+      "icon": "items/images/en/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "thumb": "items/images/en/thumbs/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "tags": [
+        "warframe",
+        "prime",
+        "set"
+      ],
+      "ducats": 205,
+      "rarity": "",
+      "trading_tax": 8000
+    }
+  ]
+}

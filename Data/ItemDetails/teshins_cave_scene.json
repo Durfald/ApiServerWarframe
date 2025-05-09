@@ -1,0 +1,18 @@
+{
+  "id": "645ba2a67ec1900802a58a46",
+  "items_in_set": [
+    {
+      "id": "645ba2a67ec1900802a58a46",
+      "url_name": "teshins_cave_scene",
+      "icon": "items/images/en/teshins_cave_scene.45ae9de5d7625f6164ceea64fa009f83.png",
+      "thumb": "items/images/en/thumbs/teshins_cave_scene.45ae9de5d7625f6164ceea64fa009f83.128x128.png",
+      "tags": [
+        "scene",
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

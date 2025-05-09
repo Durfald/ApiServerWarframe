@@ -1,0 +1,18 @@
+{
+  "id": "5f4ed3f0d5c36d0086f55afa",
+  "items_in_set": [
+    {
+      "id": "5f4ed3f0d5c36d0086f55afa",
+      "url_name": "grineer_galleon_cargo_scene",
+      "icon": "items/images/en/grineer_galleon_cargo_scene.8d484247107af508fbf2fee792583334.png",
+      "thumb": "items/images/en/thumbs/grineer_galleon_cargo_scene.8d484247107af508fbf2fee792583334.128x128.png",
+      "tags": [
+        "scene",
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

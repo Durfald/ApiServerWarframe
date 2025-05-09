@@ -1,0 +1,11 @@
+{
+  "id": "6054de5e5221e30057501067",
+  "url_name": "lith_k3_relic",
+  "name": "Реликвия Лит K3",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

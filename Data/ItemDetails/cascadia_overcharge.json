@@ -1,0 +1,19 @@
+{
+  "id": "626a197bf40db600660a1d8b",
+  "items_in_set": [
+    {
+      "id": "626a197bf40db600660a1d8b",
+      "url_name": "cascadia_overcharge",
+      "icon": "items/images/en/cascadia_overcharge.d5f7bf0949071f325145d596e35b3087.png",
+      "thumb": "items/images/en/thumbs/cascadia_overcharge.d5f7bf0949071f325145d596e35b3087.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

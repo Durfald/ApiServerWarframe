@@ -1,0 +1,22 @@
+{
+  "id": "54a74454e779892d5e515655",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515655",
+      "url_name": "sudden_impact",
+      "icon": "items/images/en/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.png",
+      "thumb": "items/images/en/thumbs/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "common",
+        "melee",
+        "mod",
+        "archwing",
+        "archmelee"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

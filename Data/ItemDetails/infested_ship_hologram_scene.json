@@ -1,0 +1,18 @@
+{
+  "id": "6089662bea93740269271785",
+  "items_in_set": [
+    {
+      "id": "6089662bea93740269271785",
+      "url_name": "infested_ship_hologram_scene",
+      "icon": "items/images/en/infested_ship_hologram_scene.6e1e70f34ce8a45ce62184743519bfc8.png",
+      "thumb": "items/images/en/thumbs/infested_ship_hologram_scene.6e1e70f34ce8a45ce62184743519bfc8.128x128.png",
+      "tags": [
+        "scene",
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

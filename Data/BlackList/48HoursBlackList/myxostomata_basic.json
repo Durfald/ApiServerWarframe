@@ -1,0 +1,11 @@
+{
+  "id": "6054de6b5221e30057501078",
+  "url_name": "myxostomata",
+  "name": "Миксостомат",
+  "liquidity": 20,
+  "subtype": "basic",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

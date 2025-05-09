@@ -1,0 +1,21 @@
+{
+  "id": "58f0ee99aa4b70452a173073",
+  "items_in_set": [
+    {
+      "id": "58f0ee99aa4b70452a173073",
+      "url_name": "piercing_navigator",
+      "icon": "items/images/en/piercing_navigator.bb0a507032b17f728ed5b836a49707cb.png",
+      "thumb": "items/images/en/thumbs/piercing_navigator.bb0a507032b17f728ed5b836a49707cb.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "ivara",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

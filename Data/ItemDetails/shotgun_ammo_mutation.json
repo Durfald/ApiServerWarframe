@@ -1,0 +1,21 @@
+{
+  "id": "54a74455e779892d5e5156e9",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156e9",
+      "url_name": "shotgun_ammo_mutation",
+      "icon": "items/images/en/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.png",
+      "thumb": "items/images/en/thumbs/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "shotgun",
+        "mod",
+        "rare",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

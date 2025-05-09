@@ -1,0 +1,17 @@
+{
+  "id": "598b06b4ab6b61be6fec0fb5",
+  "items_in_set": [
+    {
+      "id": "598b06b4ab6b61be6fec0fb5",
+      "url_name": "omega_beacon",
+      "icon": "items/images/en/omega_beacon.65e5468044d5119a49463ec60b3e24e7.png",
+      "thumb": "items/images/en/thumbs/omega_beacon.65e5468044d5119a49463ec60b3e24e7.128x128.png",
+      "tags": [
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

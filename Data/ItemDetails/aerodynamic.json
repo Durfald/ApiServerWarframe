@@ -1,0 +1,20 @@
+{
+  "id": "5d8765de7ea27b08950c13c5",
+  "items_in_set": [
+    {
+      "id": "5d8765de7ea27b08950c13c5",
+      "url_name": "aerodynamic",
+      "icon": "items/images/en/aerodynamic.bfc306bc0e3d8fad358b3bf416fd23e0.png",
+      "thumb": "items/images/en/thumbs/aerodynamic.bfc306bc0e3d8fad358b3bf416fd23e0.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "aura"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

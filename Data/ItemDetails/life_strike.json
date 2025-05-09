@@ -1,0 +1,20 @@
+{
+  "id": "54a74455e779892d5e5156d8",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156d8",
+      "url_name": "life_strike",
+      "icon": "items/images/en/life_strike.da280f2b062ca433eee88796adb27694.png",
+      "thumb": "items/images/en/thumbs/life_strike.da280f2b062ca433eee88796adb27694.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "melee",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

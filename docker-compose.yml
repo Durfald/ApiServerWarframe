@@ -1,0 +1,9 @@
+services:
+  warframe-api:
+    build:
+      context: .
+      dockerfile: ApiServerWarframe/Dockerfile
+    ports:
+      - "2530:8080"
+    volumes:
+      - ./Data:/app/Data

@@ -1,0 +1,18 @@
+{
+  "id": "5a9e866bb2b6a800db67f125",
+  "items_in_set": [
+    {
+      "id": "5a9e866bb2b6a800db67f125",
+      "url_name": "lua_nursery_scene",
+      "icon": "items/images/en/lua_nursery_scene.577c0425c13ba40df53dc1c6787447ed.png",
+      "thumb": "items/images/en/thumbs/lua_nursery_scene.577c0425c13ba40df53dc1c6787447ed.128x128.png",
+      "tags": [
+        "scene",
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

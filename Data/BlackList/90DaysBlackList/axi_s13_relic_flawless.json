@@ -1,0 +1,11 @@
+{
+  "id": "6364d904f6d2030069a9f91f",
+  "url_name": "axi_s13_relic",
+  "name": "Реликвия Акси S13",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

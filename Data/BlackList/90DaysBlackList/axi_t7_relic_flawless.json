@@ -1,0 +1,11 @@
+{
+  "id": "60cca19152f60b004dfea052",
+  "url_name": "axi_t7_relic",
+  "name": "Реликвия Акси T7",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

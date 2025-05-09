@@ -1,0 +1,13 @@
+{
+  "id": "59dfeb5c115f1d887cfd7ab8",
+  "url_name": "gladiator_vice",
+  "name": "Натиск Гладиатора",
+  "spread": 7,
+  "rank": 0.0,
+  "buy_price": 3,
+  "sell_price": 10,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

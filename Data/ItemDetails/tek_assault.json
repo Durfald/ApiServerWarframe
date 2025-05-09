@@ -1,0 +1,20 @@
+{
+  "id": "5be4b0a53ffcc703294e76b1",
+  "items_in_set": [
+    {
+      "id": "5be4b0a53ffcc703294e76b1",
+      "url_name": "tek_assault",
+      "icon": "items/images/en/tek_assault.7ab0fb3bd35101cefe65e1365eb1d224.png",
+      "thumb": "items/images/en/thumbs/tek_assault.7ab0fb3bd35101cefe65e1365eb1d224.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "kavat",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

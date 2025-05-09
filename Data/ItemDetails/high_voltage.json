@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e515616",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515616",
+      "url_name": "high_voltage",
+      "icon": "items/images/en/high_voltage.7cbb2f64f8466287ca44afd08e952311.png",
+      "thumb": "items/images/en/thumbs/high_voltage.7cbb2f64f8466287ca44afd08e952311.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "rifle",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

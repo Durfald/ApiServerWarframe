@@ -1,0 +1,22 @@
+{
+  "id": "5be5f5a13ffcc7038857f10e",
+  "items_in_set": [
+    {
+      "id": "5be5f5a13ffcc7038857f10e",
+      "url_name": "rising_steel",
+      "icon": "items/images/en/rising_steel.c114e2cbef17605ee40c0db2d52739c2.png",
+      "thumb": "items/images/en/thumbs/rising_steel.c114e2cbef17605ee40c0db2d52739c2.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "pvp",
+        "uncommon",
+        "stance",
+        "swords",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

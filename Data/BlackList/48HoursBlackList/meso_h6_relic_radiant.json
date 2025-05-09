@@ -1,0 +1,11 @@
+{
+  "id": "65a7fc7eed5b0d2e3eb462c1",
+  "url_name": "meso_h6_relic",
+  "name": "Реликвия Мезо H6",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

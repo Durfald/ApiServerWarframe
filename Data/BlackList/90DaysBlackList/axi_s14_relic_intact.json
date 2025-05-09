@@ -1,0 +1,11 @@
+{
+  "id": "639a8d9274b02f003889eb6e",
+  "url_name": "axi_s14_relic",
+  "name": "Реликвия Акси S14",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6054ddfc5221e30057500ffc",
+  "url_name": "meso_k3_relic",
+  "name": "Реликвия Мезо K3",
+  "liquidity": 30,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

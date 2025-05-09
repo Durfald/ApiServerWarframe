@@ -1,0 +1,19 @@
+{
+  "id": "55e797e7e779892497cdf785",
+  "items_in_set": [
+    {
+      "id": "55e797e7e779892497cdf785",
+      "url_name": "secura_penta",
+      "icon": "items/images/en/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.png",
+      "thumb": "items/images/en/thumbs/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.128x128.png",
+      "tags": [
+        "syndicate",
+        "primary",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

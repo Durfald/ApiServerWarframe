@@ -1,0 +1,12 @@
+{
+  "id": "64743c757ec190141a5475b1",
+  "url_name": "sentient_surge",
+  "name": "Всплеск Владеющего Разумом",
+  "spread": 19,
+  "rank": 0.0,
+  "buy_price": 2,
+  "sell_price": 21,
+  "trading_tax": 8000,
+  "90days_trend": 0.005,
+  "48hours_trend": -0.009
+}

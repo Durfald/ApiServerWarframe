@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e515642",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515642",
+      "url_name": "continuity",
+      "icon": "items/images/en/continuity.c8f4628b5ad77db5bee66f587e6a1b96.png",
+      "thumb": "items/images/en/thumbs/continuity.c8f4628b5ad77db5bee66f587e6a1b96.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "636d085bd6e304004d0be569",
+  "items_in_set": [
+    {
+      "id": "636d085bd6e304004d0be569",
+      "url_name": "vericres",
+      "icon": "items/images/en/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.png",
+      "thumb": "items/images/en/thumbs/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.128x128.png",
+      "tags": [
+        "melee",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

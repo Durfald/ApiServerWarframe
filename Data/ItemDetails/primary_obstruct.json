@@ -1,0 +1,19 @@
+{
+  "id": "644b00217ec1900044b97722",
+  "items_in_set": [
+    {
+      "id": "644b00217ec1900044b97722",
+      "url_name": "primary_obstruct",
+      "icon": "items/images/en/primary_obstruct.fdedb1774329c76fa8083cf43fa76a06.png",
+      "thumb": "items/images/en/thumbs/primary_obstruct.fdedb1774329c76fa8083cf43fa76a06.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

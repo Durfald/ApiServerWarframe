@@ -1,0 +1,12 @@
+{
+  "id": "54a74454e779892d5e51558d",
+  "url_name": "hammer_shot",
+  "name": "Мощный Выстрел",
+  "spread": 24,
+  "rank": 3.0,
+  "buy_price": 85,
+  "sell_price": 109,
+  "trading_tax": 8000,
+  "90days_trend": 0.022,
+  "48hours_trend": -0.007
+}

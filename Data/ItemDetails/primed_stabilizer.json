@@ -1,0 +1,21 @@
+{
+  "id": "68028a0a24bd8dc3de5797d4",
+  "items_in_set": [
+    {
+      "id": "68028a0a24bd8dc3de5797d4",
+      "url_name": "primed_stabilizer",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

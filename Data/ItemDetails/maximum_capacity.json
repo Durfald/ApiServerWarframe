@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a51c",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a51c",
+      "url_name": "maximum_capacity",
+      "icon": "items/images/en/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.png",
+      "thumb": "items/images/en/thumbs/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "common",
+        "primary",
+        "pvp",
+        "mod",
+        "assault_rifle"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

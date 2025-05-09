@@ -1,0 +1,66 @@
+{
+  "id": "6530694722c7fd977050854b",
+  "items_in_set": [
+    {
+      "id": "6530694622c7fd9770508548",
+      "url_name": "zylok_prime_set",
+      "icon": "items/images/en/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.png",
+      "thumb": "items/images/en/thumbs/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+      "tags": [
+        "prime",
+        "secondary",
+        "weapon",
+        "set"
+      ],
+      "ducats": 160,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "6530694622c7fd9770508549",
+      "url_name": "zylok_prime_blueprint",
+      "icon": "items/images/en/zylok_prime_blueprint.3e33bc4a5c48f70000b4ad50fa283437.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/zylok_prime_blueprint.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+      "tags": [
+        "prime",
+        "secondary",
+        "weapon",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "6530694722c7fd977050854a",
+      "url_name": "zylok_prime_barrel",
+      "icon": "items/images/en/zylok_prime_barrel.3e33bc4a5c48f70000b4ad50fa283437.png",
+      "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/zylok_prime_barrel.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "component"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "6530694722c7fd977050854b",
+      "url_name": "zylok_prime_receiver",
+      "icon": "items/images/en/zylok_prime_receiver.3e33bc4a5c48f70000b4ad50fa283437.png",
+      "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/zylok_prime_receiver.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "component"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "56783f24cbfa8f0432dd898d",
+  "items_in_set": [
+    {
+      "id": "54a73e65e779893a797fff22",
+      "url_name": "akbronco_prime_blueprint",
+      "icon": "items/images/en/akbronco_prime_blueprint.34b5a7f99e5f8c15cc2039a76c725069.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/akbronco_prime_blueprint.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "secondary",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "54a73e65e779893a797fff23",
+      "url_name": "akbronco_prime_link",
+      "icon": "items/images/en/akbronco_prime_link.34b5a7f99e5f8c15cc2039a76c725069.png",
+      "sub_icon": "sub_icons/weapon/prime_link_128x128.png",
+      "thumb": "items/images/en/thumbs/akbronco_prime_link.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "56783f24cbfa8f0432dd898d",
+      "url_name": "akbronco_prime_set",
+      "icon": "items/images/en/akbronco_prime_set.34b5a7f99e5f8c15cc2039a76c725069.png",
+      "thumb": "items/images/en/thumbs/akbronco_prime_set.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "set",
+        "secondary"
+      ],
+      "ducats": 60,
+      "rarity": "",
+      "trading_tax": 4000
+    }
+  ]
+}

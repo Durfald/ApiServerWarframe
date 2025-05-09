@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e51566c",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51566c",
+      "url_name": "bleeding_willow",
+      "icon": "items/images/en/bleeding_willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.png",
+      "thumb": "items/images/en/thumbs/bleeding_willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "stance",
+        "polearms"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6672373e8ba7c81b70d02c94",
+  "items_in_set": [
+    {
+      "id": "6672373e8ba7c81b70d02c94",
+      "url_name": "arcane_battery",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

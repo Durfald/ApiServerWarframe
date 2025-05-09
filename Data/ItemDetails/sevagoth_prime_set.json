@@ -1,0 +1,82 @@
+{
+  "id": "66c6080266bbb2aedca6957b",
+  "items_in_set": [
+    {
+      "id": "66c6080266bbb2aedca6957b",
+      "url_name": "sevagoth_prime_set",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "prime",
+        "warframe",
+        "set"
+      ],
+      "ducats": 175,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "66c6080266bbb2aedca6957c",
+      "url_name": "sevagoth_prime_blueprint",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "prime",
+        "warframe",
+        "blueprint"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "66c6080366bbb2aedca6957d",
+      "url_name": "sevagoth_prime_neuroptics_blueprint",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/warframe/prime_helmet_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "prime",
+        "warframe",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "66c6080366bbb2aedca6957e",
+      "url_name": "sevagoth_prime_chassis_blueprint",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/warframe/prime_chassis_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "prime",
+        "warframe",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "66c6080366bbb2aedca6957f",
+      "url_name": "sevagoth_prime_systems_blueprint",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/warframe/prime_systems_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "prime",
+        "warframe",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

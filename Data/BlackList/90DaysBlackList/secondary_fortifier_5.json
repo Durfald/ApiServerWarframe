@@ -1,0 +1,13 @@
+{
+  "id": "667237598ba7c81b70d02c96",
+  "url_name": "secondary_fortifier",
+  "name": "Вторичный Фортификатор",
+  "spread": 15,
+  "rank": 5.0,
+  "buy_price": 41,
+  "sell_price": 56,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

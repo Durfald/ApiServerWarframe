@@ -1,0 +1,11 @@
+{
+  "id": "66325cebe85cac3856c86ccc",
+  "url_name": "neo_m5_relic",
+  "name": "Реликвия Нео M5",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

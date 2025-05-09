@@ -1,0 +1,20 @@
+{
+  "id": "54a74455e779892d5e5156cf",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e5156cf",
+      "url_name": "system_reroute",
+      "icon": "items/images/en/system_reroute.6a07c1195da733426a0512cbf7d17264.png",
+      "thumb": "items/images/en/thumbs/system_reroute.6a07c1195da733426a0512cbf7d17264.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "archwing",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

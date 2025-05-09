@@ -1,0 +1,21 @@
+{
+  "id": "60cca19152f60b004dfea050",
+  "items_in_set": [
+    {
+      "id": "60cca19152f60b004dfea050",
+      "url_name": "fused_reservoir",
+      "icon": "items/images/en/fused_reservoir.13910c19e5be465680397c59d2486047.png",
+      "thumb": "items/images/en/thumbs/fused_reservoir.13910c19e5be465680397c59d2486047.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "wisp"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

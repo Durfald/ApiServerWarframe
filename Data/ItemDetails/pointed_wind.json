@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e51566e",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51566e",
+      "url_name": "pointed_wind",
+      "icon": "items/images/en/pointed_wind.32a87c4d2733e14f641db59e0c53e8c6.png",
+      "thumb": "items/images/en/thumbs/pointed_wind.32a87c4d2733e14f641db59e0c53e8c6.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "stance",
+        "daggers"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

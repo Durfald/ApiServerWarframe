@@ -1,0 +1,20 @@
+{
+  "id": "6056347f90a69e004e862873",
+  "items_in_set": [
+    {
+      "id": "6056347f90a69e004e862873",
+      "url_name": "fortifying_fire",
+      "icon": "items/images/en/fortifying_fire.7646e3be1f427b918676c9ecac9fa23a.png",
+      "thumb": "items/images/en/thumbs/fortifying_fire.7646e3be1f427b918676c9ecac9fa23a.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "railjack"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

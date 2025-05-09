@@ -1,0 +1,66 @@
+{
+  "id": "57bc9c99e506eb45ea25145b",
+  "items_in_set": [
+    {
+      "id": "57bc9c99e506eb45ea25145a",
+      "url_name": "galatine_prime_set",
+      "icon": "items/images/en/galatine_prime_set.066b855eb73def09ca5f21f677010098.png",
+      "thumb": "items/images/en/thumbs/galatine_prime_set.066b855eb73def09ca5f21f677010098.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "set",
+        "melee"
+      ],
+      "ducats": 160,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "57bc9c99e506eb45ea25145b",
+      "url_name": "galatine_prime_handle",
+      "icon": "items/images/en/galatine_prime_handle.066b855eb73def09ca5f21f677010098.png",
+      "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
+      "thumb": "items/images/en/thumbs/galatine_prime_handle.066b855eb73def09ca5f21f677010098.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "57bc9c99e506eb45ea25145c",
+      "url_name": "galatine_prime_blade",
+      "icon": "items/images/en/galatine_prime_blade.066b855eb73def09ca5f21f677010098.png",
+      "sub_icon": "sub_icons/weapon/prime_blade_128x128.png",
+      "thumb": "items/images/en/thumbs/galatine_prime_blade.066b855eb73def09ca5f21f677010098.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "57bc9c99e506eb45ea25145d",
+      "url_name": "galatine_prime_blueprint",
+      "icon": "items/images/en/galatine_prime_blueprint.066b855eb73def09ca5f21f677010098.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/galatine_prime_blueprint.066b855eb73def09ca5f21f677010098.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

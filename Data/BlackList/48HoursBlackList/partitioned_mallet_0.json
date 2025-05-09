@@ -1,0 +1,11 @@
+{
+  "id": "5b50a3b23a84fd02a7823252",
+  "url_name": "partitioned_mallet",
+  "name": "Разделённый Молот",
+  "liquidity": 6,
+  "rank": 0.0,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

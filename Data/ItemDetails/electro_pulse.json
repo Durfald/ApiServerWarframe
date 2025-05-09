@@ -1,0 +1,21 @@
+{
+  "id": "5615432bb66f8371035bfa2d",
+  "items_in_set": [
+    {
+      "id": "5615432bb66f8371035bfa2d",
+      "url_name": "electro_pulse",
+      "icon": "items/images/en/electro_pulse.f4bd69a3149985b72299f5da28a01306.png",
+      "thumb": "items/images/en/thumbs/electro_pulse.f4bd69a3149985b72299f5da28a01306.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "sentinel",
+        "diriga"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

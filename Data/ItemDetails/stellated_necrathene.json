@@ -1,0 +1,17 @@
+{
+  "id": "5f498a269426ed00443bd0d5",
+  "items_in_set": [
+    {
+      "id": "5f498a269426ed00443bd0d5",
+      "url_name": "stellated_necrathene",
+      "icon": "items/images/en/stellated_necrathene.ca7d17dc4941bce561a68a2d7f93634d.png",
+      "thumb": "items/images/en/thumbs/stellated_necrathene.ca7d17dc4941bce561a68a2d7f93634d.128x128.png",
+      "tags": [
+        "gem"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

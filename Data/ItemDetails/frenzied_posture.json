@@ -1,0 +1,21 @@
+{
+  "id": "66fd69593a826eccf651cd61",
+  "items_in_set": [
+    {
+      "id": "66fd69593a826eccf651cd61",
+      "url_name": "frenzied_posture",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "common",
+        "stance",
+        "claws"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

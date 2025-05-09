@@ -1,0 +1,19 @@
+{
+  "id": "551085ece7798972cb579c3e",
+  "items_in_set": [
+    {
+      "id": "551085ece7798972cb579c3e",
+      "url_name": "arcane_trickery",
+      "icon": "items/images/en/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.png",
+      "thumb": "items/images/en/thumbs/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "uncommon",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "56dac8cc5cc639de0a45c52c",
+  "items_in_set": [
+    {
+      "id": "56dac8cc5cc639de0a45c52c",
+      "url_name": "energy_conversion",
+      "icon": "items/images/en/energy_conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.png",
+      "thumb": "items/images/en/thumbs/energy_conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

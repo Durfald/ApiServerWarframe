@@ -1,0 +1,61 @@
+{
+  "id": "63ee010010125411da49e6ff",
+  "items_in_set": [
+    {
+      "id": "63ee00fc10125411da49e6e6",
+      "url_name": "corufell_receiver",
+      "icon": "items/images/en/corufell_receiver.784286cecaf71b494449fa3fa721c641.png",
+      "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/corufell_receiver.784286cecaf71b494449fa3fa721c641.128x128.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "63ee00fe10125411da49e6f1",
+      "url_name": "corufell_set",
+      "icon": "items/images/en/corufell_set.1361201225387534bc5dd7896424974c.png",
+      "thumb": "items/images/en/thumbs/corufell_set.1361201225387534bc5dd7896424974c.128x128.png",
+      "tags": [
+        "weapon",
+        "melee",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "63ee00fe10125411da49e6f2",
+      "url_name": "corufell_handle",
+      "icon": "items/images/en/corufell_handle.1361201225387534bc5dd7896424974c.png",
+      "sub_icon": "sub_icons/weapon/generic_handle_128x128.png",
+      "thumb": "items/images/en/thumbs/corufell_handle.1361201225387534bc5dd7896424974c.128x128.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "63ee010010125411da49e6ff",
+      "url_name": "corufell_barrel",
+      "icon": "items/images/en/corufell_barrel.784286cecaf71b494449fa3fa721c641.png",
+      "sub_icon": "sub_icons/weapon/generic_blade_128x128.png",
+      "thumb": "items/images/en/thumbs/corufell_barrel.784286cecaf71b494449fa3fa721c641.128x128.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

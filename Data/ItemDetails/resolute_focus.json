@@ -1,0 +1,22 @@
+{
+  "id": "5c1bd9f914a8e4006b1dad49",
+  "items_in_set": [
+    {
+      "id": "5c1bd9f914a8e4006b1dad49",
+      "url_name": "resolute_focus",
+      "icon": "items/images/en/resolute_focus.a25bb4ed2565504baa073dd60019ecec.png",
+      "thumb": "items/images/en/thumbs/resolute_focus.a25bb4ed2565504baa073dd60019ecec.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "uncommon",
+        "primary",
+        "mod",
+        "archwing",
+        "archgun"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

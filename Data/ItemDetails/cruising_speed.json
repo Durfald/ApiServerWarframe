@@ -1,0 +1,20 @@
+{
+  "id": "5eadc6bc04d55c027d23a6dd",
+  "items_in_set": [
+    {
+      "id": "5eadc6bc04d55c027d23a6dd",
+      "url_name": "cruising_speed",
+      "icon": "items/images/en/cruising_speed.8567467878d56c61f49ec814271f4b4e.png",
+      "thumb": "items/images/en/thumbs/cruising_speed.8567467878d56c61f49ec814271f4b4e.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "railjack",
+        "uncommon",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

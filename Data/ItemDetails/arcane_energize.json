@@ -1,0 +1,19 @@
+{
+  "id": "566751295dcbc186f0536bd1",
+  "items_in_set": [
+    {
+      "id": "566751295dcbc186f0536bd1",
+      "url_name": "arcane_energize",
+      "icon": "items/images/en/arcane_energize.e5f85590ceb29db89c6753dfdf823485.png",
+      "thumb": "items/images/en/thumbs/arcane_energize.e5f85590ceb29db89c6753dfdf823485.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "legendary",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 2100000
+    }
+  ]
+}

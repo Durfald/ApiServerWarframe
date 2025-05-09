@@ -1,0 +1,22 @@
+{
+  "id": "54a74454e779892d5e515670",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515670",
+      "url_name": "rubedo_lined_barrel",
+      "icon": "items/images/en/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.png",
+      "thumb": "items/images/en/thumbs/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "uncommon",
+        "primary",
+        "mod",
+        "archwing",
+        "archgun"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

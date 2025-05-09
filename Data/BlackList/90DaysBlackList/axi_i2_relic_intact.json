@@ -1,0 +1,11 @@
+{
+  "id": "6139101930dd5b004b7f90a0",
+  "url_name": "axi_i2_relic",
+  "name": "Реликвия Акси I2",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

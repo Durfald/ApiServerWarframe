@@ -1,0 +1,18 @@
+{
+  "id": "5667576ddb7c7a568a8d45c3",
+  "items_in_set": [
+    {
+      "id": "5667576ddb7c7a568a8d45c3",
+      "url_name": "unairu_lens",
+      "icon": "items/images/en/unairu_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+      "thumb": "items/images/en/thumbs/unairu_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png",
+      "tags": [
+        "focus",
+        "lens"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

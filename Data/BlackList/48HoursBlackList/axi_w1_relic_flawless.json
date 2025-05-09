@@ -1,0 +1,11 @@
+{
+  "id": "6054dd565221e30057500f54",
+  "url_name": "axi_w1_relic",
+  "name": "Реликвия Акси W1",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

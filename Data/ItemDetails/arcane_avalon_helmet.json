@@ -1,0 +1,18 @@
+{
+  "id": "54aaf1d2e77989786a5f748b",
+  "items_in_set": [
+    {
+      "id": "54aaf1d2e77989786a5f748b",
+      "url_name": "arcane_avalon_helmet",
+      "icon": "items/images/en/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.png",
+      "thumb": "items/images/en/thumbs/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.128x128.png",
+      "tags": [
+        "arcane_helmet",
+        "skin"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

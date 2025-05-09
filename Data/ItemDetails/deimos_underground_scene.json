@@ -1,0 +1,18 @@
+{
+  "id": "5f4ed3ecd5c36d0086f55af5",
+  "items_in_set": [
+    {
+      "id": "5f4ed3ecd5c36d0086f55af5",
+      "url_name": "deimos_underground_scene",
+      "icon": "items/images/en/deimos_underground_scene.c3802c3ec4d99659b2add7db1c413ca8.png",
+      "thumb": "items/images/en/thumbs/deimos_underground_scene.c3802c3ec4d99659b2add7db1c413ca8.128x128.png",
+      "tags": [
+        "scene",
+        "misc"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

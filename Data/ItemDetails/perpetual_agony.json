@@ -1,0 +1,21 @@
+{
+  "id": "554d3af4e77989420d3de2a4",
+  "items_in_set": [
+    {
+      "id": "554d3af4e77989420d3de2a4",
+      "url_name": "perpetual_agony",
+      "icon": "items/images/en/perpetual_agony.544534318a687be2710174e2c8826f96.png",
+      "thumb": "items/images/en/thumbs/perpetual_agony.544534318a687be2710174e2c8826f96.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "common",
+        "mod",
+        "pistol",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

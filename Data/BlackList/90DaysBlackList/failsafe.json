@@ -1,0 +1,10 @@
+{
+  "id": "5dbe9b0b7ea27b0ffe3ca270",
+  "url_name": "failsafe",
+  "name": "Отказоустойчивость",
+  "liquidity": 2,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

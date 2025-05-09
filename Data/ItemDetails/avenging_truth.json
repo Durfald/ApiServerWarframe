@@ -1,0 +1,22 @@
+{
+  "id": "5911f11d97a0add8e9d5da51",
+  "items_in_set": [
+    {
+      "id": "5911f11d97a0add8e9d5da51",
+      "url_name": "avenging_truth",
+      "icon": "items/images/en/avenging_truth.78f187d18567a17c8f76d1c8cdbd5ef3.png",
+      "thumb": "items/images/en/thumbs/avenging_truth.78f187d18567a17c8f76d1c8cdbd5ef3.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "syndicate",
+        "mod",
+        "silva_and_aegis",
+        "melee",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "59eba86952f90ed715e14156",
+  "items_in_set": [
+    {
+      "id": "59eba86952f90ed715e14156",
+      "url_name": "esher_devar",
+      "icon": "items/images/en/esher_devar.c0c43cd7a20d441676da210e92a83600.png",
+      "thumb": "items/images/en/thumbs/esher_devar.c0c43cd7a20d441676da210e92a83600.128x128.png",
+      "tags": [
+        "gem"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

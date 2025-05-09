@@ -1,0 +1,11 @@
+{
+  "id": "6054de465221e3005750104e",
+  "url_name": "lith_w2_relic",
+  "name": "Реликвия Лит W2",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

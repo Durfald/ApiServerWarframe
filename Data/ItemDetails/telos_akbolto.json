@@ -1,0 +1,19 @@
+{
+  "id": "54aae272e7798975bbba5f07",
+  "items_in_set": [
+    {
+      "id": "54aae272e7798975bbba5f07",
+      "url_name": "telos_akbolto",
+      "icon": "items/images/en/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.png",
+      "thumb": "items/images/en/thumbs/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.128x128.png",
+      "tags": [
+        "syndicate",
+        "weapon",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

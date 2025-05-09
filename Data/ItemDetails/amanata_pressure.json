@@ -1,0 +1,21 @@
+{
+  "id": "66fd68073a826eccf651cd55",
+  "items_in_set": [
+    {
+      "id": "66fd68073a826eccf651cd55",
+      "url_name": "amanata_pressure",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "melee",
+        "amanata"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

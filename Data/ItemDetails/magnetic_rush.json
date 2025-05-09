@@ -1,0 +1,20 @@
+{
+  "id": "675c62337b18977f6e645420",
+  "items_in_set": [
+    {
+      "id": "675c62337b18977f6e645420",
+      "url_name": "magnetic_rush",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "melee"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

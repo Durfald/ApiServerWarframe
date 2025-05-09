@@ -1,0 +1,19 @@
+{
+  "id": "54aae25de7798968b372a4e1",
+  "items_in_set": [
+    {
+      "id": "54aae25de7798968b372a4e1",
+      "url_name": "vaykor_marelok",
+      "icon": "items/images/en/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.png",
+      "thumb": "items/images/en/thumbs/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.128x128.png",
+      "tags": [
+        "syndicate",
+        "weapon",
+        "secondary"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

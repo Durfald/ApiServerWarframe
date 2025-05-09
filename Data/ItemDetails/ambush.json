@@ -1,0 +1,21 @@
+{
+  "id": "5bc24accb919f2010f7d579a",
+  "items_in_set": [
+    {
+      "id": "5bc24accb919f2010f7d579a",
+      "url_name": "ambush",
+      "icon": "items/images/en/ambush.bd6ac0ce71315652d5a7bdd9a80d0218.png",
+      "thumb": "items/images/en/thumbs/ambush.bd6ac0ce71315652d5a7bdd9a80d0218.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "sentinel",
+        "shade"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

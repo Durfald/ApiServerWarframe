@@ -1,0 +1,21 @@
+{
+  "id": "5cdedd22fc2db20e0d0c5543",
+  "items_in_set": [
+    {
+      "id": "5cdedd22fc2db20e0d0c5543",
+      "url_name": "primed_pack_leader",
+      "icon": "items/images/en/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.png",
+      "thumb": "items/images/en/thumbs/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "sentinel",
+        "companion"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

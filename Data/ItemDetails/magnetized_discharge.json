@@ -1,0 +1,21 @@
+{
+  "id": "59385f6716efa3a742b15f5f",
+  "items_in_set": [
+    {
+      "id": "59385f6716efa3a742b15f5f",
+      "url_name": "magnetized_discharge",
+      "icon": "items/images/en/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.png",
+      "thumb": "items/images/en/thumbs/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "mag",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6054de385221e30057501040",
+  "url_name": "lith_k2_relic",
+  "name": "Реликвия Лит K2",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

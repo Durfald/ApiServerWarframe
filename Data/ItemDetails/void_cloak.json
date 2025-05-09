@@ -1,0 +1,20 @@
+{
+  "id": "5dff6e1014569703166749e6",
+  "items_in_set": [
+    {
+      "id": "5dff6e1014569703166749e6",
+      "url_name": "void_cloak",
+      "icon": "items/images/en/void_cloak.f6d99679c6cbed946e0a4cdaaf04bd33.png",
+      "thumb": "items/images/en/thumbs/void_cloak.f6d99679c6cbed946e0a4cdaaf04bd33.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "railjack",
+        "common"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

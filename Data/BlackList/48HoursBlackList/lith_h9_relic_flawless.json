@@ -1,0 +1,11 @@
+{
+  "id": "64c2aa1566456704eba6ba3b",
+  "url_name": "lith_h9_relic",
+  "name": "Реликвия Лит H9",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

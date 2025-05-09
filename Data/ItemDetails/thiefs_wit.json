@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e515646",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515646",
+      "url_name": "thiefs_wit",
+      "icon": "items/images/en/thiefs_wit.b861b939df1689692ce5371fbe2d1e2d.png",
+      "thumb": "items/images/en/thumbs/thiefs_wit.b861b939df1689692ce5371fbe2d1e2d.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "warframe",
+        "common"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "60e70f79479445008f272572",
+  "items_in_set": [
+    {
+      "id": "60e70f79479445008f272572",
+      "url_name": "secondary_merciless",
+      "icon": "items/images/en/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.png",
+      "thumb": "items/images/en/thumbs/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "arcane_enhancement",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

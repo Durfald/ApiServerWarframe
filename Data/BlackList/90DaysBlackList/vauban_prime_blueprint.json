@@ -1,0 +1,12 @@
+{
+  "id": "573b7fbd0ec44a47787a690d",
+  "url_name": "vauban_prime_blueprint",
+  "name": "Вобан Прайм (Чертеж)",
+  "spread": 5,
+  "buy_price": 10,
+  "sell_price": 15,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

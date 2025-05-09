@@ -1,0 +1,11 @@
+{
+  "id": "672229fc1ce4caca2fe98669",
+  "url_name": "meso_h8_relic",
+  "name": "Реликвия Мезо H8",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

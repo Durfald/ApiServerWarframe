@@ -1,0 +1,61 @@
+{
+  "id": "67e8c6bdcedcd0be6d13594a",
+  "items_in_set": [
+    {
+      "id": "67e8c6bdcedcd0be6d13594a",
+      "url_name": "purgator_1_set",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "primary",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "67e8c6becedcd0be6d13594b",
+      "url_name": "purgator_1_barrel",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "67e8c6bfcedcd0be6d13594c",
+      "url_name": "purgator_1_receiver",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "67e8c6c0cedcd0be6d13594d",
+      "url_name": "purgator_1_stock",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

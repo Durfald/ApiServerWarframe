@@ -1,0 +1,11 @@
+{
+  "id": "6530539d32327ba8746da737",
+  "url_name": "neo_k6_relic",
+  "name": "Реликвия Нео K6",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

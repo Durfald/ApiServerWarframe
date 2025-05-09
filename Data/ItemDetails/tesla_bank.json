@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e51562b",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e51562b",
+      "url_name": "tesla_bank",
+      "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
+      "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "vauban"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

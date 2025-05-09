@@ -1,0 +1,64 @@
+{
+  "id": "67e40050cedcd0be6d135929",
+  "items_in_set": [
+    {
+      "id": "67e40050cedcd0be6d135929",
+      "url_name": "riot_848_set",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "secondary",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "67e40053cedcd0be6d13592b",
+      "url_name": "riot_848_barrel",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_barrel_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component",
+        "blueprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "67e40054cedcd0be6d13592c",
+      "url_name": "riot_848_receiver",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_receiver_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component",
+        "blueprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "67e40055cedcd0be6d13592d",
+      "url_name": "riot_848_stock",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/generic_stock_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "weapon",
+        "component",
+        "blueprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "54a73e65e779893a797fff38",
+  "items_in_set": [
+    {
+      "id": "54a73e65e779893a797fff36",
+      "url_name": "bronco_prime_barrel",
+      "icon": "items/images/en/bronco_prime_barrel.aa5499a3b26806f1f26a987be9dcf0ca.png",
+      "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/bronco_prime_barrel.aa5499a3b26806f1f26a987be9dcf0ca.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "54a73e65e779893a797fff37",
+      "url_name": "bronco_prime_blueprint",
+      "icon": "items/images/en/bronco_prime_blueprint.aa5499a3b26806f1f26a987be9dcf0ca.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/bronco_prime_blueprint.aa5499a3b26806f1f26a987be9dcf0ca.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "secondary",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "54a73e65e779893a797fff38",
+      "url_name": "bronco_prime_receiver",
+      "icon": "items/images/en/bronco_prime_receiver.aa5499a3b26806f1f26a987be9dcf0ca.png",
+      "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/bronco_prime_receiver.aa5499a3b26806f1f26a987be9dcf0ca.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "56783f24cbfa8f0432dd8994",
+      "url_name": "bronco_prime_set",
+      "icon": "items/images/en/bronco_prime_set.aa5499a3b26806f1f26a987be9dcf0ca.png",
+      "thumb": "items/images/en/thumbs/bronco_prime_set.aa5499a3b26806f1f26a987be9dcf0ca.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "set",
+        "secondary"
+      ],
+      "ducats": 75,
+      "rarity": "",
+      "trading_tax": 6000
+    }
+  ]
+}

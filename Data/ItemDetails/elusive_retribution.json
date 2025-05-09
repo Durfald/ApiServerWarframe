@@ -1,0 +1,21 @@
+{
+  "id": "6604a640dbdd5c1673781db5",
+  "items_in_set": [
+    {
+      "id": "6604a640dbdd5c1673781db5",
+      "url_name": "elusive_retribution",
+      "icon": "items/images/en/elusive_retribution.93a4b9b33a04f46986376491691085db.png",
+      "thumb": "items/images/en/thumbs/elusive_retribution.93a4b9b33a04f46986376491691085db.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "baruuk"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

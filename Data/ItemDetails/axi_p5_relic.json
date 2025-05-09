@@ -1,0 +1,24 @@
+{
+  "id": "6530537b32327ba8746da730",
+  "items_in_set": [
+    {
+      "id": "6530537b32327ba8746da730",
+      "url_name": "axi_p5_relic",
+      "icon": "items/images/en/axi_p5_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "thumb": "items/images/en/thumbs/axi_p5_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "axi",
+        "relic"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

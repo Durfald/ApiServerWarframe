@@ -1,0 +1,20 @@
+{
+  "id": "5f498a1f9426ed00443bd099",
+  "items_in_set": [
+    {
+      "id": "5f498a1f9426ed00443bd099",
+      "url_name": "necramech_slipstream",
+      "icon": "items/images/en/necramech_slipstream.b5c850017828708c1576b860b787eeb6.png",
+      "thumb": "items/images/en/thumbs/necramech_slipstream.b5c850017828708c1576b860b787eeb6.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "common",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

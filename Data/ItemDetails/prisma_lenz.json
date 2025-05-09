@@ -1,0 +1,18 @@
+{
+  "id": "6467860a7ec1900db1ca9cc6",
+  "items_in_set": [
+    {
+      "id": "6467860a7ec1900db1ca9cc6",
+      "url_name": "prisma_lenz",
+      "icon": "items/images/en/prisma_lenz.36c488cabc262314b09b01127c7fbc6f.png",
+      "thumb": "items/images/en/thumbs/prisma_lenz.36c488cabc262314b09b01127c7fbc6f.128x128.png",
+      "tags": [
+        "weapon",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

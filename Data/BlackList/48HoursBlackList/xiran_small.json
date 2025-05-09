@@ -1,0 +1,11 @@
+{
+  "id": "645ba2a57ec1900802a58a45",
+  "url_name": "xiran",
+  "name": "Ксиран",
+  "liquidity": 0,
+  "subtype": "small",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

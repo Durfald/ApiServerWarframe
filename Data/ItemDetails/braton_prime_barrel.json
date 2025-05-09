@@ -1,0 +1,81 @@
+{
+  "id": "54a73e65e779893a797fff32",
+  "items_in_set": [
+    {
+      "id": "54a73e65e779893a797fff32",
+      "url_name": "braton_prime_barrel",
+      "icon": "items/images/en/braton_prime_barrel.ae229642d6179ebfb1547ed7d976e749.png",
+      "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/braton_prime_barrel.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "54a73e65e779893a797fff33",
+      "url_name": "braton_prime_blueprint",
+      "icon": "items/images/en/braton_prime_blueprint.ae229642d6179ebfb1547ed7d976e749.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/braton_prime_blueprint.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "primary",
+        "blueprint"
+      ],
+      "ducats": 25,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "54a73e65e779893a797fff34",
+      "url_name": "braton_prime_receiver",
+      "icon": "items/images/en/braton_prime_receiver.ae229642d6179ebfb1547ed7d976e749.png",
+      "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/braton_prime_receiver.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "54a73e65e779893a797fff35",
+      "url_name": "braton_prime_stock",
+      "icon": "items/images/en/braton_prime_stock.ae229642d6179ebfb1547ed7d976e749.png",
+      "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
+      "thumb": "items/images/en/thumbs/braton_prime_stock.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 25,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "56783f24cbfa8f0432dd8993",
+      "url_name": "braton_prime_set",
+      "icon": "items/images/en/braton_prime_set.ae229642d6179ebfb1547ed7d976e749.png",
+      "thumb": "items/images/en/thumbs/braton_prime_set.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "set",
+        "primary"
+      ],
+      "ducats": 110,
+      "rarity": "",
+      "trading_tax": 8000
+    }
+  ]
+}

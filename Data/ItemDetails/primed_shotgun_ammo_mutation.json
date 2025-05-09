@@ -1,0 +1,21 @@
+{
+  "id": "5655c4b3b66f832e11abd3fb",
+  "items_in_set": [
+    {
+      "id": "5655c4b3b66f832e11abd3fb",
+      "url_name": "primed_shotgun_ammo_mutation",
+      "icon": "items/images/en/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.png",
+      "thumb": "items/images/en/thumbs/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6054de215221e30057501025",
+  "url_name": "lith_c6_relic",
+  "name": "Реликвия Лит C6",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

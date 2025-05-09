@@ -1,0 +1,22 @@
+{
+  "id": "567af35fcbfa8f05d076a514",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a514",
+      "url_name": "hydraulic_chamber",
+      "icon": "items/images/en/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.png",
+      "thumb": "items/images/en/thumbs/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "primary",
+        "pvp",
+        "shotgun",
+        "rare",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "63229386dd457f0096113c45",
+  "url_name": "archon_stretch",
+  "name": "Архонтовое Растяжение",
+  "spread": 62,
+  "rank": 10.0,
+  "buy_price": 62,
+  "sell_price": 124,
+  "trading_tax": 1000000,
+  "90days_trend": -0.06,
+  "48hours_trend": -0.023
+}

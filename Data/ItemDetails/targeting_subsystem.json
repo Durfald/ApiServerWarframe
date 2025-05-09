@@ -1,0 +1,21 @@
+{
+  "id": "56a7b2bb1133f656cb085d98",
+  "items_in_set": [
+    {
+      "id": "56a7b2bb1133f656cb085d98",
+      "url_name": "targeting_subsystem",
+      "icon": "items/images/en/targeting_subsystem.bab012feb316116d1c4c66888e73a6e8.png",
+      "thumb": "items/images/en/thumbs/targeting_subsystem.bab012feb316116d1c4c66888e73a6e8.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "secondary",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

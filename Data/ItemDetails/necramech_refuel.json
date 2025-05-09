@@ -1,0 +1,20 @@
+{
+  "id": "5f498a269426ed00443bd0cf",
+  "items_in_set": [
+    {
+      "id": "5f498a269426ed00443bd0cf",
+      "url_name": "necramech_refuel",
+      "icon": "items/images/en/necramech_refuel.3064dd67344c9dad1449a60a896e66e7.png",
+      "thumb": "items/images/en/thumbs/necramech_refuel.3064dd67344c9dad1449a60a896e66e7.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "common",
+        "necramech"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

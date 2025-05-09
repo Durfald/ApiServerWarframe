@@ -1,0 +1,11 @@
+{
+  "id": "6054ddf85221e30057500ff7",
+  "url_name": "meso_c4_relic",
+  "name": "Реликвия Мезо C4",
+  "liquidity": 0,
+  "subtype": "flawless",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5ca28670fc2db2035eae05a6",
+  "url_name": "equinox_prime_blueprint",
+  "name": "Эквинокс Прайм (Чертеж)",
+  "spread": 3,
+  "buy_price": 9,
+  "sell_price": 12,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

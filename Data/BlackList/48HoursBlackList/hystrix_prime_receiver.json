@@ -1,0 +1,12 @@
+{
+  "id": "62d3494075156700ce450df7",
+  "url_name": "hystrix_prime_receiver",
+  "name": "Хистрикс Прайм: Приёмник",
+  "spread": 0,
+  "buy_price": 10,
+  "sell_price": 10,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

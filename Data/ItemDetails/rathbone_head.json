@@ -1,0 +1,50 @@
+{
+  "id": "578d33bf34003bbbb9e20925",
+  "items_in_set": [
+    {
+      "id": "578d33bf34003bbbb9e20924",
+      "url_name": "rathbone_handle",
+      "icon": "items/images/en/rathbone_handle.7e6a0db9a09fae95a9f6a4e96b1f0979.png",
+      "sub_icon": "sub_icons/weapon/generic_handle_128x128.png",
+      "thumb": "items/images/en/thumbs/rathbone_handle.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "578d33bf34003bbbb9e20925",
+      "url_name": "rathbone_head",
+      "icon": "items/images/en/rathbone_head.7e6a0db9a09fae95a9f6a4e96b1f0979.png",
+      "sub_icon": "sub_icons/weapon/generic_head_128x128.png",
+      "thumb": "items/images/en/thumbs/rathbone_head.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "582b0f8a0af25410b099f800",
+      "url_name": "rathbone_set",
+      "icon": "items/images/en/rathbone_set.7e6a0db9a09fae95a9f6a4e96b1f0979.png",
+      "thumb": "items/images/en/thumbs/rathbone_set.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png",
+      "tags": [
+        "weapon",
+        "set",
+        "melee",
+        "archwing"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 4000
+    }
+  ]
+}

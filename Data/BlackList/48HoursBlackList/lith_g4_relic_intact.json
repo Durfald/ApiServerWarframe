@@ -1,0 +1,11 @@
+{
+  "id": "60cca19052f60b004dfea04a",
+  "url_name": "lith_g4_relic",
+  "name": "Реликвия Лит G4",
+  "liquidity": 60,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

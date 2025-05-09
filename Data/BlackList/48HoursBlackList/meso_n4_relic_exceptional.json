@@ -1,0 +1,11 @@
+{
+  "id": "6054ddd65221e30057500fd1",
+  "url_name": "meso_n4_relic",
+  "name": "Реликвия Мезо N4",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6054de7c5221e30057501083",
+  "url_name": "tralok",
+  "name": "Тралок",
+  "liquidity": 20,
+  "subtype": "medium",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

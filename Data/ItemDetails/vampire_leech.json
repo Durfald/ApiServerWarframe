@@ -1,0 +1,21 @@
+{
+  "id": "5526aec0e779896af941825b",
+  "items_in_set": [
+    {
+      "id": "5526aec0e779896af941825b",
+      "url_name": "vampire_leech",
+      "icon": "items/images/en/vampire_leech.97cf256f35ee533378a490c5f27e0e2e.png",
+      "thumb": "items/images/en/thumbs/vampire_leech.97cf256f35ee533378a490c5f27e0e2e.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "trinity"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

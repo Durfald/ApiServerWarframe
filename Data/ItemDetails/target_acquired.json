@@ -1,0 +1,21 @@
+{
+  "id": "59f38f558c202c007335ba65",
+  "items_in_set": [
+    {
+      "id": "59f38f558c202c007335ba65",
+      "url_name": "target_acquired",
+      "icon": "items/images/en/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.png",
+      "thumb": "items/images/en/thumbs/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "primary",
+        "sniper"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

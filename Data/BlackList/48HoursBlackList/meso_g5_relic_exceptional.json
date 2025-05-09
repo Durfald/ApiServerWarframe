@@ -1,0 +1,11 @@
+{
+  "id": "64c2aa1566456704eba6ba3c",
+  "url_name": "meso_g5_relic",
+  "name": "Реликвия Мезо G5",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

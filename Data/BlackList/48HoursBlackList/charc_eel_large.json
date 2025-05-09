@@ -1,0 +1,11 @@
+{
+  "id": "6054de6c5221e3005750107b",
+  "url_name": "charc_eel",
+  "name": "Угорь Чарка",
+  "liquidity": 0,
+  "subtype": "large",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

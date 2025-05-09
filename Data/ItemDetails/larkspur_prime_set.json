@@ -1,0 +1,83 @@
+{
+  "id": "641263e07d179f02100c6d45",
+  "items_in_set": [
+    {
+      "id": "641263e07d179f02100c6d45",
+      "url_name": "larkspur_prime_set",
+      "icon": "items/images/en/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.png",
+      "thumb": "items/images/en/thumbs/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "tags": [
+        "prime",
+        "archwing",
+        "weapon",
+        "primary",
+        "set"
+      ],
+      "ducats": 205,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "641263e07d179f02100c6d47",
+      "url_name": "larkspur_prime_barrel",
+      "icon": "items/images/en/larkspur_prime_barrel.592e684b836593e202891aea8b3a3f6c.png",
+      "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/larkspur_prime_barrel.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "641263e07d179f02100c6d4a",
+      "url_name": "larkspur_prime_stock",
+      "icon": "items/images/en/larkspur_prime_stock.592e684b836593e202891aea8b3a3f6c.png",
+      "sub_icon": "sub_icons/weapon/prime_stock_128x128.png",
+      "thumb": "items/images/en/thumbs/larkspur_prime_stock.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "641263e07d179f02100c6d4c",
+      "url_name": "larkspur_prime_receiver",
+      "icon": "items/images/en/larkspur_prime_receiver.592e684b836593e202891aea8b3a3f6c.png",
+      "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/larkspur_prime_receiver.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "641263e07d179f02100c6d4e",
+      "url_name": "larkspur_prime_blueprint",
+      "icon": "items/images/en/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "tags": [
+        "prime",
+        "archwing",
+        "primary",
+        "weapon",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

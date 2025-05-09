@@ -1,0 +1,10 @@
+{
+  "id": "62af145d5d2dab005422903f",
+  "url_name": "prisma_burst_laser",
+  "name": "Лазерный Пистолет Призма",
+  "liquidity": 3,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

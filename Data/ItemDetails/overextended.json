@@ -1,0 +1,20 @@
+{
+  "id": "54a74454e779892d5e5155d6",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155d6",
+      "url_name": "overextended",
+      "icon": "items/images/en/overextended.4939196d35936b87b0ba4c85cdc97bef.png",
+      "thumb": "items/images/en/thumbs/overextended.4939196d35936b87b0ba4c85cdc97bef.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "warframe",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

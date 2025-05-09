@@ -1,0 +1,66 @@
+{
+  "id": "62d3494075156700ce450df7",
+  "items_in_set": [
+    {
+      "id": "62d3493f75156700ce450de7",
+      "url_name": "hystrix_prime_blueprint",
+      "icon": "items/images/en/hystrix_prime_blueprint.1ac7d440197ca107e3df6646cb58a43d.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/hystrix_prime_blueprint.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "tags": [
+        "secondary",
+        "prime",
+        "weapon",
+        "blueprint"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "62d3494075156700ce450df0",
+      "url_name": "hystrix_prime_set",
+      "icon": "items/images/en/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.png",
+      "thumb": "items/images/en/thumbs/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "tags": [
+        "secondary",
+        "prime",
+        "weapon",
+        "set"
+      ],
+      "ducats": 160,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "62d3494075156700ce450df7",
+      "url_name": "hystrix_prime_receiver",
+      "icon": "items/images/en/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.png",
+      "sub_icon": "sub_icons/weapon/prime_receiver_128x128.png",
+      "thumb": "items/images/en/thumbs/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "tags": [
+        "prime",
+        "weapon",
+        "component"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "62d3494175156700ce450dfd",
+      "url_name": "hystrix_prime_barrel",
+      "icon": "items/images/en/hystrix_prime_barrel.1ac7d440197ca107e3df6646cb58a43d.png",
+      "sub_icon": "sub_icons/weapon/prime_barrel_128x128.png",
+      "thumb": "items/images/en/thumbs/hystrix_prime_barrel.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "tags": [
+        "prime",
+        "weapon",
+        "component"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

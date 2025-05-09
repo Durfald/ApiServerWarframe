@@ -1,0 +1,19 @@
+{
+  "id": "5800c6c9c021d9dc0a9f8914",
+  "items_in_set": [
+    {
+      "id": "5800c6c9c021d9dc0a9f8914",
+      "url_name": "steel_meridian_augment_mod",
+      "icon": "items/images/en/steel_meridian_augment_mod.24859218a0080d6b4454c825412f0711.webp",
+      "thumb": "items/images/en/thumbs/steel_meridian_augment_mod.24859218a0080d6b4454c825412f0711.128x128.webp",
+      "tags": [
+        "syndicate",
+        "mod",
+        "rare"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

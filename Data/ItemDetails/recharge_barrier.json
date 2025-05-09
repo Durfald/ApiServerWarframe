@@ -1,0 +1,21 @@
+{
+  "id": "554d3f0ce779894445a848f4",
+  "items_in_set": [
+    {
+      "id": "554d3f0ce779894445a848f4",
+      "url_name": "recharge_barrier",
+      "icon": "items/images/en/recharge_barrier.80e4da5d8308bf138ef9f78e5c19cd70.png",
+      "thumb": "items/images/en/thumbs/recharge_barrier.80e4da5d8308bf138ef9f78e5c19cd70.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "volt"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

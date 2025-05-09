@@ -1,0 +1,21 @@
+{
+  "id": "5f498a279426ed00443bd0e1",
+  "items_in_set": [
+    {
+      "id": "5f498a279426ed00443bd0e1",
+      "url_name": "iatric_mycelium",
+      "icon": "items/images/en/iatric_mycelium.154575404e841baeacd33f04fe918d5b.png",
+      "thumb": "items/images/en/thumbs/iatric_mycelium.154575404e841baeacd33f04fe918d5b.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "kubrow",
+        "vizier_predasite"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

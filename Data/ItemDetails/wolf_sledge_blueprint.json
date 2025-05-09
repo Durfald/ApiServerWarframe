@@ -1,0 +1,76 @@
+{
+  "id": "5c7849e22cc6ce090383e262",
+  "items_in_set": [
+    {
+      "id": "5c7849e22cc6ce090383e25d",
+      "url_name": "wolf_sledge_handle",
+      "icon": "items/images/en/wolf_sledge_handle.6b288aa755e84f886faa90486ed17d37.png",
+      "sub_icon": "sub_icons/weapon/generic_handle_128x128.png",
+      "thumb": "items/images/en/thumbs/wolf_sledge_handle.6b288aa755e84f886faa90486ed17d37.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5c7849e22cc6ce090383e262",
+      "url_name": "wolf_sledge_blueprint",
+      "icon": "items/images/en/wolf_sledge_blueprint.6b288aa755e84f886faa90486ed17d37.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/wolf_sledge_blueprint.6b288aa755e84f886faa90486ed17d37.128x128.png",
+      "tags": [
+        "weapon",
+        "melee",
+        "blueprint"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5c7849e22cc6ce090383e266",
+      "url_name": "wolf_sledge_head",
+      "icon": "items/images/en/wolf_sledge_head.6b288aa755e84f886faa90486ed17d37.png",
+      "sub_icon": "sub_icons/weapon/generic_head_128x128.png",
+      "thumb": "items/images/en/thumbs/wolf_sledge_head.6b288aa755e84f886faa90486ed17d37.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "5c7849e22cc6ce090383e267",
+      "url_name": "wolf_sledge_set",
+      "icon": "items/images/en/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.png",
+      "thumb": "items/images/en/thumbs/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.128x128.png",
+      "tags": [
+        "melee",
+        "weapon",
+        "set"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 8000
+    },
+    {
+      "id": "5c7849e22cc6ce090383e26a",
+      "url_name": "wolf_sledge_motor",
+      "icon": "items/images/en/wolf_sledge_motor.6b288aa755e84f886faa90486ed17d37.png",
+      "sub_icon": "sub_icons/weapon/generic_motor_128x128.png",
+      "thumb": "items/images/en/thumbs/wolf_sledge_motor.6b288aa755e84f886faa90486ed17d37.128x128.png",
+      "tags": [
+        "component",
+        "weapon"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

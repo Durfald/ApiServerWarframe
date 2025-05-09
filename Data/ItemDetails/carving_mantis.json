@@ -1,0 +1,21 @@
+{
+  "id": "59e3afcd115f1d887cfd7ac8",
+  "items_in_set": [
+    {
+      "id": "59e3afcd115f1d887cfd7ac8",
+      "url_name": "carving_mantis",
+      "icon": "items/images/en/carving_mantis.3536f840864456911b4003a33fc522fd.png",
+      "thumb": "items/images/en/thumbs/carving_mantis.3536f840864456911b4003a33fc522fd.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "stance",
+        "dual_swords"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

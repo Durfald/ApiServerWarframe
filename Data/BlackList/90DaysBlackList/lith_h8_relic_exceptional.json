@@ -1,0 +1,11 @@
+{
+  "id": "641264a57d179f02190e41ea",
+  "url_name": "lith_h8_relic",
+  "name": "Реликвия Лит H8",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

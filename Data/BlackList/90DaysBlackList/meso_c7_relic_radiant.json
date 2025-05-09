@@ -1,0 +1,11 @@
+{
+  "id": "644b00237ec1900044b9772f",
+  "url_name": "meso_c7_relic",
+  "name": "Реликвия Мезо C7",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

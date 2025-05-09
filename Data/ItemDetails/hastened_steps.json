@@ -1,0 +1,21 @@
+{
+  "id": "567af35fcbfa8f05d076a510",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a510",
+      "url_name": "hastened_steps",
+      "icon": "items/images/en/hastened_steps.c981a49b2097a6a207d3623dd8a09b91.png",
+      "thumb": "items/images/en/thumbs/hastened_steps.c981a49b2097a6a207d3623dd8a09b91.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "pvp",
+        "warframe"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

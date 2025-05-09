@@ -1,0 +1,21 @@
+{
+  "id": "54c686dce7798913e1a86565",
+  "items_in_set": [
+    {
+      "id": "54c686dce7798913e1a86565",
+      "url_name": "primed_heated_charge",
+      "icon": "items/images/en/primed_heated_charge.be3ac37bf7d2d82f77587dff71452c21.png",
+      "thumb": "items/images/en/thumbs/primed_heated_charge.be3ac37bf7d2d82f77587dff71452c21.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

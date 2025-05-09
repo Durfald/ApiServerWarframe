@@ -1,0 +1,13 @@
+{
+  "id": "54e0c9eee7798903744178ac",
+  "url_name": "total_eclipse",
+  "name": "Полное Затмение",
+  "spread": 9,
+  "rank": 0.0,
+  "buy_price": 5,
+  "sell_price": 14,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,21 @@
+{
+  "id": "667238d78ba7c81b70d02cbe",
+  "items_in_set": [
+    {
+      "id": "667238d78ba7c81b70d02cbe",
+      "url_name": "spectral_spirit",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "dagath"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "60ad4a1bf1904300d012c700",
+  "items_in_set": [
+    {
+      "id": "60ad4a1bf1904300d012c6f9",
+      "url_name": "volnus_prime_handle",
+      "icon": "items/images/en/volnus_prime_handle.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+      "sub_icon": "sub_icons/weapon/prime_handle_128x128.png",
+      "thumb": "items/images/en/thumbs/volnus_prime_handle.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60ad4a1bf1904300d012c6fa",
+      "url_name": "volnus_prime_head",
+      "icon": "items/images/en/volnus_prime_head.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+      "sub_icon": "sub_icons/weapon/prime_head_128x128.png",
+      "thumb": "items/images/en/thumbs/volnus_prime_head.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "60ad4a1bf1904300d012c700",
+      "url_name": "volnus_prime_set",
+      "icon": "items/images/en/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+      "thumb": "items/images/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "set",
+        "melee"
+      ],
+      "ducats": 160,
+      "rarity": "",
+      "trading_tax": 6000
+    },
+    {
+      "id": "60ad4a1cf1904300d012c70c",
+      "url_name": "volnus_prime_blueprint",
+      "icon": "items/images/en/volnus_prime_blueprint.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/images/en/thumbs/volnus_prime_blueprint.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+      "tags": [
+        "weapon",
+        "prime",
+        "melee",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

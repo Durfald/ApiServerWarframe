@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e515651",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515651",
+      "url_name": "frail_momentum",
+      "icon": "items/images/en/frail_momentum.8495568df9bed9b94564b2b882a57317.png",
+      "thumb": "items/images/en/thumbs/frail_momentum.8495568df9bed9b94564b2b882a57317.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "shotgun",
+        "mod",
+        "rare",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

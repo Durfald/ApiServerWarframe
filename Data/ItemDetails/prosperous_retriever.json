@@ -1,0 +1,21 @@
+{
+  "id": "66fd69d63a826eccf651cd6f",
+  "items_in_set": [
+    {
+      "id": "66fd69d63a826eccf651cd6f",
+      "url_name": "prosperous_retriever",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "rare",
+        "sentinel",
+        "beast"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

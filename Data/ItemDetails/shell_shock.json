@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e515638",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e515638",
+      "url_name": "shell_shock",
+      "icon": "items/images/en/shell_shock.35bf2750cb8660baea04267adab60b34.png",
+      "thumb": "items/images/en/thumbs/shell_shock.35bf2750cb8660baea04267adab60b34.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "shotgun",
+        "mod",
+        "rare",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

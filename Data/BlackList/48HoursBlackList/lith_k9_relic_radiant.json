@@ -1,0 +1,11 @@
+{
+  "id": "62d3494075156700ce450df9",
+  "url_name": "lith_k9_relic",
+  "name": "Реликвия Лит K9",
+  "liquidity": 0,
+  "subtype": "radiant",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

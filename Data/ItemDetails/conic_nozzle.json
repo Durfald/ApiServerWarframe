@@ -1,0 +1,20 @@
+{
+  "id": "5dff6e111456970316674a16",
+  "items_in_set": [
+    {
+      "id": "5dff6e111456970316674a16",
+      "url_name": "conic_nozzle",
+      "icon": "items/images/en/conic_nozzle.2a28d8acc04a19e0e5caae4c447db6f9.png",
+      "thumb": "items/images/en/thumbs/conic_nozzle.2a28d8acc04a19e0e5caae4c447db6f9.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "railjack",
+        "mod"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

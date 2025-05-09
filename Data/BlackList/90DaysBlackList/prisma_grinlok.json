@@ -1,0 +1,10 @@
+{
+  "id": "5c8693d22cc6ce0bbc095d9c",
+  "url_name": "prisma_grinlok",
+  "name": "Гринлок Призма",
+  "liquidity": 7,
+  "reason": "Минимальная ликвидность",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

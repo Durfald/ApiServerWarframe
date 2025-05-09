@@ -1,0 +1,21 @@
+{
+  "id": "567af35fcbfa8f05d076a51e",
+  "items_in_set": [
+    {
+      "id": "567af35fcbfa8f05d076a51e",
+      "url_name": "mortal_conduct",
+      "icon": "items/images/en/mortal_conduct.1891d5e6d5e0cb468f6d0947d91bf260.png",
+      "thumb": "items/images/en/thumbs/mortal_conduct.1891d5e6d5e0cb468f6d0947d91bf260.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "pvp",
+        "melee"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

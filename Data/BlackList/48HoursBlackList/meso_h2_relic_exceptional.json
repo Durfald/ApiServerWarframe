@@ -1,0 +1,11 @@
+{
+  "id": "62d3494175156700ce450dfc",
+  "url_name": "meso_h2_relic",
+  "name": "Реликвия Мезо H2",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

@@ -1,0 +1,11 @@
+{
+  "id": "6054de585221e30057501061",
+  "url_name": "lith_z2_relic",
+  "name": "Реликвия Лит Z2",
+  "liquidity": 0,
+  "subtype": "intact",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

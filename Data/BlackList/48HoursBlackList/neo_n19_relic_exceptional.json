@@ -1,0 +1,11 @@
+{
+  "id": "67db5f479cec3e52e62523db",
+  "url_name": "neo_n19_relic",
+  "name": "Neo N19 Relic",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

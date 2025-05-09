@@ -1,0 +1,13 @@
+{
+  "id": "649322af7ec190215a693092",
+  "url_name": "primary_blight",
+  "name": "Основная Пагубность",
+  "spread": 15,
+  "rank": 5.0,
+  "buy_price": 230,
+  "sell_price": 245,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

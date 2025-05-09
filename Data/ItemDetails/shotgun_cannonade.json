@@ -1,0 +1,21 @@
+{
+  "id": "667237bd8ba7c81b70d02cae",
+  "items_in_set": [
+    {
+      "id": "667237bd8ba7c81b70d02cae",
+      "url_name": "shotgun_cannonade",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "mod",
+        "uncommon",
+        "primary",
+        "shotgun"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

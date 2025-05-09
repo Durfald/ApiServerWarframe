@@ -1,0 +1,21 @@
+{
+  "id": "554d3b75e77989423ccdf0da",
+  "items_in_set": [
+    {
+      "id": "554d3b75e77989423ccdf0da",
+      "url_name": "vexing_retaliation",
+      "icon": "items/images/en/vexing_retaliation.d5be3839fc5eb654044a32d238c4b176.png",
+      "thumb": "items/images/en/thumbs/vexing_retaliation.d5be3839fc5eb654044a32d238c4b176.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "chroma"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

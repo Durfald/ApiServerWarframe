@@ -1,0 +1,24 @@
+{
+  "id": "6530539d32327ba8746da737",
+  "items_in_set": [
+    {
+      "id": "6530539d32327ba8746da737",
+      "url_name": "neo_k6_relic",
+      "icon": "items/images/en/neo_k6_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "thumb": "items/images/en/thumbs/neo_k6_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "tags": [
+        "relic",
+        "neo"
+      ],
+      "ducats": 0,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

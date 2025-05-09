@@ -1,0 +1,12 @@
+{
+  "id": "566751295dcbc186f0536bd1",
+  "url_name": "arcane_energize",
+  "name": "Мистическая Зарядка",
+  "spread": 50,
+  "rank": 5.0,
+  "buy_price": 400,
+  "sell_price": 450,
+  "trading_tax": 2100000,
+  "90days_trend": -0.515,
+  "48hours_trend": -0.183
+}

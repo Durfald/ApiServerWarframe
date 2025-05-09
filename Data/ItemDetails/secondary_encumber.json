@@ -1,0 +1,19 @@
+{
+  "id": "63ee00ff10125411da49e6fa",
+  "items_in_set": [
+    {
+      "id": "63ee00ff10125411da49e6fa",
+      "url_name": "secondary_encumber",
+      "icon": "items/images/en/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.png",
+      "thumb": "items/images/en/thumbs/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

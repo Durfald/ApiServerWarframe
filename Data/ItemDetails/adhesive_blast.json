@@ -1,0 +1,21 @@
+{
+  "id": "55c15448e779895dccdabe9c",
+  "items_in_set": [
+    {
+      "id": "55c15448e779895dccdabe9c",
+      "url_name": "adhesive_blast",
+      "icon": "items/images/en/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.png",
+      "thumb": "items/images/en/thumbs/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "unique",
+        "mod",
+        "rare",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

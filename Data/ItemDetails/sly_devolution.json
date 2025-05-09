@@ -1,0 +1,21 @@
+{
+  "id": "5f498a279426ed00443bd0dd",
+  "items_in_set": [
+    {
+      "id": "5f498a279426ed00443bd0dd",
+      "url_name": "sly_devolution",
+      "icon": "items/images/en/sly_devolution.3a840211142eef77bb06189bf5415f17.png",
+      "thumb": "items/images/en/thumbs/sly_devolution.3a840211142eef77bb06189bf5415f17.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "kavat",
+        "sly_vulpaphyla"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

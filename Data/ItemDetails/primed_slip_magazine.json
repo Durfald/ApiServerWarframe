@@ -1,0 +1,21 @@
+{
+  "id": "554d3f0ce779894445a848fc",
+  "items_in_set": [
+    {
+      "id": "554d3f0ce779894445a848fc",
+      "url_name": "primed_slip_magazine",
+      "icon": "items/images/en/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.png",
+      "thumb": "items/images/en/thumbs/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.128x128.png",
+      "mod_max_rank": 10,
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "ducats": 0,
+      "rarity": "legendary",
+      "trading_tax": 1000000
+    }
+  ]
+}

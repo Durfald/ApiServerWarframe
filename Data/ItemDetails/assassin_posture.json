@@ -1,0 +1,21 @@
+{
+  "id": "66fd69503a826eccf651cd5f",
+  "items_in_set": [
+    {
+      "id": "66fd69503a826eccf651cd5f",
+      "url_name": "assassin_posture",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "common",
+        "stance",
+        "claws"
+      ],
+      "ducats": 0,
+      "rarity": "common",
+      "trading_tax": 2000
+    }
+  ]
+}

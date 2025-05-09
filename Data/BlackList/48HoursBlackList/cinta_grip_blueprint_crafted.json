@@ -1,0 +1,11 @@
+{
+  "id": "645104637ec190030e510937",
+  "url_name": "cinta_grip_blueprint",
+  "name": "Синта: Рукоять (Чертеж)",
+  "liquidity": 2,
+  "subtype": "crafted",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

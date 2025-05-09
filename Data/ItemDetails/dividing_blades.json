@@ -1,0 +1,22 @@
+{
+  "id": "5be5f5a23ffcc7038857f11c",
+  "items_in_set": [
+    {
+      "id": "5be5f5a23ffcc7038857f11c",
+      "url_name": "dividing_blades",
+      "icon": "items/images/en/dividing_blades.7a0b836b0f4cdaa3132db5a08bbc01f9.png",
+      "thumb": "items/images/en/thumbs/dividing_blades.7a0b836b0f4cdaa3132db5a08bbc01f9.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "pvp",
+        "uncommon",
+        "stance",
+        "mod",
+        "dual_swords"
+      ],
+      "ducats": 0,
+      "rarity": "uncommon",
+      "trading_tax": 4000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "54a74454e779892d5e5155e4",
+  "items_in_set": [
+    {
+      "id": "54a74454e779892d5e5155e4",
+      "url_name": "hall_of_malevolence",
+      "icon": "items/images/en/hall_of_malevolence.00f7a45b319be600ecc0f40ad7b90a6c.png",
+      "thumb": "items/images/en/thumbs/hall_of_malevolence.00f7a45b319be600ecc0f40ad7b90a6c.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "warframe",
+        "mirage"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

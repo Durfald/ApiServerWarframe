@@ -1,0 +1,51 @@
+{
+  "id": "66a51c8f66bbb2aedca694b1",
+  "items_in_set": [
+    {
+      "id": "66a51c8e66bbb2aedca694b0",
+      "url_name": "akmagnus_prime_set",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "prime",
+        "secondary",
+        "weapon",
+        "set"
+      ],
+      "ducats": 60,
+      "rarity": "",
+      "trading_tax": 4000
+    },
+    {
+      "id": "66a51c8f66bbb2aedca694b1",
+      "url_name": "akmagnus_prime_blueprint",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/blueprint_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "prime",
+        "secondary",
+        "weapon",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "rarity": "",
+      "trading_tax": 2000
+    },
+    {
+      "id": "66a51c9166bbb2aedca694b2",
+      "url_name": "akmagnus_prime_link",
+      "icon": "items/unknown.png",
+      "sub_icon": "sub_icons/weapon/prime_link_128x128.png",
+      "thumb": "items/unknown.thumb.png",
+      "tags": [
+        "component",
+        "prime",
+        "weapon"
+      ],
+      "ducats": 45,
+      "rarity": "",
+      "trading_tax": 2000
+    }
+  ]
+}

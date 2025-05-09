@@ -1,0 +1,21 @@
+{
+  "id": "54a74455e779892d5e515698",
+  "items_in_set": [
+    {
+      "id": "54a74455e779892d5e515698",
+      "url_name": "critical_deceleration",
+      "icon": "items/images/en/critical_deceleration.1e6f0389e96ef70a93f09667ac7282a4.png",
+      "thumb": "items/images/en/thumbs/critical_deceleration.1e6f0389e96ef70a93f09667ac7282a4.128x128.png",
+      "mod_max_rank": 5,
+      "tags": [
+        "shotgun",
+        "mod",
+        "rare",
+        "primary"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

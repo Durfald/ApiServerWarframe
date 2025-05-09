@@ -1,0 +1,12 @@
+{
+  "id": "673516c8db3ac2cfade14a79",
+  "url_name": "trumna_prime_receiver",
+  "name": "Трумна Прайм: Приёмник",
+  "spread": 0,
+  "buy_price": 10,
+  "sell_price": 10,
+  "reason": "Минимальная разница",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

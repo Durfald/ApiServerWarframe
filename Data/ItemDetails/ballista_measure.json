@@ -1,0 +1,22 @@
+{
+  "id": "5eadc6c604d55c027d23a6e2",
+  "items_in_set": [
+    {
+      "id": "5eadc6c604d55c027d23a6e2",
+      "url_name": "ballista_measure",
+      "icon": "items/images/en/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.png",
+      "thumb": "items/images/en/thumbs/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "rare",
+        "primary",
+        "mod",
+        "archwing",
+        "archgun"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

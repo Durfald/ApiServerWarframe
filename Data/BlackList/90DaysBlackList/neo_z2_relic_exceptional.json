@@ -1,0 +1,11 @@
+{
+  "id": "6054dda45221e30057500f9f",
+  "url_name": "neo_z2_relic",
+  "name": "Реликвия Нео Z2",
+  "liquidity": 0,
+  "subtype": "exceptional",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}

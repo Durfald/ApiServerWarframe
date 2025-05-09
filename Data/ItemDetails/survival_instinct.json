@@ -1,0 +1,21 @@
+{
+  "id": "5f498a279426ed00443bd0e0",
+  "items_in_set": [
+    {
+      "id": "5f498a279426ed00443bd0e0",
+      "url_name": "survival_instinct",
+      "icon": "items/images/en/survival_instinct.2251742c1764b52671e1f5622b2b34ff.png",
+      "thumb": "items/images/en/thumbs/survival_instinct.2251742c1764b52671e1f5622b2b34ff.128x128.png",
+      "mod_max_rank": 3,
+      "tags": [
+        "mod",
+        "rare",
+        "kavat",
+        "sly_vulpaphyla"
+      ],
+      "ducats": 0,
+      "rarity": "rare",
+      "trading_tax": 8000
+    }
+  ]
+}

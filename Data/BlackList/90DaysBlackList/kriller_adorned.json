@@ -1,0 +1,11 @@
+{
+  "id": "6054de995221e3005750108d",
+  "url_name": "kriller",
+  "name": "Криллер",
+  "liquidity": 0,
+  "subtype": "adorned",
+  "reason": "Минимальная ликвидность для подтипа",
+  "trading_tax": 0,
+  "90days_trend": 0.0,
+  "48hours_trend": 0.0
+}
